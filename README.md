@@ -162,3 +162,16 @@ export default developer;
 ```
 
 <br clear="right"/>
+
+
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sathish%20Kumar"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Front-End%20Developer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF0080&height=280&section=header&text=Sathish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Front-End%20Developer&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F5FF&height=300&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20React%20Learner&descAlignY=58&descSize=20"/>
