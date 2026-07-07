@@ -104,3 +104,61 @@
 
 </p>
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```ts
+/**
+ * Developer Profile
+ * Last Updated : 2026
+ */
+
+const developer = {
+
+    name: "Sathish Kumar",
+
+    role: "Front-End Developer",
+
+    location: "India 🇮🇳",
+
+    status: "Open To Work 💼",
+
+    education: "B.Com (Computer Applications)",
+
+    currentlyLearning: [
+        "React.js ⚛️",
+        "Node.js 🚀",
+        "REST APIs 🌐"
+    ],
+
+    techStack: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+
+    currentlyBuilding: [
+        "Portfolio Website",
+        "GitHub Projects",
+        "Responsive UI"
+    ],
+
+    lookingFor: [
+        "Internship",
+        "Full-Time Opportunity",
+        "Open Source Collaboration"
+    ],
+
+    lifeMotto:
+        "Dream 💭 → Code 💻 → Build 🚀 → Repeat 🔥"
+};
+
+export default developer;
+```
+
+<br clear="right"/>
