@@ -22,16 +22,28 @@
 
 </p>
 
-## 🚀 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 **Name:** Sathish Kumar
-- 💼 **Role:** Front-End Developer
-- 🌱 **Learning:** React.js & Node.js
-- 💡 **Interested In:** Modern Web Development
-- 🎯 **Goal:** Software Engineer
-- 🤝 **Open To:** Collaboration & Open Source
-- ⚡ **Motto:** *Code • Learn • Repeat*
+```bash
+> whoami
+
+👤 Name      :: Sathish Kumar
+💼 Role      :: Front-End Developer
+🌍 Location  :: India
+
+> current_status
+
+🟢 Learning      :: React.js | Node.js
+🟢 Building      :: Modern Responsive Websites
+🟢 Exploring     :: UI/UX & Open Source
+🟢 Goal          :: Software Engineer
+🟢 Available For :: Internship | Freelance | Collaboration
+
+> life_motto
+
+"Eat 🍕 • Code 💻 • Sleep 😴 • Repeat 🔥"
+```
 
 <br clear="right"/>
