@@ -21,3 +21,17 @@
 <img src="https://img.shields.io/github/stars/sathishkcoder?label=Stars&style=for-the-badge"/>
 
 </p>
+
+## 🚀 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 👨‍💻 **Name:** Sathish Kumar
+- 💼 **Role:** Front-End Developer
+- 🌱 **Learning:** React.js & Node.js
+- 💡 **Interested In:** Modern Web Development
+- 🎯 **Goal:** Software Engineer
+- 🤝 **Open To:** Collaboration & Open Source
+- ⚡ **Motto:** *Code • Learn • Repeat*
+
+<br clear="right"/>
