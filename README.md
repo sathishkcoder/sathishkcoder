@@ -251,3 +251,5 @@ Connection Closed...
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Front-End%20Developer&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F5FF&height=300&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20React%20Learner&descAlignY=58&descSize=20"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0F2027,70:203A43,100:00F5FF&height=300&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20React%20Developer&descAlignY=58"/>
