@@ -170,6 +170,82 @@ https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Front-End%20Developer"/>
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> INITIALIZING DEVELOPER PROFILE...
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```console
+┌──────────────────────────────────────────────────────────────┐
+│           🚀 DEVELOPER TERMINAL v3.0                         │
+└──────────────────────────────────────────────────────────────┘
+
+$ boot --developer
+
+█████████████████████████████████████ 100%
+
+✔ Loading Developer Profile...
+✔ Loading Skills...
+✔ Connecting to GitHub...
+✔ Fetching Projects...
+✔ Ready!
+
+───────────────────────────────────────────────────────────────
+
+👤 USER        :: Sathish Kumar
+💼 ROLE        :: Front-End Developer
+🌍 LOCATION    :: India 🇮🇳
+🟢 STATUS      :: Open To Work
+
+───────────────────────────────────────────────────────────────
+
+🧠 CURRENTLY LEARNING
+
+⚛️ React.js
+🚀 Node.js
+🌐 REST APIs
+☁️ Git & GitHub
+
+───────────────────────────────────────────────────────────────
+
+🛠 TECH STACK
+
+HTML5        ████████████████████ 100%
+CSS3         ████████████████████ 100%
+JavaScript   ███████████████████░ 95%
+React.js     ████████████████░░░░ 80%
+Git/GitHub   █████████████████░░░ 90%
+
+───────────────────────────────────────────────────────────────
+
+🎯 CURRENT MISSION
+
+→ Build Modern Web Applications
+→ Become Software Engineer
+→ Contribute to Open Source
+→ Learn Every Day
+
+───────────────────────────────────────────────────────────────
+
+📬 AVAILABLE FOR
+
+✔ Internship
+✔ Full-Time
+✔ Freelance
+✔ Collaboration
+
+───────────────────────────────────────────────────────────────
+
+$ echo $MOTTO
+
+"Dream Big • Build Bigger • Never Stop Coding 🚀"
+
+$ logout
+
+Connection Closed...
+```
+
+<br clear="right"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF0080&height=280&section=header&text=Sathish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Front-End%20Developer&fontSize=50&fontColor=ffffff&animation=twinkling"/>
