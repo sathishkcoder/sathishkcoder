@@ -253,3 +253,14 @@ Connection Closed...
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F5FF&height=300&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20React%20Learner&descAlignY=58&descSize=20"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0F2027,70:203A43,100:00F5FF&height=300&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20React%20Developer&descAlignY=58"/>
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge"/>
+
+</p>
