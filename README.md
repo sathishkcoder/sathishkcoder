@@ -74,3 +74,11 @@ Hey 👋 I'm <span style="color:#00F7FF;">Sathish Kumar</span>
 </a>
 
 </p>
+
+const sathish = {
+  role: "Front-End Developer",
+  learning: ["React.js", "Python", "Node.js"],
+  passion: "Web Development & Photography",
+  status: "Open To Work",
+  goal: "Software Engineer",
+};
