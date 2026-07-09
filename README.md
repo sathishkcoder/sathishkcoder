@@ -64,3 +64,31 @@ export default sathish;
 ```
 
 <br clear="right"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```json
+{
+  "name": "Sathish Kumar",
+  "role": "Front-End Developer",
+  "status": "🟢 Open To Work",
+  "experience": "Fresher",
+  "location": "India 🇮🇳",
+
+  "currentlyLearning": [
+    "React.js",
+    "Python",
+    "Node.js",
+    "Full Stack Development"
+  ],
+
+  "passion": [
+    "Coding 💻",
+    "Photography 📸"
+  ],
+
+  "goal": "Become a Full Stack Developer",
+
+  "motto": "Learning Today • Building Tomorrow • Growing Every Day 🚀"
+}
+```
