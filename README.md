@@ -82,3 +82,27 @@ const sathish = {
   status: "Open To Work",
   goal: "Software Engineer",
 };
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=260&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<h2>
+🚀 Front-End Developer • Aspiring Full Stack Developer
+</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Learning+%26+Building+Modern+Web+Applications;React+%7C+JavaScript+%7C+Python;Open+To+Work;Always+Learning+New+Things"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-success?style=for-the-badge"/>
+
+</div>
