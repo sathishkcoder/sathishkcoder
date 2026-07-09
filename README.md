@@ -1,58 +1,35 @@
-# 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-```javascript
-/**
- * 👨‍💻 Developer Profile
- * Author : Sathish Kumar
- * Status : Open To Work
- */
+<table align="center">
+<tr>
+<td width="65%">
 
-class SathishKumar {
+### 🚀 Sathish Kumar
 
-    constructor() {
+🎯 **Role**  
+Front-End Developer
 
-        this.name = "Sathish Kumar";
+🌱 **Currently Learning**  
+React.js • Python • Node.js
 
-        this.role = "Front-End Developer";
+💼 **Status**  
+🟢 Open To Work
 
-        this.status = "🟢 Open To Work";
+🎯 **Goal**  
+Become a Full Stack Developer
 
-        this.experience = "Fresher";
+💻 **Passion**  
+Coding & Photography 📸
 
-        this.location = "India 🇮🇳";
+🔥 **Motto**  
+*Learning Today • Building Tomorrow • Growing Every Day*
 
-        this.goal = "Become a Full Stack Developer";
+</td>
 
-        this.learning = [
-            "React.js",
-            "Python",
-            "Node.js"
-        ];
+<td align="center" width="35%">
 
-        this.skills = [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "React.js",
-            "Git",
-            "GitHub"
-        ];
+<img src="https://skillicons.dev/icons?i=react,python,nodejs,html,css,js,git,github,vscode" />
 
-        this.passion = [
-            "Coding 💻",
-            "Photography 📸"
-        ];
-    }
-
-    sayHello() {
-        return "Learning Today • Building Tomorrow 🚀";
-    }
-
-    hireMe() {
-        return true;
-    }
-
-}
-
-export default new SathishKumar();
-```
+</td>
+</tr>
+</table>
