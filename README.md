@@ -162,3 +162,123 @@ Learning & Building Modern Web Applications
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,vscode"/>
 
 </div>
+
+<div align="center">
+
+# Sathish Kumar
+
+### Front-End Developer • Aspiring Full Stack Developer
+
+> Learning & Building Modern Web Applications 🚀
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,git,github,vscode"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ Clean Code • Responsive UI • Modern Design
+
+</div>
+
+<div align="center">
+
+```javascript
+const developer = {
+  name: "Sathish Kumar",
+  role: "Front-End Developer",
+  learning: "Full Stack Development",
+  passion: [
+    "React",
+    "Python",
+    "Photography"
+  ],
+  status: "Open To Work"
+};
+
+console.log("Welcome to my GitHub 🚀");
+```
+
+</div>
+
+<div align="center">
+
+```console
+root@sathish:~$
+
+whoami
+> Sathish Kumar
+
+cat role.txt
+> Front-End Developer
+
+cat learning.txt
+> React.js
+> Python
+> Full Stack Development
+
+echo $GOAL
+
+Become Software Engineer 🚀
+```
+
+</div>
+
+<div align="center">
+
+# ██████████████████████
+
+SATHISH KUMAR
+
+██████████████████████
+
+⚡ Front-End Developer
+
+⚛ React Enthusiast
+
+🐍 Python Learner
+
+🚀 Open To Work
+
+</div>
+
+<div align="center">
+
+┌────────────────────────────────────────────┐
+│ 👤 Sathish Kumar                           │
+│ 💻 Front-End Developer                     │
+│ ⚛ React Enthusiast                         │
+│ 🐍 Python Learner                          │
+│ 🌍 India                                   │
+│ 💼 Open To Work                            │
+└────────────────────────────────────────────┘
+
+⚡ Learning & Building Modern Web Applications
+
+</div>
+
+<div align="center">
+
+╔════════════════════════════════════╗
+
+        👑 SATHISH KUMAR
+
+Front-End Developer • React Enthusiast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚛ React
+
+🟨 JavaScript
+
+🌐 HTML/CSS
+
+🐍 Python
+
+🎨 Tailwind CSS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Learning & Building Modern Web Applications
+
+╚════════════════════════════════════╝
+
+</div>
