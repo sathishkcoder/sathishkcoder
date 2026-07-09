@@ -298,3 +298,10 @@ Front-End Developer • React Enthusiast
 </a>
 
 </p>
+
+
+# 👋 Hi, I'm Sathish Kumar
+
+### 🚀 Front-End Developer | Aspiring Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;Front-End+Developer;React.js+%7C+Python+%7C+Node.js;Open+To+Work;Always+Learning+New+Things"/>
