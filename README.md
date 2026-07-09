@@ -117,6 +117,7 @@ India 🇮🇳
 
 <img src="https://cdn-icons-png.flaticon.com/512/3474/3474360.png" width="180" alt="Laptop"/>
 
+<img src="./assets/laptop.png">
 </td>
 
 </tr>
