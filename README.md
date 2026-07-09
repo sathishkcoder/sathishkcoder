@@ -76,3 +76,19 @@
 <img src="https://img.shields.io/github/stars/sathishkcoder?label=Stars&style=for-the-badge"/>
 
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathishkcoder&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkcoder&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkcoder&theme=tokyonight"/>
+
+</p>
