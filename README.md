@@ -33,3 +33,40 @@ Coding & Photography 📸
 </td>
 </tr>
 </table>
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+## 👨‍💻 Developer Card
+
+**👤 Name**  
+Sathish Kumar
+
+**💼 Role**  
+Front-End Developer
+
+**🟢 Status**  
+Open To Work
+
+**📚 Learning**  
+React.js • Python • Node.js
+
+**🎯 Goal**  
+Become a Full Stack Developer
+
+**💻 Passion**  
+Coding 💻 & Photography 📸
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,vscode,photoshop" width="260"/>
+
+</td>
+</tr>
+</table>
+
+</div>
