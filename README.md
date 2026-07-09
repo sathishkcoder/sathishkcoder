@@ -92,3 +92,116 @@ export default sathish;
   "motto": "Learning Today • Building Tomorrow • Growing Every Day 🚀"
 }
 ```
+# 🚀 About Me
+
+```yaml
+Name: Sathish Kumar
+
+Role: Front-End Developer
+
+Status: Open To Work
+
+Experience: Fresher
+
+Learning:
+  - React.js
+  - Python
+  - Node.js
+  - Full Stack Development
+
+Goal:
+  Become a Full Stack Developer
+
+Passion:
+  - Coding 💻
+  - Photography 📸
+
+Location:
+  India 🇮🇳
+
+Motto:
+  Learning Today • Building Tomorrow • Growing Every Day 🚀
+```
+
+# 💻 ~/about_me.sh
+
+```bash
+$ whoami
+Sathish Kumar
+
+$ role
+Front-End Developer
+
+$ status
+Open To Work
+
+$ currently-learning
+React.js
+Python
+Node.js
+Full Stack Development
+
+$ goal
+Become a Full Stack Developer
+
+$ hobbies
+Coding
+Photography
+
+$ echo $MOTTO
+"Learning Today • Building Tomorrow • Growing Every Day 🚀"
+```
+
+# 🗄 Developer Profile
+
+```sql
+SELECT * FROM developers
+WHERE username = 'Sathish Kumar';
+
++----------------------+------------------------------------------+
+| Name                 | Sathish Kumar                            |
+| Role                 | Front-End Developer                      |
+| Status               | Open To Work                             |
+| Experience           | Fresher                                  |
+| Learning             | React.js, Python, Node.js                |
+| Goal                 | Become a Full Stack Developer            |
+| Passion              | Coding, Photography                      |
+| Country              | India 🇮🇳                                |
++----------------------+------------------------------------------+
+```
+
+# ⚡ Developer.js
+
+```javascript
+class Developer {
+
+  constructor() {
+    this.name = "Sathish Kumar";
+    this.role = "Front-End Developer";
+    this.status = "🟢 Open To Work";
+    this.goal = "Become a Full Stack Developer";
+  }
+
+  learning() {
+    return [
+      "React.js",
+      "Python",
+      "Node.js",
+      "Full Stack Development"
+    ];
+  }
+
+  hobbies() {
+    return [
+      "Coding 💻",
+      "Photography 📸"
+    ];
+  }
+
+  motto() {
+    return "Learning Today • Building Tomorrow • Growing Every Day 🚀";
+  }
+}
+
+export default new Developer();
+```
