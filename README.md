@@ -1,207 +1,58 @@
-<div align="center">
-
-<img src="YOUR_CUSTOM_BANNER_URL_HERE" width="100%" alt="Sathish Kumar Banner"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sathish Kumar
-
-### 🚀 Front-End Developer • Aspiring Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Open+To+Work;Always+Learning+New+Things"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge&logo=github&color=FFD700"/>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin"/>
-
-</div>
-
----
-
 # 🚀 About Me
-
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```ts
-/**
- * Developer Profile
- */
-
-const sathish = {
-
-  name: "Sathish Kumar",
-
-  role: "Front-End Developer",
-
-  status: "🟢 Open To Work",
-
-  currentFocus: "Learning Full Stack Development",
-
-  location: "India 🇮🇳",
-
-  learning: [
-    "React.js ⚛️",
-    "Python 🐍",
-    "Node.js 🚀",
-    "REST APIs 🌐"
-  ],
-
-  goal: "Become a Full Stack Developer",
-
-  passion: [
-    "Coding 💻",
-    "Photography 📸"
-  ],
-
-  motto: "Learning Today • Building Tomorrow • Growing Every Day 🚀"
-};
-
-export default sathish;
-```
-
-<br clear="right"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-```json
-{
-  "name": "Sathish Kumar",
-  "role": "Front-End Developer",
-  "status": "🟢 Open To Work",
-  "experience": "Fresher",
-  "location": "India 🇮🇳",
-
-  "currentlyLearning": [
-    "React.js",
-    "Python",
-    "Node.js",
-    "Full Stack Development"
-  ],
-
-  "passion": [
-    "Coding 💻",
-    "Photography 📸"
-  ],
-
-  "goal": "Become a Full Stack Developer",
-
-  "motto": "Learning Today • Building Tomorrow • Growing Every Day 🚀"
-}
-```
-# 🚀 About Me
-
-```yaml
-Name: Sathish Kumar
-
-Role: Front-End Developer
-
-Status: Open To Work
-
-Experience: Fresher
-
-Learning:
-  - React.js
-  - Python
-  - Node.js
-  - Full Stack Development
-
-Goal:
-  Become a Full Stack Developer
-
-Passion:
-  - Coding 💻
-  - Photography 📸
-
-Location:
-  India 🇮🇳
-
-Motto:
-  Learning Today • Building Tomorrow • Growing Every Day 🚀
-```
-
-# 💻 ~/about_me.sh
-
-```bash
-$ whoami
-Sathish Kumar
-
-$ role
-Front-End Developer
-
-$ status
-Open To Work
-
-$ currently-learning
-React.js
-Python
-Node.js
-Full Stack Development
-
-$ goal
-Become a Full Stack Developer
-
-$ hobbies
-Coding
-Photography
-
-$ echo $MOTTO
-"Learning Today • Building Tomorrow • Growing Every Day 🚀"
-```
-
-# 🗄 Developer Profile
-
-```sql
-SELECT * FROM developers
-WHERE username = 'Sathish Kumar';
-
-+----------------------+------------------------------------------+
-| Name                 | Sathish Kumar                            |
-| Role                 | Front-End Developer                      |
-| Status               | Open To Work                             |
-| Experience           | Fresher                                  |
-| Learning             | React.js, Python, Node.js                |
-| Goal                 | Become a Full Stack Developer            |
-| Passion              | Coding, Photography                      |
-| Country              | India 🇮🇳                                |
-+----------------------+------------------------------------------+
-```
-
-# ⚡ Developer.js
 
 ```javascript
-class Developer {
+/**
+ * 👨‍💻 Developer Profile
+ * Author : Sathish Kumar
+ * Status : Open To Work
+ */
 
-  constructor() {
-    this.name = "Sathish Kumar";
-    this.role = "Front-End Developer";
-    this.status = "🟢 Open To Work";
-    this.goal = "Become a Full Stack Developer";
-  }
+class SathishKumar {
 
-  learning() {
-    return [
-      "React.js",
-      "Python",
-      "Node.js",
-      "Full Stack Development"
-    ];
-  }
+    constructor() {
 
-  hobbies() {
-    return [
-      "Coding 💻",
-      "Photography 📸"
-    ];
-  }
+        this.name = "Sathish Kumar";
 
-  motto() {
-    return "Learning Today • Building Tomorrow • Growing Every Day 🚀";
-  }
+        this.role = "Front-End Developer";
+
+        this.status = "🟢 Open To Work";
+
+        this.experience = "Fresher";
+
+        this.location = "India 🇮🇳";
+
+        this.goal = "Become a Full Stack Developer";
+
+        this.learning = [
+            "React.js",
+            "Python",
+            "Node.js"
+        ];
+
+        this.skills = [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React.js",
+            "Git",
+            "GitHub"
+        ];
+
+        this.passion = [
+            "Coding 💻",
+            "Photography 📸"
+        ];
+    }
+
+    sayHello() {
+        return "Learning Today • Building Tomorrow 🚀";
+    }
+
+    hireMe() {
+        return true;
+    }
+
 }
 
-export default new Developer();
+export default new SathishKumar();
 ```
