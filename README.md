@@ -282,3 +282,19 @@ Front-End Developer • React Enthusiast
 ╚════════════════════════════════════╝
 
 </div>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Open_To_Work-success?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Available_For_Internship-blue?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge"/>
+</a>
+
+</p>
