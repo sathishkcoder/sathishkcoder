@@ -106,3 +106,59 @@ const sathish = {
 <img src="https://img.shields.io/badge/Open%20To%20Work-success?style=for-the-badge"/>
 
 </div>
+
+<div align="center">
+
+# 💻 ~/Sathish
+
+```bash
+$ whoami
+
+👤 Sathish Kumar
+
+$ role
+
+🚀 Front-End Developer
+
+$ learning
+
+⚛️ React.js
+🐍 Python
+🌐 Full Stack Development
+
+$ motto
+
+Learning & Building Modern Web Applications 🚀
+```
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github"/>
+
+</div>
+
+<div align="center">
+
+# Sathish Kumar
+
+### Front-End Developer
+
+Learning & Building Modern Web Applications
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=111111&center=true&width=800&lines=React+Developer;JavaScript+Developer;Python+Learner"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python"/>
+
+</div>
+
+<div align="center">
+
+# ⚡ SATHISH KUMAR ⚡
+
+> Front-End Developer • React Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&width=900&lines=Code.;Create.;Innovate.;Repeat.;Open+To+Work"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,vscode"/>
+
+</div>
