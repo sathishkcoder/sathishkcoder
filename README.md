@@ -439,12 +439,14 @@ India 🇮🇳
 </td>
 
 <td align="center" width="35%">
-
+  
+<br><br>
+  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb,git,github,vscode,photoshop" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 
 <img src="./assets/laptop.png">
