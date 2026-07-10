@@ -250,3 +250,39 @@ MongoDB
 <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
+# 📊 Skills Progress
+
+🟧 **Frontend**
+
+HTML5         ███████████████████░ 95%
+
+CSS3          ██████████████████░░ 90%
+
+JavaScript    ████████████████░░░ 85%
+
+React.js      ███████████████░░░░ 80%
+
+---
+
+🟢 **Backend (Learning)**
+
+Python        █████████████░░░░░░ 75%
+
+Node.js       ███████████░░░░░░░░ 65%
+
+Express.js    ██████████░░░░░░░░░ 60%
+
+MongoDB       █████████░░░░░░░░░░ 55%
+
+---
+
+🛠️ **Tools**
+
+Git           ████████████████░░░ 85%
+
+GitHub        ███████████████░░░░ 80%
+
+VS Code       ████████████████████ 100%
+
+Photoshop     ███████████████░░░░ 80%
