@@ -369,7 +369,6 @@ I'm committed to building projects, improving my skills, and contributing every 
 
 </section>
 
-```html
 <!DOCTYPE html>
 
 <html lang="en">
@@ -494,4 +493,4 @@ Photoshop
 </body>
 
 </html>
-```
+
