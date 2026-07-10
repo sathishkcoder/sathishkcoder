@@ -82,3 +82,130 @@ India 🇮🇳
 
 --------------------------------------------------------------------------------------
 
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb,git,github,vscode,photoshop&perline=6"/>
+
+</div>
+
+---
+
+# 💻 I Work With
+
+<div align="center">
+
+| Front-End | Back-End (Learning) | Tools |
+|:----------:|:-------------------:|:-----:|
+| 🌐 HTML5 | 🟢 Node.js | 💙 VS Code |
+| 🎨 CSS3 | 🚀 Express.js | 🌿 Git |
+| ⚡ JavaScript | 🍃 MongoDB | 🐙 GitHub |
+| ⚛️ React.js | 🌐 REST APIs | 🖌️ Photoshop |
+| 📱 Responsive Design | 🔗 JSON | 🎯 Figma (Learning) |
+
+</div>
+
+---
+
+# 📊 Skills Progress
+
+<table align="center">
+
+<tr>
+<td width="50%">
+
+### Front-End
+
+HTML5
+
+███████████████░░ 95%
+
+CSS3
+
+██████████████░░░ 90%
+
+JavaScript
+
+█████████████░░░░ 85%
+
+React.js
+
+████████████░░░░░ 80%
+
+</td>
+
+<td width="50%">
+
+### Learning
+
+Python
+
+██████████░░░░░░░ 70%
+
+Node.js
+
+████████░░░░░░░░░ 60%
+
+Express.js
+
+███████░░░░░░░░░░ 50%
+
+MongoDB
+
+██████░░░░░░░░░░░ 45%
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
+
+</div>
