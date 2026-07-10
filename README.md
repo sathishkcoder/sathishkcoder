@@ -368,3 +368,130 @@ I'm committed to building projects, improving my skills, and contributing every 
 <h1>🐍 Contribution Journey</h1>
 
 </section>
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>Sathish Kumar</title>
+
+</head>
+
+<body>
+
+<h1 align="center">
+  👋 Hi, I'm Sathish Kumar
+</h1>
+
+<h3 align="center">
+Front-End Developer • React Learner • Future Full Stack Developer
+</h3>
+
+<hr>
+
+<section>
+
+<h2>👨‍💻 Profile</h2>
+
+<table>
+
+<tr>
+<td>Name</td>
+<td>Sathish Kumar</td>
+</tr>
+
+<tr>
+<td>Role</td>
+<td>Front-End Developer</td>
+</tr>
+
+<tr>
+<td>Status</td>
+<td>🟢 Open To Work</td>
+</tr>
+
+<tr>
+<td>Education</td>
+<td>B.Com (Computer Applications)</td>
+</tr>
+
+<tr>
+<td>Training</td>
+<td>FITA Academy - Full Stack Development</td>
+</tr>
+
+<tr>
+<td>Learning</td>
+<td>React.js • Python • Node.js</td>
+</tr>
+
+<tr>
+<td>Goal</td>
+<td>Become a Full Stack Developer</td>
+</tr>
+
+<tr>
+<td>Passion</td>
+<td>💻 Coding • 📸 Photography</td>
+</tr>
+
+<tr>
+<td>Country</td>
+<td>🇮🇳 India</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>🛠 Tech Stack</h2>
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React.js
+
+Python
+
+Node.js
+
+Git
+
+GitHub
+
+VS Code
+
+Photoshop
+
+</section>
+
+<hr>
+
+<section>
+
+<h2>🚀 Current Focus</h2>
+
+✔ Learning React.js
+
+✔ Building Projects
+
+✔ Improving UI Design
+
+✔ Preparing for Software Jobs
+
+</section>
+
+</body>
+
+</html>
+```
