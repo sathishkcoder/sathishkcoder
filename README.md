@@ -6,7 +6,7 @@
 
 ### 🚀 Front-End Developer • Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Open+To+Work;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=F4B4003&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Open+To+Work;Always+Learning+New+Things"/>
 
 <br>
 
