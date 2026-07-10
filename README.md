@@ -357,6 +357,35 @@ Photoshop     ███████████████░░░░ 80%
 
 <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkcoder&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkcoder&theme=tokyonight"/>
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkcoder&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sathishkcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+
+
 </div>
 
 # 🏆 GitHub Trophies
