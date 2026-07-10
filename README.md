@@ -211,3 +211,59 @@ React.js
 ⭐ If you like my work, don't forget to Star my repositories.
 
 </div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🛒 E-Commerce
+
+> Modern shopping platform
+
+⚛️ React.js  
+🔥 Firebase  
+🛍️ Cart System  
+💳 Payment UI
+
+⭐ **Live Demo**  
+🔗 **Source Code**
+
+</td>
+
+<td width="33%">
+
+### 🎓 Student Management
+
+> Complete CRUD Dashboard
+
+⚛️ React.js  
+🟢 Node.js  
+🗄️ MySQL  
+🔐 Authentication
+
+⭐ **Live Demo**  
+🔗 **Source Code**
+
+</td>
+
+<td width="33%">
+
+### ✅ Task Manager
+
+> Productivity Application
+
+⚛️ React.js  
+📱 Responsive  
+🌙 Dark Mode  
+📋 CRUD
+
+⭐ **Live Demo**  
+🔗 **Source Code**
+
+</td>
+
+</tr>
+</table>
