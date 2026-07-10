@@ -82,53 +82,7 @@ India 🇮🇳
 
 --------------------------------------------------------------------------------------
 
-# 💼 ⚡ Technologies I Work With
-
-### 🌐 Front-End
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### ⚙️ Back-End (Learning)
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
-</p>
-
-# 🚀 My Development Journey
-
-<div align="center">
-
-### 🌐 Front-End
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-HTML5 • CSS3 • JavaScript • React.js
-
----
-
-### ⚙️ Currently Learning
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
-
-Python • Node.js • Express.js • MongoDB
-
----
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma"/>
-
-Git • GitHub • VS Code • Photoshop • Figma
-
-</div>
-
-
-# 💼 My Toolkit
+# 💼 # 🚀 Skills & Technologies
 
 <table align="center">
 
@@ -167,66 +121,132 @@ Git • GitHub • VS Code • Photoshop
 </tr>
 
 </table>
+---------------------------------------------------------------------------
 
+# 🛠️ Tech Stack
 
-# 📚 Learning Journey
+<div align="center">
 
-```text
-🌐 Front-End
-├── HTML5
-├── CSS3
-├── JavaScript
-└── React.js
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb,git,github,vscode,photoshop&perline=6"/>
 
-⚙️ Backend (Learning)
-├── Python
-├── Node.js
-├── Express.js
-└── MongoDB
+</div>
 
-🛠️ Tools
-├── Git
-├── GitHub
-├── VS Code
-├── Photoshop
-└── Figma
-```
+---
 
-# 🚀 Learning Roadmap
+# 💻 I Work With
 
-✅ HTML5
+<div align="center">
 
-⬇️
+| Front-End | Back-End (Learning) | Tools |
+|:----------:|:-------------------:|:-----:|
+| 🌐 HTML5 | 🟢 Node.js | 💙 VS Code |
+| 🎨 CSS3 | 🚀 Express.js | 🌿 Git |
+| ⚡ JavaScript | 🍃 MongoDB | 🐙 GitHub |
+| ⚛️ React.js | 🌐 REST APIs | 🖌️ Photoshop |
+| 📱 Responsive Design | 🔗 JSON | 🎯 Figma (Learning) |
 
-✅ CSS3
+</div>
 
-⬇️
+---
 
-✅ JavaScript
+# 📊 Skills Progress
 
-⬇️
+<table align="center">
 
-✅ React.js
+<tr>
+<td width="50%">
 
-⬇️
+### Front-End
 
-🔄 Python
+HTML5
 
-⬇️
+███████████████░░ 95%
 
-🔄 Node.js
+CSS3
 
-⬇️
+██████████████░░░ 90%
 
-🔄 Express.js
+JavaScript
 
-⬇️
+█████████████░░░░ 85%
 
-🔄 MongoDB
+React.js
 
-⬇️
+████████████░░░░░ 80%
 
-🎯 Full Stack Developer
+</td>
 
+<td width="50%">
 
+### Learning
 
+Python
+
+██████████░░░░░░░ 70%
+
+Node.js
+
+████████░░░░░░░░░ 60%
+
+Express.js
+
+███████░░░░░░░░░░ 50%
+
+MongoDB
+
+██████░░░░░░░░░░░ 45%
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
+
+</div>
