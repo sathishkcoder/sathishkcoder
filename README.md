@@ -400,7 +400,7 @@ export default sathish;
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="center" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 <table align="center">
 <tr>
@@ -444,7 +444,7 @@ India 🇮🇳
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
 
 <img src="./assets/laptop.png">
