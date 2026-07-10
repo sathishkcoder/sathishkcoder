@@ -209,3 +209,66 @@ MongoDB
 <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
+# 🚀 My Development Toolkit
+
+<div align="center">
+
+| 🌐 Front-End | ⚙️ Back-End | 🛠️ Tools |
+|:------------:|:-----------:|:---------:|
+| HTML5 | Node.js | Git |
+| CSS3 | Express.js | GitHub |
+| JavaScript | MongoDB | VS Code |
+| React.js | REST APIs | Photoshop |
+
+</div>
+
+# 💼 Skills & Technologies
+
+### 🌐 Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### ⚙️ Back-End (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
+</p>
+
+<div align="center">
+
+## 💻 My Development Toolkit
+
+🟧 **Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+---
+
+🟢 **Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python"/>
+
+---
+
+⚙️ **Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
+
+</div>
+
+💻 My Development Toolkit
+
+🌐 Front-End
+[HTML] [CSS] [JavaScript] [React]
+
+⚙️ Back-End (Learning)
+[Python] [Node] [Express] [MongoDB]
+
+🛠️ Tools
+[Git] [GitHub] [VS Code] [Photoshop]
