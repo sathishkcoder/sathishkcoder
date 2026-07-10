@@ -98,3 +98,135 @@ India 🇮🇳
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
 </p>
+
+# 🚀 My Development Journey
+
+<div align="center">
+
+### 🌐 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+HTML5 • CSS3 • JavaScript • React.js
+
+---
+
+### ⚙️ Currently Learning
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
+
+Python • Node.js • Express.js • MongoDB
+
+---
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma"/>
+
+Git • GitHub • VS Code • Photoshop • Figma
+
+</div>
+
+
+# 💼 My Toolkit
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Learning
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
+
+Python • Node • Express • MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
+
+Git • GitHub • VS Code • Photoshop
+
+</td>
+
+</tr>
+
+</table>
+
+
+# 📚 Learning Journey
+
+```text
+🌐 Front-End
+├── HTML5
+├── CSS3
+├── JavaScript
+└── React.js
+
+⚙️ Backend (Learning)
+├── Python
+├── Node.js
+├── Express.js
+└── MongoDB
+
+🛠️ Tools
+├── Git
+├── GitHub
+├── VS Code
+├── Photoshop
+└── Figma
+```
+
+# 🚀 Learning Roadmap
+
+✅ HTML5
+
+⬇️
+
+✅ CSS3
+
+⬇️
+
+✅ JavaScript
+
+⬇️
+
+✅ React.js
+
+⬇️
+
+🔄 Python
+
+⬇️
+
+🔄 Node.js
+
+⬇️
+
+🔄 Express.js
+
+⬇️
+
+🔄 MongoDB
+
+⬇️
+
+🎯 Full Stack Developer
+
+
+
