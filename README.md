@@ -347,7 +347,7 @@ MongoDB
 
 # 🚀 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 ```ts
 /**
@@ -444,7 +444,7 @@ India 🇮🇳
 
 <br><br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/3474/3474360.png" width="180" alt="Laptop"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
 
 <img src="./assets/laptop.png">
