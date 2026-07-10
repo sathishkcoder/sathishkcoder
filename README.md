@@ -389,13 +389,12 @@ Photoshop     ███████████████░░░░ 80%
 <!--         🚀 FEATURED PROJECTS              -->
 <!-- ========================================= -->
 
-```html
 <section id="featured-projects">
 
 <h1>🚀 Featured Projects</h1>
 
 </section>
-```
+
 
 <div align="center">
 
@@ -436,3 +435,7 @@ Photoshop     ███████████████░░░░ 80%
 
 </div>
 
+
+🔗 [Live Demo](https://...)
+
+🔗 [Source Code](https://github.com/sathishkcoder/ecommerce)
