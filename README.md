@@ -250,3 +250,121 @@ MongoDB
 <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
+```html
+<section id="github-snake">
+
+<h1>🐍 GitHub Contribution Snake</h1>
+
+</section>
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<br><br>
+
+💚 **Watching my contribution graph come alive, one commit at a time.**
+
+</div>
+
+```console
+Sathish@GitHub:~$ ./snake-animation
+
+Loading contribution graph...
+
+██████████████████████
+
+🐍 Snake Animation Running...
+
+✔ Daily Commits
+✔ Continuous Learning
+✔ Building Projects
+✔ Growing Every Day
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+```bash
+📂 GitHub Activity
+
+└── 🐍 Contribution Snake
+    ├── Daily Commits
+    ├── Open Source Journey
+    ├── Learning Progress
+    └── Keep Coding 🚀
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+## ✨ Contribution Journey
+
+<div align="center">
+
+> **Every commit is a step toward becoming a better developer.** 🚀
+
+<br>
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
+
+```html
+<github-activity>
+
+🐍 GitHub Contribution Snake
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Consistent Coding
+
+📚 Continuous Learning
+
+💻 Building Real Projects
+
+🌱 Growing Every Day
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</github-activity>
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+```html
+<section id="contribution-snake">
+
+<h1>🐍 Contribution Journey</h1>
+
+<p>
+Every commit tells a story of learning, consistency, and growth.
+I'm committed to building projects, improving my skills, and contributing every day.
+</p>
+
+</section>
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<section id="contribution-journey">
+
+<h1>🐍 Contribution Journey</h1>
+
+</section>
