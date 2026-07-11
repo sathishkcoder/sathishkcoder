@@ -33,6 +33,19 @@
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge&logo=github&color=FFD700"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin"/>
+
+</div>
+
+---
+
+<img src="Banner3.png.jpeg" width="100%" alt="Sathish Kumar Banner"/>
 
 <div align="center">
 
@@ -59,20 +72,6 @@
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge&logo=github&color=FFD700"/>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin"/>
-
-</div>
-
----
-
-<img src="Banner3.png.jpeg" width="100%" alt="Sathish Kumar Banner"/>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
