@@ -9,15 +9,20 @@
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<a href="#about-me">👨‍💻 About</a> •
-<a href="#tech-stack">🛠 Tech Stack</a> •
-<a href="#featured-projects">🚀 Projects</a> •
-<a href="#github-analytics">📊 Analytics</a> •
-<a href="#contact-me">📫 Contact</a>
 
+<p>
+  <a href="#-about">🏠 Home</a> •
+  <a href="#-about">👨 About</a> •
+  <a href="#-skills">💻 Skills</a> •
+  <a href="#-projects">📂 Projects</a> •
+  <a href="#-github-stats">📊 Stats</a> •
+  <a href="#-contact">📞 Contact</a>
 </p>
+
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
 
@@ -62,7 +67,7 @@
 </p>
 
 
-#about-me
+# 👨 About
 <table align="center">
 <tr>
 
@@ -120,7 +125,7 @@ India 🇮🇳
 -------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 
-# 💼 ⚡ # 🚀 Skills & Technologies
+# 💼 ⚡# 💻 Skills & Technologies
 ### 🌐 Front-End
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
@@ -140,9 +145,6 @@ India 🇮🇳
 
 <div align="center">
 
-# 👋 Hi, I'm Sathish Kumar
-
-### 🚀 Front-End Developer | React.js Developer | Web Designer
 
 <p>
   <a href="#-about">🏠 Home</a> •
@@ -157,7 +159,7 @@ India 🇮🇳
 
 ---
 
-# 👨 About
+
 
 ```text
 I'm Sathish Kumar,
