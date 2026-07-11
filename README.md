@@ -173,125 +173,138 @@ India 🇮🇳
 <!-- ====================================================== -->
 
 <!-- ====================================================== -->
-<!--                  GITHUB ANALYTICS                      -->
+<!--                    ACHIEVEMENTS                        -->
 <!-- ====================================================== -->
 
-<h1 align="center">
-📊 GitHub Analytics
-</h1>
+<h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+🥇 Built Multiple Front-End Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
+🚀 Strong Knowledge in React.js & JavaScript
+
+📱 Responsive Web Design
+
+⚡ API Integration
+
+🎨 Modern UI Development
+
+💻 Continuous Learning
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<!-- ====================================================== -->
+<!--                  CERTIFICATIONS                        -->
+<!-- ====================================================== -->
 
-<p align="center">
+# 📜 Certifications
 
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
+✅ HTML & CSS
 
-</p>
+✅ JavaScript
 
----
+✅ React.js
 
-# 📈 Contribution Activity Graph
+✅ Bootstrap
 
-<p align="center">
+✅ Git & GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
+✅ Web Development
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
+> *(Replace these with your actual certifications as you earn them.)*
 
 ---
 
-# 📊 GitHub Profile Summary
+<!-- ====================================================== -->
+<!--                  LEARNING ROADMAP                      -->
+<!-- ====================================================== -->
 
-<p align="center">
+# 📚 2026 Learning Roadmap
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Repositories Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Productivity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
+| Technology | Progress |
+|------------|----------|
+| HTML | ██████████ 100% |
+| CSS | ██████████ 100% |
+| JavaScript | █████████░ 90% |
+| React.js | █████████░ 90% |
+| TypeScript | ███████░░░ 70% |
+| Next.js | ███████░░░ 70% |
+| Node.js | ██████░░░░ 60% |
+| Express.js | ██████░░░░ 60% |
+| MongoDB | ██████░░░░ 60% |
+| System Design | ████░░░░░░ 40% |
 
 ---
 
-# 👀 Profile Visitors
+<!-- ====================================================== -->
+<!--                   OPEN SOURCE                          -->
+<!-- ====================================================== -->
 
-<p align="center">
+# 🌍 Open Source
 
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⭐ Followers
-
-<p align="center">
-
-<a href="https://github.com/sathishkofficial01?tab=followers">
-<img src="https://img.shields.io/github/followers/sathishkofficial01?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge"/>
-</a>
-
-</p>
+💙 I enjoy learning from the developer community and aim to contribute to open-source projects as I continue to grow my skills.
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ====================================================== -->
+<!--                     DEV QUOTE                          -->
+<!-- ====================================================== -->
 
-> **Create a GitHub Action to generate the snake animation.**
->
-> After enabling it, add:
->
-> ```md
-> <p align="center">
->   <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-> </p>
-> ```
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</div>
 
 ---
 
+<!-- ====================================================== -->
+<!--                  SUPPORT SECTION                       -->
+<!-- ====================================================== -->
 
+# ❤️ Support
+
+If you like my projects, please consider giving them a ⭐.
+
+It motivates me to build more awesome applications.
+
+---
+
+<!-- ====================================================== -->
+<!--                    CONTACT                             -->
+<!-- ====================================================== -->
+
+# 📫 Contact Me
+
+📧 **Email:** sathishkofficial01@gmail.com
+
+💻 **GitHub:** https://github.com/sathishkofficial01
+
+💼 **LinkedIn:** https://linkedin.com/in/sathishkofficial01
+
+🟠 **LeetCode:** https://leetcode.com/sathishkofficial01
+
+🟢 **HackerRank:** https://www.hackerrank.com/sathishkofficial01
+
+---
+
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+### 💙 Happy Coding! 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=140&section=footer"/>
+
+</div>
