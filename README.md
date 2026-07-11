@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<h1 id="#about-me" align="center">
+<a href="#about-me">
 <img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
 </a>
 
@@ -84,7 +84,7 @@
 
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">👨‍💻 #-about-me </h1>
+## 👨‍💻 About Me
 
 
 <table align="center">
