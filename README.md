@@ -84,8 +84,7 @@
 
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 👨‍💻 About Me
-
+# 👨‍💻 About Me
 
 <table align="center">
 <tr>
@@ -1429,4 +1428,14 @@ Build • Automate • Secure • Scale
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <p align="center">
+
+<a href="#about-me">👨‍💻 About</a> •
+<a href="#tech-stack">🛠 Tech Stack</a> •
+<a href="#featured-projects">🚀 Projects</a> •
+<a href="#github-analytics">📊 Analytics</a> •
+<a href="#contact-me">📫 Contact</a>
+
+</p>
 
