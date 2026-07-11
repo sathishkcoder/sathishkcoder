@@ -342,3 +342,185 @@ Build • Automate • Secure • Scale
 
 </div>
 
+<div align="center">
+
+# 👋 Hey, I'm Sathish Kumar
+
+### 💻 Front-End Developer • React.js Developer • Web Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=React.js+Developer;Frontend+Engineer;JavaScript+Enthusiast;UI%2FUX+Lover;Always+Learning+New+Things" />
+
+<img src="https://komarev.com/ghpvc/?username=sathishkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name      : Sathish Kumar
+Role      : Front-End Developer
+Experience: 2.5+ Years
+Location  : Tamil Nadu, India
+Company   : Rane Group
+Learning  : React.js • Next.js • TypeScript • AI
+Interest  : UI Design • Coding • Photography
+Goal      : Become a Senior Front-End Engineer
+```
+
+---
+
+# 🌐 Portfolio
+
+🔗 Portfolio : https://yourportfolio.vercel.app
+
+📧 Email : official.sathishk@gmail.com
+
+💼 LinkedIn :
+https://linkedin.com/in/sathishkofficial01
+
+🐙 GitHub :
+https://github.com/sathishkumar
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,sass"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,postman,npm"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🛒 E-Commerce Website
+
+React.js • Redux • Firebase
+
+⭐ Login
+
+⭐ Cart
+
+⭐ Payment
+
+⭐ Responsive
+
+---
+
+### 📚 Student Management System
+
+React + Node + MySQL
+
+✔ CRUD
+
+✔ Authentication
+
+✔ Dashboard
+
+---
+
+### ✅ Task Manager
+
+React.js
+
+✔ Add Tasks
+
+✔ Edit
+
+✔ Delete
+
+✔ Filter
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📅 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkumar&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkumar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sathishkofficial01">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/sathishkumar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:official.sathishk@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Coding is my Passion
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Keep+Learning...;Keep+Building...;Never+Stop+Coding..."/>
+
+⭐ If you like my work, don't forget to Star my repositories.
+
+</div>
