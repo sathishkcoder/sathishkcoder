@@ -581,3 +581,47 @@ Stats Here
 Achievements Here
 
 </details>
+
+
+<details>
+<summary>🚀 Featured Projects</summary>
+
+Your Projects Here
+
+</details>
+
+<details>
+<summary>📊 GitHub Analytics</summary>
+
+Stats Here
+
+</details>
+
+<details>
+<summary>🏆 Achievements</summary>
+
+Achievements Here
+
+</details>
+
+
+<details>
+<summary>🚀 Featured Projects</summary>
+
+Your Projects Here
+
+</details>
+
+<details>
+<summary>📊 GitHub Analytics</summary>
+
+Stats Here
+
+</details>
+
+<details>
+<summary>🏆 Achievements</summary>
+
+Achievements Here
+
+</details>
