@@ -26,7 +26,7 @@
 <a href="#-github-stats">
 <img src="https://img.shields.io/badge/📈%20GitHub%20Stats-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<br>
 <a href="#-achievements">
 <img src="https://img.shields.io/badge/🏆%20Achievements-6D28D9?style=for-the-badge&logo=trophy&logoColor=white"/>
 </a>
@@ -90,7 +90,7 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-
+---
 
 # 👨‍💻 About Me
 <table align="center">
