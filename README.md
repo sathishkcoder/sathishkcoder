@@ -1174,3 +1174,19 @@ Responsive UI
 📫 <a href="#-contact-me"><b>Contact</b></a>
 
 </div>
+
+<p align="center">
+
+<a href="#-about-me">🏠 Home</a> •
+<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-tech-stack">🛠 Tech Stack</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-github-analytics">📊 Analytics</a> •
+<a href="#-github-trophies">🏆 Trophies</a> •
+<a href="#-contact-me">📫 Contact</a>
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
