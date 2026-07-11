@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="#-about">
+<a href="#-aboute">
 <img src="https://img.shields.io/badge/👨‍💻%20About%20Me-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
 </a>
 
@@ -90,8 +90,6 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-``---------------------------------------------------------------`Headline complate -----------------------------------------------------------------------------------------------...
-```
 ---
 
 👨 Aboute
