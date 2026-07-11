@@ -174,3 +174,160 @@ Thanks for visiting ❤️
 Happy Coding 🚀
 
 </p>
+
+
+<div align="center">
+
+# 👋 Hey, I'm Sathish Kumar
+
+### 💻 Software Engineer • Front-End Developer • React.js Developer
+
+<img src="YOUR_BANNER_IMAGE" width="100%" alt="Banner"/>
+
+<img src="YOUR_TYPING_ANIMATION" alt="Typing Animation"/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="350" src="YOUR_GIF"/>
+
+💙 Passionate Software Engineer from India
+
+🚀 Building modern, responsive and scalable web applications
+
+⚛️ Specialized in React.js & JavaScript
+
+🌱 Currently exploring Next.js & TypeScript
+
+🎯 Goal: Become a Full Stack Developer
+
+📸 Photography Enthusiast
+
+☕ Coffee + Code = ❤️
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| 🛒 E-Commerce Website | React + Firebase Shopping Platform |
+| 🎬 Movie App | TMDB API Integration |
+| 📚 Student Management | CRUD Web Application |
+| 🌤 Weather App | Live Weather API |
+| 📝 Todo App | React Hooks Project |
+| 💼 Portfolio | Personal Portfolio Website |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Contribution Graph
+
+Snake Animation
+
+GitHub Trophies
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ Next.js
+- 🔷 TypeScript
+- 🌐 Node.js
+- ☁ Cloud Fundamentals
+- 🏗 System Design
+
+---
+
+# 🎯 Goals 2026
+
+✅ Build 10+ Production Projects
+
+✅ Master React Ecosystem
+
+✅ Learn Cloud Technologies
+
+✅ Contribute to Open Source
+
+✅ Join a Product-Based Company
+
+---
+
+# ☕ Fun Facts
+
+💻 Coding is my Passion
+
+📸 Photography Lover
+
+🎵 Music keeps me focused
+
+☕ Coffee fuels my code
+
+♟ Chess improves my thinking
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+**Happy Coding 🚀**
+
+</div>
