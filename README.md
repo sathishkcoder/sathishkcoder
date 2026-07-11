@@ -560,3 +560,24 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <p><em>Technical Lead at <a href="#">######
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+<details>
+<summary>🚀 Featured Projects</summary>
+
+Your Projects Here
+
+</details>
+
+<details>
+<summary>📊 GitHub Analytics</summary>
+
+Stats Here
+
+</details>
+
+<details>
+<summary>🏆 Achievements</summary>
+
+Achievements Here
+
+</details>
