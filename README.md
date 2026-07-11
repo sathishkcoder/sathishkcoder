@@ -190,15 +190,4 @@ intro3
 
 </div>
 
-👋 Hi, I'm Sathish Kumar
-
-💻 Software Engineer | Front-End Developer | React.js Developer
-
-🌊 Animated Wave Banner
-
-⌨️ Typing Animation
-
-[ GitHub ] [ LinkedIn ] [ Email ] [ LeetCode ] [ HackerRank ]
-
-👁️ Profile Views
 
