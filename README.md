@@ -578,11 +578,11 @@ Here are some of my favorite projects built with modern web technologies.
 >
 > After enabling it, add:
 >
-> ```md
+> md
 > <p align="center">
 >   <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 > </p>
-> ```
+> 
 
 ---
 
