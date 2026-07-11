@@ -1439,3 +1439,27 @@ Responsive UI
 </a>
 
 </p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
