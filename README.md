@@ -51,13 +51,27 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-</p>
-
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800" alt="Coding Animation"/>
-  </a>
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
