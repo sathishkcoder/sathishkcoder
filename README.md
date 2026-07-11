@@ -1152,3 +1152,25 @@ Responsive UI
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 🏠 Home • 👨‍💻 About • 🛠 Tech Stack • 🚀 Projects • 📊 Analytics • 🏆 Trophies • 📫 Contact
+
+
+<div align="center">
+
+🏠 <a href="#-about-me"><b>Home</b></a>
+&nbsp; • &nbsp;
+
+👨‍💻 <a href="#-about-me"><b>About</b></a>
+&nbsp; • &nbsp;
+
+🛠 <a href="#-tech-stack"><b>Tech Stack</b></a>
+&nbsp; • &nbsp;
+
+🚀 <a href="#-featured-projects"><b>Projects</b></a>
+&nbsp; • &nbsp;
+
+📊 <a href="#-github-analytics"><b>Analytics</b></a>
+&nbsp; • &nbsp;
+
+📫 <a href="#-contact-me"><b>Contact</b></a>
+
+</div>
