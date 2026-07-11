@@ -625,3 +625,105 @@ Stats Here
 Achievements Here
 
 </details>
+
+
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+<details>
+
+<summary>
+
+# 🚀 Featured Projects
+
+</summary>
+
+<br>
+
+## 🛒 E-Commerce Website
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### ✨ Features
+
+- 🛍 Product Listing
+- 🔍 Search & Filter
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 👤 User Authentication
+- 💳 Checkout System
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+
+### 🛠 Tech Stack
+
+`React.js` • `JavaScript` • `Firebase` • `CSS3`
+
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+<br clear="right"/>
+
+---
+
+## 🎬 Movie App
+
+### ✨ Features
+
+- 🎥 Trending Movies
+- ⭐ Ratings
+- 🔍 Search Movies
+- 🌙 Dark Theme
+
+### 🛠 Tech Stack
+
+`React.js` • `TMDB API`
+
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+---
+
+## 📚 Student Management System
+
+### ✨ Features
+
+- ➕ Add Student
+- ✏️ Edit Student
+- ❌ Delete Student
+- 🔍 Search Student
+
+### 🛠 Tech Stack
+
+`React.js` • `Firebase`
+
+---
+
+## 🌦 Weather App
+
+### 🛠 Tech Stack
+
+`JavaScript` • `Weather API`
+
+---
+
+## 📝 Todo App
+
+### 🛠 Tech Stack
+
+`React.js`
+
+---
+
+## 💼 Portfolio Website
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript`
+
+🌐 Portfolio: https://yourportfolio.com
+
+</details>
