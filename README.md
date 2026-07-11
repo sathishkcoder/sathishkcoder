@@ -35,3 +35,142 @@
   </a>
 </p>
 
+# 👋 Hi, I'm Sathish Kumar
+
+<h3 align="center">💻 Software Engineer | Front-End Developer | React.js Developer</h3>
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE">
+</p>
+
+<p align="center">
+  <img src="YOUR_TYPING_ANIMATION">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+[Portfolio] • [LinkedIn] • [GitHub] • [Email] • [Resume] • [LeetCode] • [HackerRank]
+
+---
+
+# 👨‍💻 About Me
+
+💙 Passionate Front-End Developer from India
+
+🚀 Building modern and responsive web applications
+
+🌱 Currently learning Next.js & TypeScript
+
+🎯 Goal: Become a Full Stack Developer
+
+📸 Photography Lover
+
+☕ Coffee + Code = ❤️
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • Firebase
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Figma • Vite
+
+---
+
+# 🚀 Featured Projects
+
+🛒 E-Commerce Website
+
+🎬 Movie App
+
+📚 Student Management System
+
+🌤 Weather App
+
+📝 Todo App
+
+💼 Portfolio Website
+
+---
+
+# 📊 GitHub Analytics
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Contribution Graph
+
+Snake Animation
+
+GitHub Trophies
+
+---
+
+# 📚 Currently Learning
+
+✔ Next.js
+
+✔ TypeScript
+
+✔ Node.js
+
+✔ System Design
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build 10+ Production Projects
+
+✅ Open Source Contributions
+
+✅ Learn Cloud Basics
+
+✅ Crack Product-Based Company
+
+---
+
+# ☕ Fun Facts
+
+💻 Coding is my Passion
+
+📸 Photography Lover
+
+🎵 Music While Coding
+
+☕ Coffee Addict
+
+♟ Chess Player
+
+---
+
+# 💬 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+
+Thanks for visiting ❤️
+
+Happy Coding 🚀
+
+</p>
