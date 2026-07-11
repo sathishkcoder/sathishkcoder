@@ -271,7 +271,7 @@ JavaScript and React.js.
 
 <br>
 
-<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-aboute">👨‍💻 About</a> •
 <a href="#-skills--technologies">💻 Skills</a> •
 <a href="#-featured-projects">🚀 Projects</a> •
 <a href="#-github-stats">📈 Stats</a> •
