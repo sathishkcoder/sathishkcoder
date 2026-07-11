@@ -173,114 +173,147 @@ India 🇮🇳
 <!--                     TECH STACK                         -->
 <!-- ====================================================== -->
 
-<h2 align="center">
-🛠 Tech Stack
-</h2>
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+<h1 align="center">
+🚀 Featured Projects
+</h1>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8"/>
-
+Here are some of my favorite projects built with modern web technologies.
 </p>
 
 ---
 
-# 💻 Programming Languages
+## 🛒 E-Commerce Website
 
-<p align="center">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+### ✨ Features
 
-</p>
+- 🛍 Product Listing
+- 🔍 Search & Filter
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 👤 User Authentication
+- 💳 Checkout System
+- 📱 Fully Responsive
+- ⚡ Fast Performance
 
----
+### 🛠 Tech Stack
 
-# ⚛ Front-End Development
+`React.js` • `JavaScript` • `Firebase` • `CSS3`
 
-<p align="center">
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
-
-</p>
-
----
-
-# ⚙ Back-End Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-# 🗄 Database
+## 🎬 Movie App
 
-<p align="center">
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+### ✨ Features
 
-</p>
+- 🎥 Trending Movies
+- ⭐ Ratings
+- 🔎 Search Movies
+- 📱 Responsive UI
+- 🌙 Dark Theme
 
----
+### 🛠 Tech Stack
 
-# ☁ Cloud & Deployment
+`React.js` • `TMDB API` • `CSS`
 
-<p align="center">
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
-
-</p>
-
----
-
-# 🧰 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-# 🎨 Design Tools
+## 📚 Student Management System
 
-<p align="center">
+<img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
-<img src="https://skillicons.dev/icons?i=figma,ps"/>
+### ✨ Features
 
-</p>
+- ➕ Add Students
+- ✏ Update Records
+- ❌ Delete Records
+- 🔍 Search
+- 📊 Dashboard
 
----
+### 🛠 Tech Stack
 
-# 💻 IDE & Editor
+`React.js` • `Firebase`
 
-<p align="center">
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 🖥 Operating System
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-# 📚 Currently Exploring
+## 🌦 Weather App
 
-<p align="center">
+### ✨ Features
 
-<img src="https://skillicons.dev/icons?i=redux,nextjs,typescript,nodejs"/>
+- 🌍 Current Weather
+- 📍 Location Search
+- 🌡 Temperature
+- 💨 Wind Speed
+- 💧 Humidity
 
-</p>
+### 🛠 Tech Stack
+
+`JavaScript` • `Weather API`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+---
+
+## 📝 Todo App
+
+### ✨ Features
+
+- ✅ Add Task
+- ✏ Edit Task
+- ❌ Delete Task
+- ✔ Mark Complete
+- 💾 Local Storage
+
+### 🛠 Tech Stack
+
+`React.js`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+---
+
+## 💼 Personal Portfolio
+
+### ✨ Features
+
+- 🎨 Modern UI
+- 📱 Responsive Design
+- ⚡ Smooth Animation
+- 🌙 Dark Mode
+- 📧 Contact Form
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript`
+
+🌐 Portfolio: https://yourportfolio.com
+
+📂 GitHub: https://github.com/sathishkofficial01
+
+---
+
+## 🚀 More Projects Coming Soon...
+
+⭐ Stay tuned for more awesome projects!
 
 ---
