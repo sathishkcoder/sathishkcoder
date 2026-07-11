@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="👨‍💻 #-about-me" >
+<a href="#-about-me" >
 <img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
 </a>
 
@@ -36,7 +36,7 @@
 <p align="center">
 
 <a href="👨‍💻 #-about-me">🏠 Home</a> •
-<a href="👨‍💻 #-about-me">👨‍💻 About</a> •
+<a href="#-about-me">👨‍💻 About</a> •
 <a href="#-tech-stack">🛠 Tech Stack</a> •
 <a href="#-featured-projects">🚀 Projects</a> •
 <a href="#-github-analytics">📊 Analytics</a> •
