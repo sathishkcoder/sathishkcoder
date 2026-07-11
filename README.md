@@ -645,6 +645,228 @@ const thai = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+  FEATURED PROJECTS      
+
+  <!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+<details>
+
+<summary>
+
+# 🚀 Featured Projects
+
+</summary>
+
+<br>
+
+## 🛒 E-Commerce Website
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### ✨ Features
+
+- 🛍 Product Listing
+- 🔍 Search & Filter
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 👤 User Authentication
+- 💳 Checkout System
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+
+### 🛠 Tech Stack
+
+`React.js` • `JavaScript` • `Firebase` • `CSS3`
+
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+<br clear="right"/>
+
+---
+
+## 🎬 Movie App
+
+### ✨ Features
+
+- 🎥 Trending Movies
+- ⭐ Ratings
+- 🔍 Search Movies
+- 🌙 Dark Theme
+
+### 🛠 Tech Stack
+
+`React.js` • `TMDB API`
+
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+---
+
+## 📚 Student Management System
+
+### ✨ Features
+
+- ➕ Add Student
+- ✏️ Edit Student
+- ❌ Delete Student
+- 🔍 Search Student
+
+### 🛠 Tech Stack
+
+`React.js` • `Firebase`
+
+---
+
+## 🌦 Weather App
+
+### 🛠 Tech Stack
+
+`JavaScript` • `Weather API`
+
+---
+
+## 📝 Todo App
+
+### 🛠 Tech Stack
+
+`React.js`
+
+---
+
+## 💼 Portfolio Website
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript`
+
+🌐 Portfolio: https://yourportfolio.com
+
+</details>
+----------------------------------------------------------------------------------
+--------------------------------------------------------------------
+
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
+
+<details>
+<summary>
+
+<h2>🚀 Featured Projects</h2>
+
+</summary>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Website
+
+🛍 Shopping Platform
+
+⚛ React.js
+
+🔥 Firebase
+
+📱 Responsive
+
+⭐ Production Ready
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎬 Movie App
+
+🎥 TMDB API
+
+⭐ Ratings
+
+🌙 Dark Theme
+
+⚛ React.js
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Student Management
+
+CRUD Application
+
+Firebase
+
+Authentication
+
+Responsive UI
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</details>
+
 ---
 
 --------------------------------------------------------------------
