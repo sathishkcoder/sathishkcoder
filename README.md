@@ -929,7 +929,7 @@ Responsive UI
 
 <p align="center">
 
-<a href="#-about-me">🏠 Home</a> •
+<a href="#about-me">🏠 Home</a> •
 <a href="#-about-me">👨‍💻 About</a> •
 <a href="#-tech-stack">🛠 Tech Stack</a> •
 <a href="#-featured-projects">🚀 Projects</a> •
