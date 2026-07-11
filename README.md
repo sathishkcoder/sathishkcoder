@@ -69,8 +69,6 @@
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
