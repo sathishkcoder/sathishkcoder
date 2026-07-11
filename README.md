@@ -1214,3 +1214,228 @@ Responsive UI
 </a>
 
 </p>
+-------------------------------------------------==============================================================================================================================
+===============================================
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻_About-111827?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠_Tech_Stack-1F2937?style=for-the-badge&logo=stackshare&logoColor=00C4FF"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀_Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊_Analytics-4B5563?style=for-the-badge&logo=githubactions&logoColor=00C4FF"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫_Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/👨‍💻_About-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🛠_Skills-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀_Projects-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊_Analytics-EC4899?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📫_Contact-22C55E?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻_About-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/⚡_Skills-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀_Projects-3B82F6?style=for-the-badge"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊_Stats-0EA5E9?style=for-the-badge"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫_Contact-0284C7?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/ABOUT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/TECH_STACK-00C853?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/PROJECTS-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/ANALYTICS-FF4081?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/CONTACT-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/About-FF6B6B?style=for-the-badge"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/Tech-FFD93D?style=for-the-badge"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/Projects-6BCB77?style=for-the-badge"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/Stats-4D96FF?style=for-the-badge"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/Contact-9D4EDD?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">◉ About</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="#tech-stack">◉ Tech Stack</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="#featured-projects">◉ Projects</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="#github-analytics">◉ Analytics</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="#contact-me">◉ Contact</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/About-black?style=flat-square&logo=aboutdotme&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/Tech-black?style=flat-square&logo=stackshare"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/Projects-black?style=flat-square&logo=github"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/Stats-black?style=flat-square&logo=githubactions"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/Contact-black?style=flat-square&logo=gmail"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About%20Me-0F172A?style=flat-square"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1E293B?style=flat-square"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-334155?style=flat-square"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊%20Analytics-475569?style=flat-square"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫%20Contact-64748B?style=flat-square"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About%20Me-0F172A?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Featured%20Projects-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#github-analytics">
+<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-EC4899?style=for-the-badge"/>
+</a>
+
+<a href="#contact-me">
+<img src="https://img.shields.io/badge/📫%20Contact%20Me-22C55E?style=for-the-badge"/>
+</a>
+
+</p>
