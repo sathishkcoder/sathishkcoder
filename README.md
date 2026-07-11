@@ -51,3 +51,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNjdqajc5dzU3dzY1am1kb2VrN25pbmdpbnN1dG0ycGIxMmVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
+
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800" alt="Coding Animation"/>
+  </a>
+</p>
+
