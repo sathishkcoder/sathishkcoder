@@ -9,21 +9,44 @@
 
 <br>
 
-<div align="center">
+<p align="center">
 
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/👨‍💻%20About%20Me-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
 
-<p>
-  <a href="#-home">🏠 Home</a> •
-  <a href="#-about-me">👨‍💻 About Me</a> •
-  <a href="#-skills--technologies">💻 Skills & Technologies</a> •
-  <a href="#-featured-projects">🚀 Featured Projects</a> •
-  <a href="#-github-stats">📈 GitHub Stats</a> •
-  <a href="#-achievements">🏆 Achievements</a> •
-  <a href="#-currently-learning">🌱 Currently Learning</a> •
-  <a href="#-certifications">📜 Certifications</a> •
-  <a href="#-contact-me">📞 Contact Me</a>
+<a href="#-skills--technologies">
+<img src="https://img.shields.io/badge/💻%20Skills%20%26%20Technologies-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Featured%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#-github-stats">
+<img src="https://img.shields.io/badge/📈%20GitHub%20Stats-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#-achievements">
+<img src="https://img.shields.io/badge/🏆%20Achievements-6D28D9?style=for-the-badge&logo=trophy&logoColor=white"/>
+</a>
+
+<a href="#-currently-learning">
+<img src="https://img.shields.io/badge/🌱%20Currently%20Learning-059669?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<a href="#-certifications">
+<img src="https://img.shields.io/badge/📜%20Certifications-DC2626?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="#-contact-me">
+<img src="https://img.shields.io/badge/📞%20Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-</div>
+
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
@@ -69,7 +92,7 @@
 </p>
 
 
-# 👨 About
+# 👨‍💻 About Me
 <table align="center">
 <tr>
 
@@ -147,7 +170,7 @@ India 🇮🇳
 
 <div align="center">
 
-
+# 🚀 Featured Projects
 <p>
   <a href="#-about">🏠 Home</a> •
   <a href="#-about">👨 About</a> •
@@ -224,6 +247,8 @@ JavaScript and React.js.
 💼 LinkedIn
 </a>
 
+
+
 </p>
 
 ---
@@ -233,3 +258,5 @@ JavaScript and React.js.
 ⭐ Thanks for visiting my profile ⭐
 
 </div>
+
+# 📞 Contact Me
