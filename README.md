@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Banner3" width="100%" alt="Sathish Kumar Banner"/>
+<img src="Banner3.png.jpeg" width="100%" alt="Sathish Kumar Banner"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sathish Kumar
 
