@@ -100,6 +100,18 @@
 
 <td width="50%">
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-Learner-3776AB?style=for-the-badge&logo=python"/>
+
+</p>
+
 ### 🚀 Sathish Kumar
 
 💼 **Role**  
