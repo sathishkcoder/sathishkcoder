@@ -260,3 +260,86 @@ JavaScript and React.js.
 </div>
 
 # 📞 Contact Me
+
+<div align="center">
+
+# 👋 Hi, I'm Sathish Kumar
+
+### 🚀 Front-End Developer | React.js Developer | Web Designer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Front-End+Developer;React.js+Developer;Always+Learning+New+Technologies" />
+
+<br>
+
+<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-skills--technologies">💻 Skills</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-github-stats">📈 Stats</a> •
+<a href="#-achievements">🏆 Achievements</a> •
+<a href="#-currently-learning">🌱 Learning</a> •
+<a href="#-certifications">📜 Certifications</a> •
+<a href="#-connect-with-me">📞 Contact</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+---
+
+# 💻 Skills & Technologies
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+# 📈 GitHub Stats
+
+---
+
+# 🔥 GitHub Streak
+
+---
+
+# 🏆 GitHub Trophies
+
+---
+
+# 📊 Most Used Languages
+
+---
+
+# 🌱 Currently Learning
+
+---
+
+# 📜 Certifications
+
+---
+
+# 🎯 2026 Goals
+
+---
+
+# 📸 Photography
+
+---
+
+# 💡 Fun Facts
+
+---
+
+# 📞 Connect With Me
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
