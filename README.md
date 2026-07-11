@@ -33,6 +33,19 @@
 
 </p>
 
+<p align="center">
+
+<a href="#-about-me">🏠 Home</a> •
+<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-tech-stack">🛠 Tech Stack</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-github-analytics">📊 Analytics</a> •
+<a href="#-github-trophies">🏆 Trophies</a> •
+<a href="#-contact-me">📫 Contact</a>
+
+</p>
+
+
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
