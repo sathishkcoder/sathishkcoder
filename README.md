@@ -89,18 +89,6 @@
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-</p>
----
-
-# 👨‍💻 About Me
-
-<table align="center">
-<tr>
-
-<td width="50%">
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -111,6 +99,19 @@
 <img src="https://img.shields.io/badge/Python-Learner-3776AB?style=for-the-badge&logo=python"/>
 
 </p>
+
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+---
+
+# 👨‍💻 About Me
+
+<table align="center">
+<tr>
+
+<td width="50%">
 
 ### 🚀 Sathish Kumar
 
