@@ -155,6 +155,7 @@ India 🇮🇳
 <br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 <img src="./assets/laptop.png">
@@ -172,9 +173,7 @@ India 🇮🇳
 <!--                     About complate                         -->
 <!-- ====================================================== -->
 
-## Hi there 👋 It's me Hareesh
 
-Software Engineer @ Zoho Corporation
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
