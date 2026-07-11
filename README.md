@@ -15,7 +15,7 @@
 <p>
   <a href="#-about">🏠 Home</a> •
   <a href="#-about">👨 About</a> •
-  <a href="#-skills">💻 Skills</a> •
+  <a href="#-skills-Technologies">💻 Skills</a> •
   <a href="#-projects">📂 Projects</a> •
   <a href="#-github-stats">📊 Stats</a> •
   <a href="#-contact">📞 Contact</a>
