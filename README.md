@@ -13,14 +13,16 @@
 
 
 <p>
-  <a href="#-about">🏠 Home</a> •
-  <a href="#-about">👨 About</a> •
-  <a href="#-skills">💻 Skills</a> •
-  <a href="#-projects">📂 Projects</a> •
-  <a href="#-github-stats">📊 Stats</a> •
-  <a href="#-contact">📞 Contact</a>
+  <a href="#-home">🏠 Home</a> •
+  <a href="#-about-me">👨‍💻 About Me</a> •
+  <a href="#-skills--technologies">💻 Skills & Technologies</a> •
+  <a href="#-featured-projects">🚀 Featured Projects</a> •
+  <a href="#-github-stats">📈 GitHub Stats</a> •
+  <a href="#-achievements">🏆 Achievements</a> •
+  <a href="#-currently-learning">🌱 Currently Learning</a> •
+  <a href="#-certifications">📜 Certifications</a> •
+  <a href="#-contact-me">📞 Contact Me</a>
 </p>
-
 </div>
 
 
