@@ -964,6 +964,8 @@ Responsive UI
 
 <td width="50%">
 
+
+
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
 
 </td>
@@ -973,3 +975,19 @@ Responsive UI
 </table>
 
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+</p>
