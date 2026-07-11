@@ -856,3 +856,120 @@ Certificates
 ☕
 
 </details>
+
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
+
+<details>
+<summary>
+
+<h2>🚀 Featured Projects</h2>
+
+</summary>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Website
+
+🛍 Shopping Platform
+
+⚛ React.js
+
+🔥 Firebase
+
+📱 Responsive
+
+⭐ Production Ready
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎬 Movie App
+
+🎥 TMDB API
+
+⭐ Ratings
+
+🌙 Dark Theme
+
+⚛ React.js
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Student Management
+
+CRUD Application
+
+Firebase
+
+Authentication
+
+Responsive UI
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</details>
