@@ -727,3 +727,132 @@ Achievements Here
 🌐 Portfolio: https://yourportfolio.com
 
 </details>
+▶ 🚀 Featured Projects
+
+<details open>
+<summary><b>👨‍💻 About Me</b></summary>
+
+<br>
+
+Your About Me Content
+
+</details>
+
+---
+
+<details>
+<summary><b>🛠 Tech Stack</b></summary>
+
+<br>
+
+Your Tech Stack
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
+
+<br>
+
+Your Projects
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 GitHub Analytics</b></summary>
+
+<br>
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Contribution Graph
+
+</details>
+
+---
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+
+<br>
+
+GitHub Trophies
+
+</details>
+
+---
+
+<details>
+<summary><b>📚 Learning Roadmap</b></summary>
+
+<br>
+
+Learning Roadmap
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 Goals</b></summary>
+
+<br>
+
+Goals
+
+</details>
+
+---
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+
+<br>
+
+Certificates
+
+</details>
+
+---
+
+<details>
+<summary><b>📫 Contact Me</b></summary>
+
+<br>
+
+📧 Email
+
+💻 GitHub
+
+💼 LinkedIn
+
+🟠 LeetCode
+
+🟢 HackerRank
+
+</details>
+
+---
+
+<details>
+<summary><b>☕ Fun Facts</b></summary>
+
+<br>
+
+💻 Coding
+
+📸 Photography
+
+🎵 Music
+
+☕
+
+</details>
