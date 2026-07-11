@@ -105,7 +105,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 ---
-
+<!-- ====================================================== -->
+<!--                     home complate                        -->
+<!-- ====================================================== -->
 # 👨‍💻 About Me
 
 <table align="center">
@@ -166,154 +168,130 @@ India 🇮🇳
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-------------------------------------------------------------------------------------------------------------------------------------
-
-
 <!-- ====================================================== -->
-<!--                     TECH STACK                         -->
+<!--                     About complate                         -->
 <!-- ====================================================== -->
 
 <!-- ====================================================== -->
-<!--                  FEATURED PROJECTS                     -->
+<!--                  GITHUB ANALYTICS                      -->
 <!-- ====================================================== -->
 
 <h1 align="center">
-🚀 Featured Projects
+📊 GitHub Analytics
 </h1>
 
 <p align="center">
-Here are some of my favorite projects built with modern web technologies.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🛒 E-Commerce Website
+# 🔥 GitHub Streak
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<p align="center">
 
-### ✨ Features
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
 
-- 🛍 Product Listing
-- 🔍 Search & Filter
-- 🛒 Shopping Cart
-- ❤️ Wishlist
-- 👤 User Authentication
-- 💳 Checkout System
-- 📱 Fully Responsive
-- ⚡ Fast Performance
-
-### 🛠 Tech Stack
-
-`React.js` • `JavaScript` • `Firebase` • `CSS3`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
-
-<br clear="right"/>
+</p>
 
 ---
 
-## 🎬 Movie App
+# 📈 Contribution Activity Graph
 
-<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<p align="center">
 
-### ✨ Features
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
 
-- 🎥 Trending Movies
-- ⭐ Ratings
-- 🔎 Search Movies
-- 📱 Responsive UI
-- 🌙 Dark Theme
-
-### 🛠 Tech Stack
-
-`React.js` • `TMDB API` • `CSS`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
-
-<br clear="right"/>
+</p>
 
 ---
 
-## 📚 Student Management System
+# 🏆 GitHub Trophies
 
-<img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+<p align="center">
 
-### ✨ Features
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
-- ➕ Add Students
-- ✏ Update Records
-- ❌ Delete Records
-- 🔍 Search
-- 📊 Dashboard
-
-### 🛠 Tech Stack
-
-`React.js` • `Firebase`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
-
-<br clear="right"/>
+</p>
 
 ---
 
-## 🌦 Weather App
+# 📊 GitHub Profile Summary
 
-### ✨ Features
+<p align="center">
 
-- 🌍 Current Weather
-- 📍 Location Search
-- 🌡 Temperature
-- 💨 Wind Speed
-- 💧 Humidity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
 
-### 🛠 Tech Stack
-
-`JavaScript` • `Weather API`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+</p>
 
 ---
 
-## 📝 Todo App
+# 📈 Repositories Statistics
 
-### ✨ Features
+<p align="center">
 
-- ✅ Add Task
-- ✏ Edit Task
-- ❌ Delete Task
-- ✔ Mark Complete
-- 💾 Local Storage
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
 
-### 🛠 Tech Stack
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
 
-`React.js`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+</p>
 
 ---
 
-## 💼 Personal Portfolio
+# ⚡ Productivity
 
-### ✨ Features
+<p align="center">
 
-- 🎨 Modern UI
-- 📱 Responsive Design
-- ⚡ Smooth Animation
-- 🌙 Dark Mode
-- 📧 Contact Form
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
 
-### 🛠 Tech Stack
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
 
-`HTML` • `CSS` • `JavaScript`
-
-🌐 Portfolio: https://yourportfolio.com
-
-📂 GitHub: https://github.com/sathishkofficial01
+</p>
 
 ---
 
-## 🚀 More Projects Coming Soon...
+# 👀 Profile Visitors
 
-⭐ Stay tuned for more awesome projects!
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
+
+# ⭐ Followers
+
+<p align="center">
+
+<a href="https://github.com/sathishkofficial01?tab=followers">
+<img src="https://img.shields.io/github/followers/sathishkofficial01?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create a GitHub Action to generate the snake animation.**
+>
+> After enabling it, add:
+>
+> ```md
+> <p align="center">
+>   <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+> </p>
+> ```
+
+---
+
+
