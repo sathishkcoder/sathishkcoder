@@ -1081,3 +1081,74 @@ Responsive UI
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
+
+<p align="center">
+
+<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-tech-stack">🛠 Tech Stack</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-github-analytics">📊 Analytics</a> •
+<a href="#-github-trophies">🏆 Trophies</a> •
+<a href="#-contact-me">📫 Contact</a>
+
+</p>
+
+<div align="center">
+
+🏠 <a href="#-about-me"><b>Home</b></a>
+&nbsp; • &nbsp;
+
+👨‍💻 <a href="#-about-me"><b>About</b></a>
+&nbsp; • &nbsp;
+
+🛠 <a href="#-tech-stack"><b>Tech Stack</b></a>
+&nbsp; • &nbsp;
+
+🚀 <a href="#-featured-projects"><b>Projects</b></a>
+&nbsp; • &nbsp;
+
+📊 <a href="#-github-analytics"><b>Analytics</b></a>
+&nbsp; • &nbsp;
+
+📫 <a href="#-contact-me"><b>Contact</b></a>
+
+</div>
+
+<p align="center">
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/Tech%20Stack-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#-github-analytics">
+<img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
+</a>
+
+<a href="#-contact-me">
+<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#-about-me">🏠 Home</a> •
+<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-tech-stack">🛠 Skills</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-github-analytics">📊 Stats</a> •
+<a href="#-contact-me">📬 Contact</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+🏠 Home • 👨‍💻 About • 🛠 Tech Stack • 🚀 Projects • 📊 Analytics • 🏆 Trophies • 📫 Contact
