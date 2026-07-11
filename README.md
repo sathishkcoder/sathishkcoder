@@ -1,3 +1,55 @@
+<div align="center">
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sathishkofficial01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sathishkofficial01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sathishkofficial01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sathishkofficial01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
 <!-- ====================================================== -->
 <!--                     ABOUT ME                           -->
 <!-- ====================================================== -->
@@ -162,5 +214,121 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 # 💬 Favorite Quote
 
 > **"Code. Learn. Build. Repeat."** 🚀
+
+---
+
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
+
+<h2 align="center">
+🛠 Tech Stack
+</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8"/>
+
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+
+</p>
+
+---
+
+# ⚛ Front-End Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
+
+</p>
+
+---
+
+# ⚙ Back-End Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+# 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+
+</p>
+
+---
+
+# ☁ Cloud & Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
+
+</p>
+
+---
+
+# 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm"/>
+
+</p>
+
+---
+
+# 🎨 Design Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps"/>
+
+</p>
+
+---
+
+# 💻 IDE & Editor
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 🖥 Operating System
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows"/>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=redux,nextjs,typescript,nodejs"/>
+
+</p>
 
 ---
