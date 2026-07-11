@@ -2,8 +2,9 @@
 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sathish Kumar
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNjdqajc5dzU3dzY1am1kb2VrN25pbmdpbnN1dG0ycGIxMmVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="50"/> Hi, I'm Sathish Kumar
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNjdqajc5dzU3dzY1am1kb2VrN25pbmdpbnN1dG0ycGIxMmVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200"/> Hi, I'm Sathish Kumar
+  <br>
 ### 🚀 Front-End Developer • Aspiring Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Open+To+Work;Always+Learning+New+Things"/>
