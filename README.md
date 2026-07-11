@@ -97,7 +97,7 @@
 <table align="center">
 <tr>
 
-<td width="60%">
+<td width="50%">
 
 ### 🚀 Sathish Kumar
 
