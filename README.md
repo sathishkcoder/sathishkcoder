@@ -173,23 +173,6 @@ India 🇮🇳
 <!--                     About complate                         -->
 <!-- ====================================================== -->
 
-# 💼 ⚡ # 🚀 Skills & Technologies
-### 🌐 Front-End
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### ⚙️ Back-End (Learning)
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
-</p>
-
-----------------------------------------------------------------------
  # 🚀 Skills & Technologies
 
 <table align="center">
