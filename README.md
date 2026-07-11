@@ -1190,3 +1190,27 @@ Responsive UI
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
+
+<p align="center">
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/Tech%20Stack-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#-github-analytics">
+<img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
+</a>
+
+<a href="#-contact-me">
+<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
+</a>
+
+</p>
