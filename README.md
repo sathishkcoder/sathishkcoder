@@ -5648,4 +5648,92 @@ Git • GitHub • VS Code • Figma • Photoshop
 </div>
 
 
+<h2>💼 🚀 Skills & Technologies</h2>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🌐 Front-End</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚙️ Learning</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb" />
+</p>
+
+Python • Node • Express • MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🛠️ Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" />
+</p>
+
+Git • GitHub • VS Code • Photoshop
+
+</td>
+
+</tr>
+</table>
+
+<h2>💼 🚀 Skills & Technologies</h2>
+
+<table align="center"
+style="border-collapse:collapse;border:1px solid #d0d7de;width:100%;max-width:850px;">
+
+<tr>
+
+<td align="center"
+style="border:1px solid #d0d7de;padding:25px;">
+
+<h3>🌐 Front-End</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br><br>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center"
+style="border:1px solid #d0d7de;padding:25px;">
+
+<h3>⚙️ Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb" /><br><br>
+
+Python • Node • Express • MongoDB
+
+</td>
+
+<td align="center"
+style="border:1px solid #d0d7de;padding:25px;">
+
+<h3>🛠️ Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" /><br><br>
+
+Git • GitHub • VS Code • Photoshop
+
+</td>
+
+</tr>
+
+</table>
+
 
