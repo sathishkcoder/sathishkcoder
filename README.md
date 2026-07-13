@@ -5545,4 +5545,107 @@ JavaScript Project
 
 </div>
 
+## 💼 🚀 Skills & Technologies
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🎨 Front-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+<p align="center">
+HTML • CSS • JavaScript • React • Bootstrap
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ Back-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+<p align="center">
+Node.js • Express • MongoDB • MySQL • Firebase
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
+</p>
+
+<p align="center">
+Git • GitHub • VS Code • Figma • Photoshop
+</p>
+
+</td>
+
+</tr>
+</table>
+
+# 🚀 Skills & Technologies
+
+<div align="center">
+
+| 🎨 Front-End | ⚡ Learning | 🛠️ Tools |
+|:------------:|:----------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>HTML • CSS • JavaScript • React | <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb" /><br>Python • Node • Express • MongoDB | <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" /><br>Git • GitHub • VS Code • Photoshop |
+
+</div>
+
+# 🚀 Skills & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🌐 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /><br><br>
+
+`HTML` • `CSS` • `JavaScript` • `React`
+
+</td>
+
+<td align="center">
+
+### 📚 Learning
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb" /><br><br>
+
+`Python` • `Node.js` • `Express` • `MongoDB`
+
+</td>
+
+<td align="center">
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma" /><br><br>
+
+`Git` • `GitHub` • `VS Code` • `Photoshop`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
 
