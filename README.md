@@ -202,60 +202,40 @@ Git • GitHub • VS Code • Photoshop
       ## :sparkles: Featured Projects      complated                  -->
 <!-- ====================================================== -->
 
-# 💼 ⚡ # 🚀 Skills & Technologies
-### 🌐 Front-End
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+<!-- ========================================= -->
+<!--         🚀 FEATURED PROJECTS              -->
+<!-- ========================================= -->
 
-### ⚙️ Back-End (Learning)
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
+<section id="featured-projects">
 
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
-</p>
+<h1>🚀 Featured Projects</h1>
 
-----------------------------------------------------------------------
+</section>
 
-# 💼 # 🚀 Skills & Technologies
+<div align="center">
 
-<table align="center">
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Repository |
+|:-----------|:---------------|:--------------|:-------------:|
+| 🛒 **E-Commerce Website** | Modern shopping website with responsive UI and product pages. | HTML • CSS • JavaScript • React.js | 🔗 Coming Soon |
+| 👨‍🎓 **Student Management System** | Manage student records, attendance and dashboard. | React.js • Node.js • MongoDB | 🔗 Coming Soon |
+| ✅ **To-Do List App** | Simple task manager with add, edit and delete features. | React.js | 🔗 Coming Soon |
+| 🌦️ **Weather App** | Real-time weather information using REST API. | React.js • API | 🔗 Coming Soon |
+| 💼 **Personal Portfolio** | Responsive personal portfolio website showcasing my work. | HTML • CSS • JavaScript | 🔗 Coming Soon |
 
-<tr>
+</div>
 
-<td align="center" width="33%">
+---
 
-### 🌐 Front-End
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+### 🎯 Current Focus
 
-HTML • CSS • JavaScript • React
+💻 Building Real-World Projects
 
-</td>
+⚛️ Improving React.js Skills
 
-<td align="center" width="33%">
+🐍 Learning Python & Node.js
 
-### ⚙️ Learning
+🚀 Preparing for Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
-
-Python • Node • Express • MongoDB
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
-
-Git • GitHub • VS Code • Photoshop
-
-</td>
-
-</tr>
-
-</table>
+</div>
