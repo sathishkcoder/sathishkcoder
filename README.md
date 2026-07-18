@@ -251,7 +251,7 @@ Git • GitHub • VS Code • Photoshop
 ---------------------------------------------------------------------------------------
 <div align="center">
 
-<a href="#-about-me">👨‍💻 About</a> •
+<a href="#-about-me">👨‍💻 About Me</a> •
 <a href="#-skills--technologies">🚀 Skills</a> •
 <a href="#-featured-projects">📂 Projects</a> •
 <a href="#-github-analytics">📊 Analytics</a> •
