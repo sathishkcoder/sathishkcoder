@@ -307,6 +307,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 <img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
+
 ### ✨ Features
 
 - ➕ Add Students
@@ -328,6 +329,8 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 
 ## 📝 Todo App
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ### ✨ Features
 
