@@ -79,7 +79,7 @@
 
 
 
-## :bust_in_silhouette: About Me ##
+## :bust in silhouette: About Me ##
 
 <table align="center">
 <tr>
