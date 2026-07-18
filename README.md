@@ -366,10 +366,6 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!--        ## :sparkles: Featured Projects ## complated                    -->
 <!-- =================================================================== -->
 
-<p>
-
-Take a look at my GitHub activity, coding statistics, and contribution history.
-</p>
 
 <!-- =================================================================== -->
 <!--        ## :sparkles: GitHub Analytics ##  start                    -->
@@ -396,5 +392,12 @@ Take a look at my GitHub activity, coding statistics, and contribution history.
 <!--        ## :sparkles: GitHub Analytics ## complated                    -->
 <!-- =================================================================== -->
 
+---------------------------------------------------------------------------------------
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
 
 
