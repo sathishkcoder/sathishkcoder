@@ -243,7 +243,6 @@ Git • GitHub • VS Code • Photoshop
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
 
-## :dart: About ##
 
 Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
 
