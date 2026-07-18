@@ -256,3 +256,64 @@ Figma • Postman • Photoshop
 
 </div>
 
+---------------------------------------------------------------------------
+
+<h2 align="left">🚀 Main Tech Stack</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Front-End
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+<sub>
+
+<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b><br>
+<b>React.js</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Back-End
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+<sub>
+
+<b>Node.js</b> • <b>Express.js</b><br>
+<b>MongoDB</b> • <b>MySQL</b> • <b>Firebase</b>
+
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,ps" />
+</p>
+
+<sub>
+
+<b>Git</b> • <b>GitHub</b> • <b>VS Code</b><br>
+<b>Figma</b> • <b>Postman</b> • <b>Photoshop</b>
+
+</sub>
+
+</td>
+
+</tr>
+</table>
+
