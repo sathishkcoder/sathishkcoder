@@ -303,28 +303,6 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ---
 
-## 🎬 Movie App
-
-<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
-### ✨ Features
-
-- 🎥 Trending Movies
-- ⭐ Ratings
-- 🔎 Search Movies
-- 📱 Responsive UI
-- 🌙 Dark Theme
-
-### 🛠 Tech Stack
-
-`React.js` • `TMDB API` • `CSS`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
-
-<br clear="right"/>
-
----
-
 ## 📚 Student Management System
 
 <img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
@@ -347,23 +325,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ---
 
-## 🌦 Weather App
 
-### ✨ Features
-
-- 🌍 Current Weather
-- 📍 Location Search
-- 🌡 Temperature
-- 💨 Wind Speed
-- 💧 Humidity
-
-### 🛠 Tech Stack
-
-`JavaScript` • `Weather API`
-
-[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
-
----
 
 ## 📝 Todo App
 
@@ -383,19 +345,6 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ---
 
-## 💼 Personal Portfolio
-
-### ✨ Features
-
-- 🎨 Modern UI
-- 📱 Responsive Design
-- ⚡ Smooth Animation
-- 🌙 Dark Mode
-- 📧 Contact Form
-
-### 🛠 Tech Stack
-
-`HTML` • `CSS` • `JavaScript`
 
 🌐 Portfolio: https://yourportfolio.com
 
