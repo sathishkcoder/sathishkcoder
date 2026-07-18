@@ -273,7 +273,7 @@ Photoshop     ███████████████░░░░ 80%
 </h1>
 
 <p align="center">
-Here are some of my favorite projects built with modern web technologies.
+Explore my portfolio of modern, responsive, and user-focused web applications, built with clean code and the latest web technologies.
 </p>
 
 ---
