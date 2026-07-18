@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-  <a href="#bust-in-silhoutte-about-Me">About</a> &#xa0; | &#xa0;
+  <a href="#bust-in-silhoutte-About-Me">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -79,7 +79,7 @@
 
 
 
-## :bust in silhouette: About Me ##
+## :bust_in_silhouette: About Me ##
 
 <table align="center">
 <tr>
