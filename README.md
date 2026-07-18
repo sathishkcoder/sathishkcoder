@@ -78,7 +78,8 @@
 <!--                     home complate                        -->
 <!-- ====================================================== -->
 
-## :dart: About Me ##
+
+## :dart: About ##
 
 
 <table align="center">
