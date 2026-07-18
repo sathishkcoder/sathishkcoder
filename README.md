@@ -431,54 +431,169 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 =============================================================================
 ===========================================
 
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
 
-<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ About Me
+</h2>
 
-# 👋 Hi, I'm Sathish Kumar
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### 💻 Software Engineer | Front-End Developer | React.js Developer
+💙 Passionate Software Engineer from India.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:06b6d4&text=Sathish%20Kumar&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20React.js%20Developer&descAlignY=60"/>
+💻 Front-End Developer specialized in **React.js**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Front-End+Developer;React.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+🚀 Love building modern, responsive and user-friendly web applications.
 
-</div>
+🌱 Currently learning
 
-<div align="center">
+- Next.js
+- TypeScript
+- Node.js
+- System Design
 
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🎯 Career Goal
 
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- Become a Full Stack Developer
+- Build Production-Level Applications
+- Contribute to Open Source
+- Work on Real World Products
 
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📸 Photography Lover
 
-<a href="https://leetcode.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+🎵 Music + Coffee + Coding = ❤️
 
-<a href="https://www.hackerrank.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+♟ Chess Player
 
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+☕ Coffee Addict
 
-</div>
+<br clear="right"/>
 
-👋 Hi, I'm Sathish Kumar
+---
 
-💻 Software Engineer | Front-End Developer | React.js Developer
+<!-- ====================================================== -->
+<!--                     EXPERIENCE                         -->
+<!-- ====================================================== -->
 
-🌊 Animated Wave Banner
+# 💼 Experience
 
-⌨️ Typing Animation
+### 💻 Software Engineer
 
-[ GitHub ] [ LinkedIn ] [ Email ] [ LeetCode ] [ HackerRank ]
+- Developing modern web applications.
+- Creating responsive UI using React.js.
+- Working with REST APIs.
+- Improving website performance.
+- Writing clean and reusable code.
+- Learning new technologies continuously.
 
-👁️ Profile Views
+---
 
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                    -->
+<!-- ====================================================== -->
+
+# 🌱 Currently Learning
+
+<table>
+
+<tr>
+
+<td>⚛ React.js Advanced</td>
+
+<td>██████████ 100%</td>
+
+</tr>
+
+<tr>
+
+<td>▲ Next.js</td>
+
+<td>████████░░ 80%</td>
+
+</tr>
+
+<tr>
+
+<td>🔷 TypeScript</td>
+
+<td>███████░░░ 70%</td>
+
+</tr>
+
+<tr>
+
+<td>🟢 Node.js</td>
+
+<td>██████░░░░ 60%</td>
+
+</tr>
+
+<tr>
+
+<td>☁ Cloud</td>
+
+<td>████░░░░░░ 40%</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                       GOALS                            -->
+<!-- ====================================================== -->
+
+# 🎯 Goals 2026
+
+✅ Build 10+ Production Projects
+
+✅ Master React Ecosystem
+
+✅ Learn Next.js Completely
+
+✅ Learn TypeScript
+
+✅ Learn Cloud Basics
+
+✅ Contribute to Open Source
+
+✅ Crack Product-Based Company
+
+---
+
+<!-- ====================================================== -->
+<!--                    FUN FACTS                           -->
+<!-- ====================================================== -->
+
+# ☕ Fun Facts
+
+💻 Coding is my Passion
+
+📸 Photography Lover
+
+🎵 Music while Coding
+
+☕ Coffee keeps me productive
+
+🌙 Night Owl Developer
+
+🚀 Always Learning Something New
+
+♟ Chess improves my logical thinking
+
+---
+
+<!-- ====================================================== -->
+<!--                       QUOTE                            -->
+<!-- ====================================================== -->
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+---
