@@ -316,4 +316,158 @@ Figma • Postman • Photoshop
 
 </tr>
 </table>
+-------------------------------------------------------------------------
+
+<h2>🚀 Main Tech Stack</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🌐 Front-End Studio</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+
+<br><br>
+
+<code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code>
+
+<br>
+
+<code>React.js</code> • <code>Bootstrap</code> • <code>Tailwind CSS</code>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚡ Server Side</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+<br><br>
+
+<code>Node.js</code> • <code>Express.js</code>
+
+<br>
+
+<code>MongoDB</code> • <code>MySQL</code> • <code>Firebase</code>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🛠️ Dev Workspace</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,ps" />
+
+<br><br>
+
+<code>Git</code> • <code>GitHub</code> • <code>VS Code</code>
+
+<br>
+
+<code>Figma</code> • <code>Postman</code> • <code>Photoshop</code>
+
+</td>
+
+</tr>
+</table>
+-------------------------------------------------------------------------------------------------
+<h2>💎 Core Technologies</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🎨 UI Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+
+<br><br>
+
+HTML5 • CSS3 • JavaScript<br>
+React.js • Bootstrap • Tailwind CSS
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🚀 Backend Ecosystem</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+<br><br>
+
+Node.js • Express.js<br>
+MongoDB • MySQL • Firebase
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚙️ Productivity Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,ps" />
+
+<br><br>
+
+Git • GitHub • VS Code<br>
+Figma • Postman • Photoshop
+
+</td>
+
+</tr>
+</table>
+-------------------------------------------------------------------------------------------------
+
+=============================================================================================
+
+<h2>🚀 Main Tech Stack</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
+<tr>
+
+<td align="center" width="33%" style="border: 1px solid #d0d7de; padding: 25px;">
+
+<h3>🌐 UI Engineering</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b><br>
+<b>React.js</b> • <b>Bootstrap 5</b> • <b>Tailwind CSS</b>
+
+</td>
+
+<td align="center" width="33%" style="border: 1px solid #d0d7de; padding: 25px;">
+
+<h3>⚡ Server &amp; Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+<b>Node.js</b> • <b>Express.js</b><br>
+<b>MongoDB</b> • <b>MySQL</b> • <b>Firebase</b>
+
+</td>
+
+<td align="center" width="33%" style="border: 1px solid #d0d7de; padding: 25px;">
+
+<h3>🛠️ Creator Toolkit</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,ps" />
+</p>
+
+<b>Git</b> • <b>GitHub</b> • <b>VS Code</b><br>
+<b>Figma</b> • <b>Postman</b> • <b>Adobe Photoshop</b>
+
+</td>
+
+</tr>
+</table>
 
