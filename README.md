@@ -262,57 +262,11 @@ Photoshop     ███████████████░░░░ 80%
 
 
 <!-- ========================================= -->
-<!--        ## :sparkles: Featured Projects satrt             -->
+<!--        ## :sparkles: Featured Projects ## satrt             -->
 <!-- ========================================= -->
 
 
 ## :sparkles: Featured Projects
-
-
-
-<!-- =================================================================== -->
-<!--        ## :sparkles: Featured Projects complated                    -->
-<!-- =================================================================== -->
-
-<section id="featured-projects">
-
-<h1>🚀 Featured Projects</h1>
-
-</section>
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Repository |
-|:-----------|:---------------|:--------------|:-------------:|
-| 🛒 **E-Commerce Website** | Modern shopping website with responsive UI and product pages. | HTML • CSS • JavaScript • React.js | 🔗 Coming Soon |
-| 👨‍🎓 **Student Management System** | Manage student records, attendance and dashboard. | React.js • Node.js • MongoDB | 🔗 Coming Soon |
-| ✅ **To-Do List App** | Simple task manager with add, edit and delete features. | React.js | 🔗 Coming Soon |
-| 🌦️ **Weather App** | Real-time weather information using REST API. | React.js • API | 🔗 Coming Soon |
-| 💼 **Personal Portfolio** | Responsive personal portfolio website showcasing my work. | HTML • CSS • JavaScript | 🔗 Coming Soon |
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Current Focus
-
-💻 Building Real-World Projects
-
-⚛️ Improving React.js Skills
-
-🐍 Learning Python & Node.js
-
-🚀 Preparing for Full Stack Development
-
-</div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!-- ====================================================== -->
-<!--                  FEATURED PROJECTS                     -->
-<!-- ====================================================== -->
 
 <h1 align="center">
 🚀 Featured Projects
@@ -454,4 +408,12 @@ Here are some of my favorite projects built with modern web technologies.
 ⭐ Stay tuned for more awesome projects!
 
 ---
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: Featured Projects ## complated                    -->
+<!-- =================================================================== -->
+
+
+
 
