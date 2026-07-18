@@ -224,73 +224,26 @@ Git • GitHub • VS Code • Photoshop
 <!--                    # 🚀 Skills & Technologies                        -->
 <!-- ====================================================== -->
 
-# 💼 ⚡ # 🚀 Skills & Technologies
-### 🌐 Front-End
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+<div align="center">
 
-### ⚙️ Back-End (Learning)
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
-</p>
-
-----------------------------------------------------------------------
-
-<h2 align="center">🚀 Skills & Technologies</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-
-<h3>🌐 Front-End</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /><br><br>
-
-<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b><br>
-<b>React.js</b> • <b>Bootstrap</b>
-
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://nodejs.org/" target="_blank">
-
-<h3>⚙️ Back-End</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
-
-<b>Node.js</b> • <b>Express.js</b><br>
-<b>MongoDB</b> • <b>MySQL</b>
-
+<a href="#-skills--technologies">
+  <img src="https://img.shields.io/badge/🚀%20Skills-111827?style=for-the-badge&logo=code&logoColor=white"/>
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://git-scm.com/" target="_blank">
-
-<h3>🛠️ Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" /><br><br>
-
-<b>Git</b> • <b>GitHub</b><br>
-<b>VS Code</b> • <b>Figma</b> • <b>Photoshop</b>
-
+<a href="#-featured-projects">
+  <img src="https://img.shields.io/badge/📂%20Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<a href="#-github-analytics">
+  <img src="https://img.shields.io/badge/📊%20Analytics-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</tr>
-</table>
+<a href="#-contact-me">
+  <img src="https://img.shields.io/badge/📬%20Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
