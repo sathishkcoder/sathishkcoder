@@ -12,9 +12,9 @@
 <p align="center">
   <a href="#dart-About">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="#sparkles-featured-projects">Projects</a> &#xa0; | &#xa0;
+  <a href="#bar_chart-github-analytics">Analytics</a> &#xa0; | &#xa0;
+  <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
   <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me">about me</a>
 </p>
 
@@ -192,50 +192,12 @@ Git • GitHub • VS Code • Photoshop
 
 <!-- ====================================================== -->
 <!--             ## :rocket: Main Technologies ##
-       # 🚀 Skills & Technologies                        -->
+       # 🚀 Skills & Technologies      complated                  -->
 <!-- ====================================================== -->
 
-## :wave: Introduction
+## :sparkles: Featured Projects
 
-## :bust_in_silhouette: About Me
-
-## :rocket: Main Tech Stack
-
-## :computer: Technical Skills
-
-## :hammer_and_wrench: Development Tools
-
-## :gear: Tech Stack
-
-## :file_folder: Featured Projects
-
-## :bar_chart: GitHub Analytics
-
-## :trophy: Achievements
-
-## :star2: Highlights
-
-## :seedling: Learning Journey
-
-## :mailbox: Contact Me
-
-## :handshake: Let's Connect
-
-## :link: Social Links
-
-## :globe_with_meridians: Portfolio
-
-## :books: Certifications
-
-## :dart: Goals
-
-## :zap: Experience
-
-## :fire: My Best Projects
-
-## :sparkles: Open Source
-
-## :memo: Blog
-
-
-https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me
+<!-- ====================================================== -->
+<!--             ## :rocket: Main Technologies ##
+      ## :sparkles: Featured Projects      complated                  -->
+<!-- ====================================================== -->
