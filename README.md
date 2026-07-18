@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
@@ -145,7 +145,7 @@ India 🇮🇳
 <!--                     About complate                         -->
 <!-- ====================================================== -->
 
- # 🚀 Skills & Technologies
+## :rocket: Main Tech Stack ##
 
 <table align="center">
 
@@ -237,11 +237,12 @@ Git • GitHub • VS Code • Photoshop
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
+
 
 
 Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
