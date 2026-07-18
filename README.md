@@ -195,3 +195,64 @@ Git • GitHub • VS Code • Photoshop
 <!-- ====================================================== -->
 
 
+## 🚀 Main Tech Stack
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Front-End Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+HTML5 • CSS3 • JavaScript  
+React.js • Bootstrap • Tailwind CSS
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Back-End Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+Node.js • Express.js  
+MongoDB • MySQL • Firebase
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,ps" />
+</p>
+
+Git • GitHub • VS Code  
+Figma • Postman • Photoshop
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=python,nextjs,typescript,docker" />
+
+<br><br>
+
+**Python • Next.js • TypeScript • Docker**
+
+</div>
+
