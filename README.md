@@ -236,4 +236,4 @@ Git • GitHub • VS Code • Photoshop
 ## :memo: Blog
 
 
-
+https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me
