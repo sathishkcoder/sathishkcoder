@@ -15,8 +15,10 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me">about me</a>
 </p>
-## :dart: About ##
+
+
 
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
 
