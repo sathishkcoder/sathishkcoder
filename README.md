@@ -201,3 +201,61 @@ Git • GitHub • VS Code • Photoshop
 <!--             ## :rocket: Main Technologies ##
       ## :sparkles: Featured Projects      complated                  -->
 <!-- ====================================================== -->
+
+# 💼 ⚡ # 🚀 Skills & Technologies
+### 🌐 Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### ⚙️ Back-End (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
+</p>
+
+----------------------------------------------------------------------
+
+# 💼 # 🚀 Skills & Technologies
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Learning
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
+
+Python • Node • Express • MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop"/>
+
+Git • GitHub • VS Code • Photoshop
+
+</td>
+
+</tr>
+
+</table>
