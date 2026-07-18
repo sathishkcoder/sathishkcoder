@@ -396,7 +396,15 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=algolia&no-frame=true&margin-w=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight"/>
 
 </p>
 
