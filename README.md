@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-  <a href="#:dart-About">About</a> &#xa0; | &#xa0;
+  <a href="#dart-About">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
