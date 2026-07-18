@@ -78,8 +78,7 @@
 <!--                     home complate                        -->
 <!-- ====================================================== -->
 
-
-# 👨‍💻 About Me  ## :dart: About ##
+## :dart: About Me ##
 
 
 <table align="center">
