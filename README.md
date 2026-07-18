@@ -394,18 +394,147 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ---------------------------------------------------------------------------------------
 
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+<h1 align="center">
+🚀 Featured Projects
+</h1>
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight"/>
-
+Here are some of my favorite projects built with modern web technologies.
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight"/>
+## 🛒 E-Commerce Website
 
-</p>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
+### ✨ Features
 
+- 🛍 Product Listing
+- 🔍 Search & Filter
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 👤 User Authentication
+- 💳 Checkout System
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+
+### 🛠 Tech Stack
+
+`React.js` • `JavaScript` • `Firebase` • `CSS3`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+<br clear="right"/>
+
+---
+
+## 🎬 Movie App
+
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+### ✨ Features
+
+- 🎥 Trending Movies
+- ⭐ Ratings
+- 🔎 Search Movies
+- 📱 Responsive UI
+- 🌙 Dark Theme
+
+### 🛠 Tech Stack
+
+`React.js` • `TMDB API` • `CSS`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+<br clear="right"/>
+
+---
+
+## 📚 Student Management System
+
+<img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+
+### ✨ Features
+
+- ➕ Add Students
+- ✏ Update Records
+- ❌ Delete Records
+- 🔍 Search
+- 📊 Dashboard
+
+### 🛠 Tech Stack
+
+`React.js` • `Firebase`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+<br clear="right"/>
+
+---
+
+## 🌦 Weather App
+
+### ✨ Features
+
+- 🌍 Current Weather
+- 📍 Location Search
+- 🌡 Temperature
+- 💨 Wind Speed
+- 💧 Humidity
+
+### 🛠 Tech Stack
+
+`JavaScript` • `Weather API`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+---
+
+## 📝 Todo App
+
+### ✨ Features
+
+- ✅ Add Task
+- ✏ Edit Task
+- ❌ Delete Task
+- ✔ Mark Complete
+- 💾 Local Storage
+
+### 🛠 Tech Stack
+
+`React.js`
+
+[🔗 Live Demo](https://your-demo-link.com) • [📂 Source Code](https://github.com/sathishkofficial01)
+
+---
+
+## 💼 Personal Portfolio
+
+### ✨ Features
+
+- 🎨 Modern UI
+- 📱 Responsive Design
+- ⚡ Smooth Animation
+- 🌙 Dark Mode
+- 📧 Contact Form
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript`
+
+🌐 Portfolio: https://yourportfolio.com
+
+📂 GitHub: https://github.com/sathishkofficial01
+
+---
+
+## 🚀 More Projects Coming Soon...
+
+⭐ Stay tuned for more awesome projects!
+
+---
