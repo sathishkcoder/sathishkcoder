@@ -9,9 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=900&lines=Learning+%26+Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Open+To+Work;Always+Learning+New+Things"/>
 
 <br>
-
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#bust-in-silhoutte-about-Me">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -79,8 +78,8 @@
 <!-- ====================================================== -->
 
 
-## :dart: About ##
 
+## :bust_in_silhouette: About Me ##
 
 <table align="center">
 <tr>
