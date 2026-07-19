@@ -809,3 +809,93 @@ It motivates me to build more awesome applications.
 <div align="center">
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </div>
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+  <h2>🚀 Main Tech Stack & Technologies I'm Learning</h2>
+</div>
+
+<br>
+
+<p align="center">
+
+<kbd>
+  <kbd><b>🎨 Front-End</b></kbd>
+  <br><br>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br>
+  <sub><b>HTML5</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/><br>
+  <sub><b>CSS3</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>
+  <sub><b>JavaScript</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>
+  <sub><b>React.js</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><br>
+  <sub><b>Bootstrap</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>
+  <sub><b>TypeScript</b></sub>
+
+</kbd>
+
+<kbd>
+  <kbd><b>⚙️ Back-End</b></kbd>
+  <br><br>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>
+  <sub><b>Python</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br>
+  <sub><b>Node.js</b></sub>
+
+</kbd>
+
+<kbd>
+  <kbd><b>📚 Frameworks</b></kbd>
+  <br><br>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>
+  <sub><b>React</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><br>
+  <sub><b>Bootstrap</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/><br>
+  <sub><b>Express</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/><br>
+  <sub><b>Django</b></sub>
+
+</kbd>
+
+<kbd>
+  <kbd><b>🛠️ Tools</b></kbd>
+  <br><br>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><br>
+  <sub><b>Git</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><br>
+  <sub><b>GitHub</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><br>
+  <sub><b>VS Code</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/><br>
+  <sub><b>PyCharm</b></sub>
+
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br>
+  <sub><b>MySQL</b></sub>
+
+</kbd>
+
+</p>
+
+************************************************************************************************
