@@ -18,9 +18,9 @@
 
 <br>
 <p align="center">
-  <a href="#dart-About"><img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/></a> &#xa0; | &#xa0;
+  <a href="#dart-About"><img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/></a> 
   <a href="#rocket-main-Tech-Stack"><img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
-  </a> &#xa0; | &#xa0;
+  </a> 
   <a href="#sparkles-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
   </a> &#xa0; | &#xa0;
   <a href="#bar_chart-github-analytics"><img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
