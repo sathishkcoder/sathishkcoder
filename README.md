@@ -31,7 +31,7 @@
   <a href="#bar-chart-GitHub-Analytics">
   <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-  <a href="#telephone-receiver-Contact-Me"> 
+  <a href="[#telphonee-receiver-Contact-Me"](https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#telephone_receiver-contact-me)"> 
     <img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
