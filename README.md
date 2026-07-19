@@ -394,7 +394,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Activity Graph ## start                  -->
+<!--        ## :sparkles: Contribution Activity Graph ##  &&  GitHub Streak    start                  -->
 <!-- =================================================================== -->
 
  ## :sparkles: Contribution Activity Graph ##
@@ -404,10 +404,21 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
 
 </div>
+---
+
+## :sparkles: GitHub Streak ##
+
+Track my coding consistency and daily contribution streak across GitHub.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Activity Graph ## complated                    -->
+<!--        ## :sparkles: Contribution Activity Graph ## &&& GitHub Streak       complated                    -->
 <!-- =================================================================== -->
 
 
@@ -429,6 +440,26 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!-- =================================================================== -->
 <!--        ## :sparkles: GitHub Profile Summary ## complated                    -->
 <!-- =================================================================== -->
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: GitHub Trophies ## start                    -->
+<!-- =================================================================== -->
+
+## :sparkles: GitHub Trophies ##
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: GitHub Trophies ## complated                    -->
+<!-- =================================================================== -->
+
 
 
 <!-- =================================================================== -->
@@ -463,7 +494,6 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!-- =================================================================== -->
 <!--      ## :sparkles:Repositories Statistics ## &&  Productivity ## complated                    -->
 <!-- =================================================================== -->
-
 
 <!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Snake ## start                    -->
