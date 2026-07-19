@@ -572,7 +572,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 ## 💬 Favorite Quote
 
-> ❤️"Stay curious. Keep learning. Build something amazing."❤️> 
+> ❤️"Stay curious. Keep learning. Build something amazing."❤️ > <
 
 ---
 <br>
