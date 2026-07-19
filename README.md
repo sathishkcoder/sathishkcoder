@@ -36,9 +36,6 @@
 
 </p>
 
-<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
-
-
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
