@@ -615,3 +615,102 @@ If you like my work, consider giving a ⭐ to my repositories.
 =============================================================================
 =======================================================================================================================
 
+
+<div align="center">
+
+---
+
+⭐ From <a href="https://github.com/sathishkofficial01"><b>Sathish Kumar</b></a> ❤️
+
+</div>
+
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💙 Thanks for visiting my profile! 🚀
+
+⭐ Don't forget to star my repositories.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+### 💙 Thanks for Visiting My Profile!
+
+⭐ **Happy Coding!** 🚀
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+### 💙 Thanks for Visiting My Profile!
+
+⭐ **Happy Coding!** 🚀
+
+</div>
+
+
+<div align="center">
+
+---
+
+⭐ From <a href="https://github.com/sathishkofficial01"><b>Sathish Kumar</b></a> ❤️
+
+</div>
+
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💙 Thanks for visiting my profile! 🚀
+
+⭐ Don't forget to star my repositories.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+### 💙 Thanks for Visiting My Profile!
+
+⭐ **Happy Coding!** 🚀
+
+</div>
