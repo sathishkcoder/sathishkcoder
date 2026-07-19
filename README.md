@@ -99,12 +99,7 @@
 <!-- ====================================================== -->
 <!--                     About start                 -->
 <!-- ====================================================== -->
-
-
-<details open>
-<summary><b>## :dart: About ##</b></summary>
-
-<br>
+## :dart: About ##
 
 <table align="center">
 <tr>
@@ -164,7 +159,6 @@ India 🇮🇳
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-</details>
 
 
 <!-- ====================================================== -->
