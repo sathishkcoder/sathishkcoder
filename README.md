@@ -714,3 +714,120 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ---
+
+
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
+
+<h2 align="center">
+🛠 Tech Stack
+</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8"/>
+
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+
+</p>
+
+---
+
+# ⚛ Front-End Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
+
+</p>
+
+---
+
+# ⚙ Back-End Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+# 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+
+</p>
+
+---
+
+# ☁ Cloud & Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
+
+</p>
+
+---
+
+# 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm"/>
+
+</p>
+
+---
+
+# 🎨 Design Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps"/>
+
+</p>
+
+---
+
+# 💻 IDE & Editor
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 🖥 Operating System
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows"/>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=redux,nextjs,typescript,nodejs"/>
+
+</p>
+
+---
