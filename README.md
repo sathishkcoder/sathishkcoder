@@ -577,7 +577,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 ---
 <br>
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!❤️
 
 If you like my work, consider giving a ⭐ to my repositories.
 
@@ -602,16 +602,8 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-</div>
-
-<div align="center">
-
 cpp
-/*=========================================
-      THANKS FOR VISITING MY PROFILE ❤️
-==========================================*/
+
 
 while(success != achieved)
 {
@@ -622,6 +614,11 @@ while(success != achieved)
 
 return 0;
 
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+</div>
 
 ⭐ Keep Coding • Keep Growing • Keep Smiling ⭐
 
@@ -633,7 +630,5 @@ return 0;
 <!-- ====================================================== -->
 
 
----------------------------------------------------------------------------------------
-=============================================================================
-=======================================================================================================================
+
 
