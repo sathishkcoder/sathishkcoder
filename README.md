@@ -557,7 +557,13 @@ Track my coding consistency and daily contribution streak across GitHub.
 <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
 
 </div>
----
+
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+
+
 <!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Snake ## complated                    -->
 <!-- =================================================================== -->
