@@ -292,11 +292,9 @@ Photoshop     ███████████████░░░░ 80%
 <!-- ========================================= -->
 
 
-## :sparkles: Featured Projects
+## :sparkles: Featured Projects  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em>
 
-<h1 align="center">
-🚀 Featured Projects
-</h1>
 
 <p align="center">
 Explore my portfolio of modern, responsive, and user-focused web applications, built with clean code and the latest web technologies.
