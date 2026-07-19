@@ -31,17 +31,13 @@
   <a href="#bar_chart-github-analytics">
   <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-  <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
+  <a href="#trophy-achievements">
+    <img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+    
   <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me"><img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/></a>
   
 </p>
-
-
-<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
 
