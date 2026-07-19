@@ -28,10 +28,10 @@
   <a href="#sparkles-featured-projects">
 <img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-  <a href="#bar-chart-GitHub-Analytics">
+  <a href="#bar_chart-GitHub-Analytics">
   <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-  <a href="[#telphonee-receiver-Contact-Me"](https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#telephone_receiver-contact-me)"> 
+  <a href="#telephone_receiver-Contact-Me">  
     <img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
