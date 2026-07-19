@@ -594,7 +594,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Keep+Learning...;Keep+Building...;Never+Stop+Coding..."/>
 
-⭐ If you like my work, don't forget to Star my repositories.
+
 
 </div>
 
@@ -602,24 +602,11 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <div align="center">
 
-cpp
-
-
-while(success != achieved)
-{
-    Learn();
-    Code();
-    Improve();
-}
-
-return 0;
-
-<div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 </div>
 
+⭐ If you like my work, don't forget to Star my repositories.⭐
 ⭐ Keep Coding • Keep Growing • Keep Smiling ⭐
 
 </div>
