@@ -408,7 +408,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!--        ## :sparkles: GitHub Analytics ##  start                    -->
 <!-- =================================================================== -->
 
- ## :bar chart: GitHub Analytics ## 
+ ## :barchart: GitHub Analytics ## 
 
  <p> An overview of my GitHub activity, coding statistics, and development progress. </p>
  <p align="center">
