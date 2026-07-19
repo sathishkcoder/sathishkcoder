@@ -538,6 +538,57 @@ Track my coding consistency and daily contribution streak across GitHub.
 <!--        ## :sparkles: Contribution Snake ## complated                    -->
 <!-- =================================================================== -->
 
+<!-- =================================================================== -->
+<!--        ## :sparkles: Education ## start                   -->
+<!-- =================================================================== -->
+
+## 🎓 Education  ##
+
+Bachelor of Commerce (Computer Applications)  
+🏫 Devanga Arts College  
+🎓 Madurai Kamaraj University
+
+## 📜 Professional Training ##
+
+🏫 **FITA Academy, Chennai**
+
+**Full Stack Web Development**
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Python
+- Django
+- MySQL
+- Git & GitHub
+
+---
+
+<!-- =================================================================== -->
+<!--        ## :sparkles:  Education ## complated                    -->
+<!-- =================================================================== -->
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: Photography ## start                   -->
+<!-- =================================================================== -->
+
+## 📸 Photography ##
+
+> *"Capturing moments. Creating memories. Telling stories. through the lens, one frame at a time."*
+
+<div align="center">
+  📷 Photography is more than a hobby—it's my way of telling stories.
+</div>
+
+---
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: Photography  ## complated                    -->
+<!-- =================================================================== -->
+
 <!-- ====================================================== -->
 <!--       ## :telephone_receiver: Contact Me ## START                          -->
 <!-- ====================================================== -->
