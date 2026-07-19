@@ -18,8 +18,9 @@
 
 <br>
 <p align="center">
-  <a href="#dart-About">About>
-  <img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/></a> &#xa0; | &#xa0;
+  <a href="#dart-About">
+  <img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/>
+  </a> &#xa0; | &#xa0;
   <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
   <a href="#sparkles-featured-projects">Projects</a> &#xa0; | &#xa0;
   <a href="#bar_chart-github-analytics">Analytics</a> &#xa0; | &#xa0;
