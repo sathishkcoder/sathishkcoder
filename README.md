@@ -230,6 +230,7 @@ India 🇮🇳
 <div align="center">
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </div>
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
@@ -279,7 +280,9 @@ VS Code       ████████████████████ 100%
 
 Photoshop     ███████████████░░░░ 80%
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <!-- ====================================================== -->
 <!--    ## :rocket: Skills Progress ##    complated           -->
@@ -383,7 +386,9 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ⭐ Stay tuned for more awesome projects!
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 
 <!-- =================================================================== -->
@@ -412,6 +417,10 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 </p>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+
 <!-- =================================================================== -->
 <!--        ## :sparkles: GitHub Analytics ## complated                    -->
 <!-- =================================================================== -->
@@ -428,7 +437,10 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
 
 </div>
----
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 ## :sparkles: GitHub Streak ##
 
@@ -440,7 +452,11 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+
+
 <!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Activity Graph ## &&& GitHub Streak       complated                    -->
 <!-- =================================================================== -->
@@ -461,7 +477,9 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 
 <!-- =================================================================== -->
@@ -481,7 +499,9 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <!-- =================================================================== -->
 <!--        ## :sparkles: GitHub Trophies ## complated                    -->
@@ -503,7 +523,9 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 ## :sparkles: Productivity   ##
 
@@ -515,7 +537,9 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 
 <!-- =================================================================== -->
@@ -563,7 +587,9 @@ Bachelor of Commerce (Computer Applications)
 - MySQL
 - Git & GitHub
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <!-- =================================================================== -->
 <!--        ## :sparkles:  Education ## complated                    -->
@@ -582,7 +608,9 @@ Bachelor of Commerce (Computer Applications)
   📷 Photography is more than a hobby—it's my way of telling stories.
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 
 <!-- =================================================================== -->
@@ -606,7 +634,10 @@ Bachelor of Commerce (Computer Applications)
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <!-- =================================================================== -->
 <!--        ## :telephone_receiver: Contact Me ## complated                    -->
@@ -625,7 +656,10 @@ Bachelor of Commerce (Computer Applications)
 
 > ❤️"Stay curious. Keep learning. Build something amazing."❤️
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+
 <br>
 
 
@@ -658,74 +692,16 @@ Bachelor of Commerce (Computer Applications)
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 
 <!-- ====================================================== -->
 <!--                      FOOTER  COMPLATED                       -->
 <!-- ====================================================== -->
 
---------------------------------------------------------------------------------------------------------
-****************************************************************************************************************************************
 
 
 
-## 📸 Photography
 
-> *"Capturing moments through the lens, one frame at a time."*
-
-<div align="center">
-  📷 Photography is more than a hobby—it's my way of telling stories.
-</div>
-
----
-
-## 📷 My Photography Journey
-
-> *"Every picture tells a story worth remembering."*
-
-🌅 Nature • 🌆 Cityscapes • 🌃 Night Photography • 📱 Mobile Photography
-
----
-
-## 📸 Photography
-
-✨ Turning ordinary moments into lasting memories.
-
----
-
-## 📷 Behind the Lens
-
-> *"Photography freezes time and preserves emotions forever."*
-
-📸 Nature • Portrait • Street • Travel
-
----
-
-
-## 💻📸 Code & Capture
-
-```text
-while(alive){
-    Code();
-    Capture();
-    Create();
-}
-```
-
-> *"I build with code and tell stories through my camera."*
-
----
-
-
-## 📸 Photography
-
-> *"Capturing moments. Creating memories. Telling stories."*
-
-<div align="center">
-
-📷 **Photography is not just my hobby — it's my passion.**
-
-</div>
-
----
