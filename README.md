@@ -834,119 +834,130 @@ It motivates me to build more awesome applications.
 ----------------------------------------------------------------------------------
 --------------------------------------------------------------------
 
-<!-- ====================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-<details>
-<summary>
-
-<h2>🚀 Featured Projects</h2>
-
-</summary>
+<details open>
+<summary><b>👨‍💻 About Me</b></summary>
 
 <br>
 
-<table>
+Your About Me Content
 
-<tr>
-
-<td width="50%">
-
-### 🛒 E-Commerce Website
-
-🛍 Shopping Platform
-
-⚛ React.js
-
-🔥 Firebase
-
-📱 Responsive
-
-⭐ Production Ready
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
+</details>
 
 ---
 
-<table>
+<details>
+<summary><b>🛠 Tech Stack</b></summary>
 
-<tr>
+<br>
 
-<td width="50%">
+Your Tech Stack
 
-### 🎬 Movie App
-
-🎥 TMDB API
-
-⭐ Ratings
-
-🌙 Dark Theme
-
-⚛ React.js
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
+</details>
 
 ---
 
-<table>
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
 
-<tr>
+<br>
 
-<td width="50%">
+Your Projects
 
-### 📚 Student Management
+</details>
 
-CRUD Application
+---
 
-Firebase
+<details>
+<summary><b>📊 GitHub Analytics</b></summary>
 
-Authentication
+<br>
 
-Responsive UI
+GitHub Stats
 
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+GitHub Streak
 
-</td>
+Top Languages
 
-<td width="50%">
+Contribution Graph
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
+</details>
 
-</td>
+---
 
-</tr>
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
 
-</table>
+<br>
+
+GitHub Trophies
+
+</details>
+
+---
+
+<details>
+<summary><b>📚 Learning Roadmap</b></summary>
+
+<br>
+
+Learning Roadmap
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 Goals</b></summary>
+
+<br>
+
+Goals
+
+</details>
+
+---
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+
+<br>
+
+Certificates
+
+</details>
+
+---
+
+<details>
+<summary><b>📫 Contact Me</b></summary>
+
+<br>
+
+📧 Email
+
+💻 GitHub
+
+💼 LinkedIn
+
+🟠 LeetCode
+
+🟢 HackerRank
+
+</details>
+
+---
+
+<details>
+<summary><b>☕ Fun Facts</b></summary>
+
+<br>
+
+💻 Coding
+
+📸 Photography
+
+🎵 Music
+
+☕
 
 </details>
