@@ -729,110 +729,224 @@ It motivates me to build more awesome applications.
 ************************************************************************************************************************
 
 
-<p align="center">
+  FEATURED PROJECTS      
 
-<a href="#-about-me">
-<img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/>
-</a>
+  <!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
 
-<a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Tech%20Stack-06B6D4?style=for-the-badge"/>
-</a>
+<details>
 
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
-</a>
+<summary>
 
-<a href="#-github-analytics">
-<img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
-</a>
+# 🚀 Featured Projects
 
+</summary>
 
+<br>
 
-<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
+## 🛒 E-Commerce Website
 
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<a href="#-contact-me">
+### ✨ Features
 
+- 🛍 Product Listing
+- 🔍 Search & Filter
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 👤 User Authentication
+- 💳 Checkout System
+- 📱 Fully Responsive
+- ⚡ Fast Performance
 
-<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
-</a>
+### 🛠 Tech Stack
 
-</p>
+`React.js` • `JavaScript` • `Firebase` • `CSS3`
 
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+<br clear="right"/>
+
+---
+
+## 🎬 Movie App
+
+### ✨ Features
+
+- 🎥 Trending Movies
+- ⭐ Ratings
+- 🔍 Search Movies
+- 🌙 Dark Theme
+
+### 🛠 Tech Stack
+
+`React.js` • `TMDB API`
+
+🔗 **Live Demo:** https://your-demo-link.com
+
+📂 **Source Code:** https://github.com/sathishkofficial01
+
+---
+
+## 📚 Student Management System
+
+### ✨ Features
+
+- ➕ Add Student
+- ✏️ Edit Student
+- ❌ Delete Student
+- 🔍 Search Student
+
+### 🛠 Tech Stack
+
+`React.js` • `Firebase`
+
+---
+
+## 🌦 Weather App
+
+### 🛠 Tech Stack
+
+`JavaScript` • `Weather API`
+
+---
+
+## 📝 Todo App
+
+### 🛠 Tech Stack
+
+`React.js`
+
+---
+
+## 💼 Portfolio Website
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript`
+
+🌐 Portfolio: https://yourportfolio.com
+
+</details>
+----------------------------------------------------------------------------------
 --------------------------------------------------------------------
 
-<p align="center">
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
 
-<a href="#-about-me">🏠 Home</a> •
-<a href="#-about-me">👨‍💻 About</a> •
-<a href="#-tech-stack">🛠 Skills</a> •
-<a href="#-featured-projects">🚀 Projects</a> •
-<a href="#-github-analytics">📊 Stats</a> •
-<a href="#-contact-me">📬 Contact</a>
+<details>
+<summary>
 
-</p>
+<h2>🚀 Featured Projects</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</summary>
 
---------------------------------------------
+<br>
 
+<table>
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
+<tr>
 
-<p align="center">
+<td width="50%">
 
-<a href="#-about-me">🏠 Home</a> •
-<a href="#-about-me">👨‍💻 About</a> •
-<a href="#-tech-stack">🛠 Tech Stack</a> •
-<a href="#-featured-projects">🚀 Projects</a> •
-<a href="#-github-analytics">📊 Analytics</a> •
-<a href="#-github-trophies">🏆 Trophies</a> •
-<a href="#-contact-me">📫 Contact</a>
+### 🛒 E-Commerce Website
 
-</p>
+🛍 Shopping Platform
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-</p>
+⚛ React.js
 
---------------------------------------------------------------------
+🔥 Firebase
 
+📱 Responsive
 
-<p align="center">
+⭐ Production Ready
 
-<a href="#about-me">
-<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#tech-stack">
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎬 Movie App
+
+🎥 TMDB API
+
+⭐ Ratings
+
+🌙 Dark Theme
+
+⚛ React.js
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#featured-projects">
-<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Student Management
+
+CRUD Application
+
+Firebase
+
+Authentication
+
+Responsive UI
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#github-analytics">
-<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
 
-<a href="#contact-me">
-<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<td width="50%">
 
-</p>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
 
-<img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/>
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
+</td>
+
+</tr>
+
+</table>
+
+</details>
