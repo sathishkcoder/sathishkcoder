@@ -617,35 +617,64 @@ Track my coding consistency and daily contribution streak across GitHub.
 --------------------------------------------------------------------------------------------------------
 ****************************************************************************************************************************************
 
-## 📅 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-## 📅 Coding Activity
+## 📸 Photography
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=github-compact&hide_border=true" width="100%">
-</p>
+> *"Capturing moments through the lens, one frame at a time."*
 
-## 📅 Coding Activity
+<div align="center">
+  📷 Photography is more than a hobby—it's my way of telling stories.
+</div>
+
+---
+
+## 📷 My Photography Journey
+
+> *"Every picture tells a story worth remembering."*
+
+🌅 Nature • 🌆 Cityscapes • 🌃 Night Photography • 📱 Mobile Photography
+
+---
+
+## 📸 Photography
+
+✨ Turning ordinary moments into lasting memories.
+
+---
+
+## 📷 Behind the Lens
+
+> *"Photography freezes time and preserves emotions forever."*
+
+📸 Nature • Portrait • Street • Travel
+
+---
+
+
+## 💻📸 Code & Capture
+
+```text
+while(alive){
+    Code();
+    Capture();
+    Create();
+}
+```
+
+> *"I build with code and tell stories through my camera."*
+
+---
+
+
+## 📸 Photography
+
+> *"Capturing moments. Creating memories. Telling stories."*
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=react-dark&hide_border=true"/>
+📷 **Photography is not just my hobby — it's my passion.**
 
 </div>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=react-dark&hide_border=true"/>
-
-</div>
+---
