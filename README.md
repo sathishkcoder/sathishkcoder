@@ -412,6 +412,23 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 
 <!-- =================================================================== -->
+<!--        ## :sparkles: Contribution Activity Graph ## start                    -->
+<!-- =================================================================== -->
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles: Contribution Activity Graph ## complated                    -->
+<!-- =================================================================== -->
+
+<!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Snake ## start                    -->
 <!-- =================================================================== -->
 
