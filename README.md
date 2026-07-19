@@ -30,6 +30,7 @@
   
   <a href="#bar_chart-github-analytics">
   <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
   <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
   <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me"><img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/></a>
   
