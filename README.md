@@ -28,7 +28,7 @@
   <a href="#sparkles-featured-projects">
 <img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-  <a href="#bar_chart-github-analytics">
+  <a href="#bar-chart-GitHub-Analytics">
   <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
   
   <a href="#trophy-achievements">
@@ -105,7 +105,6 @@
 <!-- ====================================================== -->
 <!--                     About start                 -->
 <!-- ====================================================== -->
-
 
 ## :dart: About ##
 
@@ -403,7 +402,19 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!-- =================================================================== -->
 <!--        ## :sparkles: GitHub Analytics ##  start                    -->
 <!-- =================================================================== -->
+************************************************************************************
 
+  <a href="#dart-About">
+    <img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/></a> 
+## :dart: About ##
+
+
+ <a href="#bar_chart-github-analytics">
+  <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+ ## :barchart: GitHub Analytics ## 
+
+************************************************************************************
  ## :barchart: GitHub Analytics ## 
 
  <p> An overview of my GitHub activity, coding statistics, and development progress. </p>
