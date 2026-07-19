@@ -523,8 +523,9 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 > "Stay curious. Keep learning. Build something amazing."
 
-<br>
 ---
+<br>
+
 ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
