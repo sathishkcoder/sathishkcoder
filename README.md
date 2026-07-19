@@ -572,58 +572,20 @@ Track my coding consistency and daily contribution streak across GitHub.
 
 ## 💬 Favorite Quote
 
-> "Stay curious. Keep learning. Build something amazing."
+> ❤️"Stay curious. Keep learning. Build something amazing."❤️
 
 ---
 <br>
 
-⭐ Thanks for visiting my profile!❤️
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-🚀 Happy Coding!
-
-</div>
----
-
 
 
 <div align="center">
 
-### 💙 Coding is my Passion
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Keep+Learning...;Keep+Building...;Never+Stop+Coding..."/>
-
-
-
-</div>
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-</div>
-
-⭐ If you like my work, don't forget to Star my repositories.⭐
-<br>
-⭐ Keep Coding • Keep Growing • Keep Smiling ⭐
-
-</div>
-
----
-<!-- ====================================================== -->
-<!--                      FOOTER  COMPLATED                       -->
-<!-- ====================================================== -->
-
----
-
-<div align="center">
-
-## 💙 Thanks for Visiting My Profile!
+## 💙 Thanks for Visiting My Profile! ❤️
 
 ⭐ If you enjoyed my projects, consider giving a ⭐ to my repositories.
 
-🚀 Happy Coding!
+🚀 Happy Coding! ❤️
 
 </div>
 
@@ -646,5 +608,10 @@ If you like my work, consider giving a ⭐ to my repositories.
 </div>
 
 ---
+
+
+<!-- ====================================================== -->
+<!--                      FOOTER  COMPLATED                       -->
+<!-- ====================================================== -->
 
 
