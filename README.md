@@ -21,13 +21,18 @@
   <a href="#dart-About">
   <img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge"/>
   </a> &#xa0; | &#xa0;
-  <a href="#rocket-main-Tech-Stack">Tech Stack</a> &#xa0; | &#xa0;
-  <a href="#sparkles-featured-projects">Projects</a> &#xa0; | &#xa0;
-  <a href="#bar_chart-github-analytics">Analytics</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-Tech-Stack"><img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
+  </a> &#xa0; | &#xa0;
+  <a href="#sparkles-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
+  </a> &#xa0; | &#xa0;
+  <a href="#bar_chart-github-analytics"><img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
+  </a> &#xa0; | &#xa0;
   <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
-  <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me">about me</a>
+  <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me"><img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/></a>
+  
 </p>
 
+<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
 
 
 <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=f4b400&style=for-the-badge"/>
@@ -744,7 +749,16 @@ It motivates me to build more awesome applications.
 <img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
 </a>
 
+
+
+<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
+
+
 <a href="#-contact-me">
+
+
 <img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
 </a>
 
