@@ -544,349 +544,139 @@ If you like my work, consider giving a ⭐ to my repositories.
 =============================================================================
 ===========================================
 
- <!-- ====================================================== -->
-<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
+<!--                    ACHIEVEMENTS                        -->
 <!-- ====================================================== -->
 
-<h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- About Me
-</h2>
-
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-💙 Passionate Software Engineer from India.
-
-💻 Front-End Developer specialized in **React.js**.
-
-🚀 Love building modern, responsive and user-friendly web applications.
-
-🌱 Currently learning
-
-- Next.js
-- TypeScript
-- Node.js
-- System Design
-
-🎯 Career Goal
-
-- Become a Full Stack Developer
-- Build Production-Level Applications
-- Contribute to Open Source
-- Work on Real World Products
-
-📸 Photography Lover
-
-🎵 Music + Coffee + Coding = ❤️
-
-♟ Chess Player
-
-☕ Coffee Addict
-
-<br clear="right"/>
-
----
-
-<!-- ====================================================== -->
-<!--                     EXPERIENCE                         -->
-<!-- ====================================================== -->
-
-# 💼 Experience
-
-### 💻 Software Engineer
-
-- Developing modern web applications.
-- Creating responsive UI using React.js.
-- Working with REST APIs.
-- Improving website performance.
-- Writing clean and reusable code.
-- Learning new technologies continuously.
-
----
-
-<!-- ====================================================== -->
-<!--                  CURRENTLY LEARNING                    -->
-<!-- ====================================================== -->
-
-# 🌱 Currently Learning
-
-<table>
-
-<tr>
-
-<td>⚛ React.js Advanced</td>
-
-<td>██████████ 100%</td>
-
-</tr>
-
-<tr>
-
-<td>▲ Next.js</td>
-
-<td>████████░░ 80%</td>
-
-</tr>
-
-<tr>
-
-<td>🔷 TypeScript</td>
-
-<td>███████░░░ 70%</td>
-
-</tr>
-
-<tr>
-
-<td>🟢 Node.js</td>
-
-<td>██████░░░░ 60%</td>
-
-</tr>
-
-<tr>
-
-<td>☁ Cloud</td>
-
-<td>████░░░░░░ 40%</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                       GOALS                            -->
-<!-- ====================================================== -->
-
-# 🎯 Goals 2026
-
-✅ Build 10+ Production Projects
-
-✅ Master React Ecosystem
-
-✅ Learn Next.js Completely
-
-✅ Learn TypeScript
-
-✅ Learn Cloud Basics
-
-✅ Contribute to Open Source
-
-✅ Crack Product-Based Company
-
----
-
-<!-- ====================================================== -->
-<!--                    FUN FACTS                           -->
-<!-- ====================================================== -->
-
-# ☕ Fun Facts
-
-💻 Coding is my Passion
-
-📸 Photography Lover
-
-🎵 Music while Coding
-
-☕ Coffee keeps me productive
-
-🌙 Night Owl Developer
-
-🚀 Always Learning Something New
-
-♟ Chess improves my logical thinking
-
----
-
-<!-- ====================================================== -->
-<!--                       QUOTE                            -->
-<!-- ====================================================== -->
-
-# 💬 Favorite Quote
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
----
-
-<!-- ====================================================== -->
-<!--                  GITHUB ANALYTICS                      -->
-<!-- ====================================================== -->
-
-<h1 align="center">
-📊 GitHub Analytics
-</h1>
+<h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+🥇 Built Multiple Front-End Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
+🚀 Strong Knowledge in React.js & JavaScript
+
+📱 Responsive Web Design
+
+⚡ API Integration
+
+🎨 Modern UI Development
+
+💻 Continuous Learning
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<!-- ====================================================== -->
+<!--                  CERTIFICATIONS                        -->
+<!-- ====================================================== -->
 
-<p align="center">
+# 📜 Certifications
 
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
+✅ HTML & CSS
 
-</p>
+✅ JavaScript
 
----
+✅ React.js
 
+✅ Bootstrap
 
----
+✅ Git & GitHub
 
-# 🏆 GitHub Trophies
+✅ Web Development
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
-
-
-# 📈 Repositories Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
+> *(Replace these with your actual certifications as you earn them.)*
 
 ---
 
-# ⚡ Productivity
+<!-- ====================================================== -->
+<!--                  LEARNING ROADMAP                      -->
+<!-- ====================================================== -->
 
-<p align="center">
+# 📚 2026 Learning Roadmap
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⭐ Followers
-
-<p align="center">
-
-<a href="https://github.com/sathishkofficial01?tab=followers">
-<img src="https://img.shields.io/github/followers/sathishkofficial01?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge"/>
-</a>
-
-</p>
+| Technology | Progress |
+|------------|----------|
+| HTML | ██████████ 100% |
+| CSS | ██████████ 100% |
+| JavaScript | █████████░ 90% |
+| React.js | █████████░ 90% |
+| TypeScript | ███████░░░ 70% |
+| Next.js | ███████░░░ 70% |
+| Node.js | ██████░░░░ 60% |
+| Express.js | ██████░░░░ 60% |
+| MongoDB | ██████░░░░ 60% |
+| System Design | ████░░░░░░ 40% |
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ====================================================== -->
+<!--                   OPEN SOURCE                          -->
+<!-- ====================================================== -->
 
-> **Create a GitHub Action to generate the snake animation.**
->
-> After enabling it, add:
->
-> ```md
-> <p align="center">
->   <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-> </p>
-> ```
+# 🌍 Open Source
+
+💙 I enjoy learning from the developer community and aim to contribute to open-source projects as I continue to grow my skills.
 
 ---
+
+<!-- ====================================================== -->
+<!--                     DEV QUOTE                          -->
+<!-- ====================================================== -->
+
+# 💬 Developer Quote
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+> **"First, solve the problem. Then, write the code."**
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+**— John Johnson**
 
 </div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
 ---
-## 📊 GitHub Analytics
 
-Explore my GitHub statistics, coding activity, and development progress through interactive insights.
+<!-- ====================================================== -->
+<!--                  SUPPORT SECTION                       -->
+<!-- ====================================================== -->
 
-<div align="center">
+# ❤️ Support
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=transparent&hide_border=true&border_radius=15"/>
+If you like my projects, please consider giving them a ⭐.
 
-<img height="170" src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+It motivates me to build more awesome applications.
 
-</div>
+---
 
-<div align="center">
+<!-- ====================================================== -->
+<!--                    CONTACT                             -->
+<!-- ====================================================== -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=transparent&hide_border=true&border_radius=15"/>
+# 📫 Contact Me
 
-</div>
+📧 **Email:** sathishkofficial01@gmail.com
 
+💻 **GitHub:** https://github.com/sathishkofficial01
 
-## 🔥 GitHub Streak
+💼 **LinkedIn:** https://linkedin.com/in/sathishkofficial01
 
-Track my coding consistency and daily contribution streak across GitHub.
+🟠 **LeetCode:** https://leetcode.com/sathishkofficial01
 
-<div align="center">
+🟢 **HackerRank:** https://www.hackerrank.com/sathishkofficial01
 
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+---
 
-</div>
-
-## 🔥 GitHub Streak
-
-Track my coding consistency and daily contribution streak across GitHub.
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
-
-</div>
-
-## 🔥 GitHub Streak
-
-Track my coding consistency and daily contribution streak across GitHub.
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+### ⭐ Thank you for visiting my profile!
 
-</div>
+### 💙 Happy Coding! 🚀
 
-## 🔥 GitHub Streak
-
-A visual representation of my coding consistency and commitment to continuous development.
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=140&section=footer"/>
 
 </div>
