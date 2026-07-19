@@ -34,9 +34,6 @@
   <a href="#trophy-achievements">
     <img src="https://img.shields.io/badge/📫%20Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-    
-  <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me"><img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/></a>
-  
 </p>
 
 <img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/>
