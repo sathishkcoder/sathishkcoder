@@ -373,7 +373,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
  ## :sparkles: GitHub Analytics ##
 
- <p>Take a look at my GitHub activity, coding statistics, and contribution history.</p>
+ <p> An overview of my GitHub activity, coding statistics, and development progress. </p>
  <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
