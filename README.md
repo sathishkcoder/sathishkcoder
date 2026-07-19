@@ -244,7 +244,7 @@ India 🇮🇳
 <!--    ## :rocket: Skills Progress ##    start             -->
 <!-- ====================================================== -->
 
-## :rocket: Skills Progress ## 
+## :chart_with_upwards_trend: Skills Progress ## 
 
 🟧 **Frontend**
 
@@ -295,7 +295,7 @@ Photoshop     ███████████████░░░░ 80%
 <!-- ========================================= -->
 
 
-## :sparkles: Featured Projects  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## :star2: Featured Projects  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>
 
 
@@ -430,7 +430,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <!--        ## :sparkles: Contribution Activity Graph ##  &&  GitHub Streak    start                  -->
 <!-- =================================================================== -->
 
- ## :sparkles: Contribution Activity Graph ##
+ ## :chart_with_upwards_trend: Contribution Activity Graph ##
 
 <div align="center">
 
@@ -442,7 +442,7 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-## :sparkles: GitHub Streak ##
+## :fire: GitHub Streak ##
 
 Track my coding consistency and daily contribution streak across GitHub.
 
@@ -466,8 +466,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 <!--        ## :sparkles:  GitHub Profile Summary ## start                    -->
 <!-- =================================================================== -->
 
-## :sparkles:  GitHub Profile Summary ##
-
+## :clipboard: GitHub Profile Summary ##
 
 
 
