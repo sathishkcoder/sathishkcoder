@@ -587,9 +587,6 @@ If you like my work, consider giving a ⭐ to my repositories.
 =============================================================================
 ===========================================
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
