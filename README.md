@@ -751,3 +751,44 @@ Explore my GitHub statistics, coding activity, and development progress through 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=transparent&hide_border=true&border_radius=15"/>
 
 </div>
+
+
+## 🔥 GitHub Streak
+
+Track my coding consistency and daily contribution streak across GitHub.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+Track my coding consistency and daily contribution streak across GitHub.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+Track my coding consistency and daily contribution streak across GitHub.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+A visual representation of my coding consistency and commitment to continuous development.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
