@@ -394,10 +394,10 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Graph ## start                  -->
+<!--        ## :sparkles: Contribution Activity Graph ## start                  -->
 <!-- =================================================================== -->
 
- ## :sparkles: Contribution Graph ##
+ ## :sparkles: Contribution Activity Graph ##
 
 <div align="center">
 
@@ -407,17 +407,19 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 ---
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Graph ## complated                    -->
+<!--        ## :sparkles: Contribution Activity Graph ## complated                    -->
 <!-- =================================================================== -->
 
 
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Activity Graph ## start                    -->
+<!--        ## :sparkles:  GitHub Profile Summary ## start                    -->
 <!-- =================================================================== -->
+
+## :sparkles:  GitHub Profile Summary ##
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
 
 </p>
 
@@ -425,8 +427,43 @@ Explore my portfolio of modern, responsive, and user-focused web applications, b
 
 
 <!-- =================================================================== -->
-<!--        ## :sparkles: Contribution Activity Graph ## complated                    -->
+<!--        ## :sparkles: GitHub Profile Summary ## complated                    -->
 <!-- =================================================================== -->
+
+
+<!-- =================================================================== -->
+<!--        ## :sparkles:Repositories Statistics ## &&  Productivity ## start                    -->
+<!-- =================================================================== -->
+
+ ## :sparkles:Repositories Statistics ##
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
+
+</p>
+
+---
+
+## :sparkles: Productivity   ##
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+
+<!-- =================================================================== -->
+<!--      ## :sparkles:Repositories Statistics ## &&  Productivity ## complated                    -->
+<!-- =================================================================== -->
+
 
 <!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Snake ## start                    -->
@@ -643,13 +680,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
-# 📈 Contribution Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -663,15 +693,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
-# 📊 GitHub Profile Summary
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Repositories Statistics
 
