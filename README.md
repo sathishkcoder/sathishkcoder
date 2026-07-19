@@ -598,236 +598,125 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
-
 <!-- ====================================================== -->
-<!--                     TECH STACK                         -->
-<!-- ====================================================== -->
-
-<h2 align="center">
-🛠 Tech Stack
-</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8"/>
-
-</p>
-
----
-
-# 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
-
-</p>
-
----
-
-# ⚛ Front-End Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
-
-</p>
-
----
-
-# ⚙ Back-End Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-# 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
-
-</p>
-
----
-
-# ☁ Cloud & Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
-
-</p>
-
----
-
-# 🧰 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm"/>
-
-</p>
-
----
-
-# 🎨 Design Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps"/>
-
-</p>
-
----
-
-# 💻 IDE & Editor
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 🖥 Operating System
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-</p>
-
----
-
-# 📚 Currently Exploring
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=redux,nextjs,typescript,nodejs"/>
-
-</p>
-
----
-
-
-<!-- ====================================================== -->
-<!--                     TECH STACK                         -->
+<!--                  GITHUB ANALYTICS                      -->
 <!-- ====================================================== -->
 
-<h2 align="center">
-🛠 Tech Stack
-</h2>
+<h1 align="center">
+📊 GitHub Analytics
+</h1>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💻 Programming Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+<img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚛ Front-End Development
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚙ Back-End Development
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🗄 Database
+# 📊 GitHub Profile Summary
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ☁ Cloud & Deployment
+# 📈 Repositories Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🧰 Tools
+# ⚡ Productivity
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
 ---
 
-# 🎨 Design Tools
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps"/>
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💻 IDE & Editor
+# ⭐ Followers
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<a href="https://github.com/sathishkofficial01?tab=followers">
+<img src="https://img.shields.io/github/followers/sathishkofficial01?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-# 🖥 Operating System
+# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-</p>
-
----
-
-# 📚 Currently Exploring
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=redux,nextjs,typescript,nodejs"/>
-
-</p>
+> **Create a GitHub Action to generate the snake animation.**
+>
+> After enabling it, add:
+>
+> ```md
+> <p align="center">
+>   <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+> </p>
+> ```
 
 ---
+
