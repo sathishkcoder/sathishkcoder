@@ -825,22 +825,22 @@ It motivates me to build more awesome applications.
   <kbd><b>🎨 Front-End</b></kbd>
   <br><br>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <sub><b>HTML5</b></sub>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <sub><b>CSS3</b></sub>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <sub><b>JavaScript</b></sub>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <sub><b>React.js</b></sub>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <sub><b>Bootstrap</b></sub>
 
-  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>
+  <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <sub><b>TypeScript</b></sub>
 
 </kbd>
