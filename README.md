@@ -720,3 +720,34 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+---
+## 📊 GitHub Analytics
+
+Explore my GitHub statistics, coding activity, and development progress through interactive insights.
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=transparent&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=transparent&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=transparent&hide_border=true&border_radius=15"/>
+
+</div>
