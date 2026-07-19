@@ -18,13 +18,18 @@
 
 <br>
 <p align="center">
-  <a href="#dart-About"><img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/></a> 
-  <a href="#rocket-main-Tech-Stack"><img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/>
-  </a> 
-  <a href="#sparkles-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/>
-  </a> &#xa0; | &#xa0;
-  <a href="#bar_chart-github-analytics"><img src="https://img.shields.io/badge/Analytics-EC4899?style=for-the-badge"/>
-  </a> &#xa0; | &#xa0;
+  
+  <a href="#dart-About">
+    <img src="https://img.shields.io/badge/👨‍💻%20About-111827?style=for-the-badge&logo=about.me&logoColor=white"/></a> 
+
+  <a href="#rocket-main-Tech-Stack">
+  <img src="https://img.shields.io/badge/🛠%20Tech%20Stack-1F2937?style=for-the-badge&logo=codefactor&logoColor=white"/></a> 
+  
+  <a href="#sparkles-featured-projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-374151?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+  <a href="#bar_chart-github-analytics">
+  <img src="https://img.shields.io/badge/📊%20Analytics-4B5563?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
   <a href="https://github.com/sathishkcoder/sathishkcoder/blob/main/README.md#bust_in_silhouette-about-me"><img src="https://img.shields.io/badge/Contact-22C55E?style=for-the-badge"/></a>
   
@@ -103,8 +108,6 @@
 <!-- ====================================================== -->
 <!--                     About start                 -->
 <!-- ====================================================== -->
-
-## :rocket: Main Tech Stack ##
 
 
 ## :dart: About ##
