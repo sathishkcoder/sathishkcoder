@@ -533,7 +533,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
+---
 <!-- =================================================================== -->
 <!--        ## :sparkles: Contribution Snake ## complated                    -->
 <!-- =================================================================== -->
@@ -545,7 +545,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 ## :telephone_receiver: Contact Me
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="sathishkofficial01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sathishkofficial01">
@@ -555,8 +555,7 @@ Track my coding consistency and daily contribution streak across GitHub.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
+---
 
 <!-- =================================================================== -->
 <!--        ## :telephone_receiver: Contact Me ## complated                    -->
@@ -567,7 +566,7 @@ Track my coding consistency and daily contribution streak across GitHub.
 <!--                   FOOTER  START                          -->
 <!-- ====================================================== -->
 
----
+
 
 <div align="center">
 
