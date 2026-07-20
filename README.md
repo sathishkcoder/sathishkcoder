@@ -24,6 +24,8 @@
 
 </div>
 
+<br>
+
 <p align="center">
 
 <a href="https://sathishkcoder.github.io/resume/" target="_blank">
