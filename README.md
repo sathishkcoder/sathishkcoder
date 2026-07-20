@@ -1012,39 +1012,30 @@ and see the world from different perspectives.
 
 ****************************************************************************************************************************************************
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
 
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 👋 Hi, I'm Sathish Kumar
 
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🚀 Front-End Developer • Aspiring Full Stack Developer
 
-<a href="https://leetcode.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=F4B400&lines=Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Always+Learning+New+Technologies;Open+To+Internship+%26+Full-Time+Opportunities"/>
 
-<p align="center">
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=PROFILE+VIEWS&style=for-the-badge&color=f4b400"/>
+
+<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge&logo=github&color=FFD700"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin"/>
+
+<br><br>
 
 <a href="https://sathishkcoder.github.io/resume/" target="_blank">
 <img src="https://img.shields.io/badge/📄%20View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-</p>
-
-<a href="https://www.hackerrank.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<!-- Resume Button -->
-<a href="https://sathishkcoder.github.io/resume/" target="_blank">
-<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
+</div>
