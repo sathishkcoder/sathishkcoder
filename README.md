@@ -721,3 +721,290 @@ Simple productivity application to manage daily tasks efficiently.
 
 </p>
 
+<!-- ====================================================== -->
+<!--                  🎓 EDUCATION                          -->
+<!-- ====================================================== -->
+
+<a name="-education"></a>
+
+# 🎓 Education
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=F4B400&lines=Education+%26+Professional+Training;Continuous+Learning+Journey"/>
+
+</div>
+
+---
+
+## 🎓 Bachelor Degree
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+### Bachelor of Commerce (Computer Applications)
+
+🏫 **Devanga Arts College**
+
+🎓 **Madurai Kamaraj University**
+
+📍 Tamil Nadu, India
+
+📖 Completed Undergraduate Degree
+
+</td>
+
+<td align="center">
+
+🎓
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📜 Professional Training
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+### 🏫 FITA Academy
+
+**Full Stack Web Development**
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript
+
+✔ React.js
+
+✔ Python
+
+✔ Node.js
+
+✔ MySQL
+
+✔ Git & GitHub
+
+✔ REST API
+
+</td>
+
+<td align="center">
+
+💻
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📚 Currently Learning
+
+🟢 React.js
+
+🟢 TypeScript
+
+🟢 Node.js
+
+🟢 Express.js
+
+🟢 MongoDB
+
+🟢 Python
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</p>
+
+<!-- ====================================================== -->
+<!--                📸 PHOTOGRAPHY                          -->
+<!-- ====================================================== -->
+
+# 📸 Photography
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=F4B400&lines=Photography+is+my+Creative+Passion;Capturing+Moments+That+Matter"/>
+
+</div>
+
+---
+
+> **"Capturing moments. Creating memories. Telling stories through every frame."** 📷
+
+<br>
+
+<div align="center">
+
+📸 Photography is more than a hobby.
+
+It helps me observe details, appreciate creativity,
+
+and see the world from different perspectives.
+
+</div>
+
+<br>
+
+<p align="center">
+
+📷 Nature • 🌇 Landscape • 🌃 Night • 🌿 Travel • ☕ Street
+
+</p>
+
+---
+
+## 💡 Why I Love Photography
+
+✨ Creativity
+
+📷 Storytelling
+
+🌍 Exploring New Places
+
+🎨 Better Observation
+
+💙 Creating Memories
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</p>
+
+<!-- ====================================================== -->
+<!--                 📬 CONTACT ME                          -->
+<!-- ====================================================== -->
+
+<a name="-contact-me"></a>
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=F4B400&lines=Let's+Build+Something+Amazing+Together;Always+Open+to+New+Opportunities"/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:sathishkofficial01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sathishkofficial01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"Stay curious. Keep learning. Build something amazing."** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My Profile!
+
+⭐ Thank you for taking the time to explore my GitHub profile.
+
+💻 I enjoy building modern web applications, learning new technologies, and sharing my work with the developer community.
+
+⭐ If you like my projects, consider giving them a **Star**.
+
+🚀 Happy Coding!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Coding is my Passion ❤️
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;Never+Stop+Coding..."/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Profile Highlights
+
+🌟 Front-End Developer
+
+⚛️ React.js Enthusiast
+
+🐍 Python Learner
+
+📸 Photography Lover
+
+🌱 Lifelong Learner
+
+💼 Open To Work
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&color=gradient"/>
+
+</div>
+
+<!-- ====================================================== -->
+<!--                  END OF README                         -->
+<!-- ====================================================== -->
