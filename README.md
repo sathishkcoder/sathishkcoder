@@ -24,6 +24,14 @@
 
 </div>
 
+<p align="center">
+
+<a href="https://sathishkcoder.github.io/resume/" target="_blank">
+<img src="https://img.shields.io/badge/📄%20View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 ## 🚀 Quick Navigation
