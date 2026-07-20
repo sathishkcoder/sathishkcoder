@@ -941,6 +941,10 @@ and see the world from different perspectives.
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
+<a href="https://sathishkcoder.github.io/resume/" target="_blank">
+<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---
