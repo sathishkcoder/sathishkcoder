@@ -1030,6 +1030,14 @@ and see the world from different perspectives.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<p align="center">
+
+<a href="https://sathishkcoder.github.io/resume/" target="_blank">
+<img src="https://img.shields.io/badge/📄%20View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
 <a href="https://www.hackerrank.com/sathishkofficial01">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
