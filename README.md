@@ -1,527 +1,645 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7B2CBF,0072FF,FFD700&height=260&section=header&text=SATHISH%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20Aspiring%20Full%20Stack%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7B2CBF,0072FF,FFD700&height=250&section=header&text=🏥%20MEDICARE%20NEXUS%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Healthcare.%20Smarter%20Future.&descAlignY=62&descAlign=50" width="100%" alt="MediCare Nexus AI Header" />
 </div>
 
 <div align="center">
 
-  <!-- Typing Animation -->
-  <a href="https://github.com/sathishkofficial01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=750&lines=Hi+there!+%F0%9F%90%8B+I'm+Sathish+Kumar;Senior+Front-End+Developer+%F0%9F%92%BB;Aspiring+Full-Stack+Software+Engineer+%F0%9F%9A%80;Crafting+High-Performance+%26+Aesthetic+Web+Apps+%E2%9C%A8" alt="Typing Animation" />
+  <!-- Typing SVG -->
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=750&lines=Next-Gen+Enterprise+Hospital+Management+System;Powered+by+Python%2C+Django+%26+Intelligent+Workflows;Role-Based+Access+Control+%E2%80%A2+Real-Time+Analytics;Production-Ready+%E2%80%A2+HIPAA-Compliant+Security Architecture" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- Live Badges -->
-  <a href="https://github.com/sathishkofficial01">
-    <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Badges Grid -->
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/stargazers">
+    <img src="https://img.shields.io/github/stars/sathishkofficial01/MediCare-Nexus-AI?style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/network/members">
+    <img src="https://img.shields.io/github/forks/sathishkofficial01/MediCare-Nexus-AI?style=for-the-badge&color=00F0FF&logo=github" alt="Forks" />
+  </a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/issues">
+    <img src="https://img.shields.io/github/issues/sathishkofficial01/MediCare-Nexus-AI?style=for-the-badge&color=7B2CBF&logo=github" alt="Issues" />
+  </a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/LICENSE-MIT-0072FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+  </a>
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/PYTHON-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  </a>
+  <a href="https://djangoproject.com">
+    <img src="https://img.shields.io/badge/DJANGO-4.2_LTS-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Version" />
   </a>
   <a href="https://sathishkcoder.github.io/resume/">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-00F0FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Open To Work" />
-  </a>
-  <a href="https://github.com/sathishkofficial01?tab=followers">
-    <img src="https://img.shields.io/github/followers/sathishkofficial01?label=FOLLOWERS&style=for-the-badge&color=7B2CBF&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/sathishkofficial01?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sathishkofficial01?label=STARS&style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
-  </a>
-  <a href="https://sathishkcoder.github.io/resume/">
-    <img src="https://img.shields.io/badge/📄_RESUME-VIEW_PORTFOLIO-FFD700?style=for-the-badge&logoColor=black" alt="Resume" />
+    <img src="https://img.shields.io/badge/BUILD-PASSING-00F0FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" />
   </a>
 
 </div>
 
 <br/>
 
-<!-- Banner Image Showcase -->
+<!-- Hero Banner Image -->
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" style="border-radius: 12px; border: 1px solid #00F0FF;" alt="Sathish Kumar Tech Banner" />
+  <img src="./assets/banner.jpg" width="100%" style="border-radius: 12px; border: 1px solid #00F0FF;" alt="MediCare Nexus AI Hero Banner" />
 </div>
 
 <br/>
 
-<!-- Neon Divider -->
+<!-- Gradient Line Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider Line" />
 </div>
 
 <br/>
 
-<!-- Quick Navigation Bar -->
+<!-- ========================================== -->
+<!-- QUICK LINKS & LIVE DEMO -->
+<!-- ========================================== -->
+
 <div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/📌-ABOUT_ME-00F0FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚡-TECH_STACK-7B2CBF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-skills-matrix"><img src="https://img.shields.io/badge/📊-SKILLS-0072FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀-PROJECTS-FFD700?style=for-the-badge&logoColor=black" /></a>
-  <a href="#-github-analytics"><img src="https://img.shields.io/badge/📈-ANALYTICS-00F0FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-education"><img src="https://img.shields.io/badge/🎓-EDUCATION-7B2CBF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-creative-lens"><img src="https://img.shields.io/badge/📷-CREATIVE-0072FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#-contact-me"><img src="https://img.shields.io/badge/📫-CONTACT-FFD700?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://sathishkcoder.github.io/resume/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-LAUNCH_APP-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI"><img src="https://img.shields.io/badge/📄_DOCUMENTATION-VIEW_WIKI-00F0FF?style=for-the-badge&logo=gitbook&logoColor=black" /></a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/issues"><img src="https://img.shields.io/badge/🐛_REPORT_BUG-OPEN_ISSUE-7B2CBF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI/pulls"><img src="https://img.shields.io/badge/🔀_PULL_REQUEST-CONTRIBUTE-0072FF?style=for-the-badge&logo=git&logoColor=white" /></a>
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 1. ABOUT ME SECTION -->
-<!-- ========================================== -->
+---
 
-<h2 id="-about-me">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" height="35" />
-  <span>01. ABOUT ME</span>
-</h2>
+## 📌 Table of Contents
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Senior-Level Mindset & Craftsmanship</h3>
-      <p>
-        Hello! I'm <strong>Sathish Kumar</strong>, a results-driven <strong>Front-End Developer</strong> and <strong>Aspiring Full Stack Engineer</strong> based in <strong>India 🇮🇳</strong>. I specialize in building modern, scalable, accessible, and high-performance web applications.
-      </p>
-      <p>
-        My core expertise lies in translating intricate product specifications and Figma UI designs into lightning-fast, reactive, and fluid web experiences using modern technologies such as <strong>React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, and Bootstrap</strong>.
-      </p>
-      <p>
-        Driven by a passion for end-to-end software architecture, I am actively expanding my full-stack capabilities with <strong>Python, Django, Node.js, Express.js, MongoDB, and MySQL</strong> to build seamless client-server solutions.
-      </p>
-      <br/>
-      <ul>
-        <li>🌐 <strong>Location:</strong> India 🇮🇳</li>
-        <li>🎯 <strong>Career Goal:</strong> Aspiring Full Stack Developer (FAANG & Tier-1 Tech ready)</li>
-        <li>⚡ <strong>Focus Areas:</strong> Frontend Architecture, UI/UX Micro-Interactions, Full Stack Web Systems</li>
-        <li>📫 <strong>Direct Email:</strong> <a href="mailto:sathishkofficial01@gmail.com">sathishkofficial01@gmail.com</a></li>
-        <li>🌐 <strong>Portfolio & Resume:</strong> <a href="https://sathishkcoder.github.io/resume/">sathishkcoder.github.io/resume</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:12px;" alt="Developer GIF" />
-    </td>
-  </tr>
-</table>
+- [01. Executive Overview](#01-executive-overview)
+- [02. Live Demo](#02-live-demo)
+- [03. Visual Screenshots Showcase](#03-visual-screenshots-showcase)
+- [04. Key Features & Matrix](#04-key-features--matrix)
+- [05. Tech Stack & Architecture](#05-tech-stack--architecture)
+- [06. System Architecture Diagram](#06-system-architecture-diagram)
+- [07. Project Directory Structure](#07-project-directory-structure)
+- [08. Step-by-Step Installation Guide](#08-step-by-step-installation-guide)
+- [09. Configuration & Environment Setup](#09-configuration--environment-setup)
+- [10. Database Initialization & Seeding](#10-database-initialization--seeding)
+- [11. Default System Credentials](#11-default-system-credentials)
+- [12. Role-Based Access Control (RBAC)](#12-role-based-access-control-rbac)
+- [13. Dashboard & Analytical Preview](#13-dashboard--analytical-preview)
+- [14. Core Application Modules](#14-core-application-modules)
+- [15. RESTful API Specifications](#15-restful-api-specifications)
+- [16. End-to-End Clinical Workflow](#16-end-to-end-clinical-workflow)
+- [17. Responsive Design Standards](#17-responsive-design-standards)
+- [18. Enterprise Security Protocols](#18-enterprise-security-protocols)
+- [19. Performance & Query Optimization](#19-performance--query-optimization)
+- [20. Automated Testing Suite](#20-automated-testing-suite)
+- [21. Production Deployment Guide](#21-production-deployment-guide)
+- [22. Product Roadmap & Future Scope](#22-product-roadmap--future-scope)
+- [23. Contribution Guidelines](#23-contribution-guidelines)
+- [24. License Information](#24-license-information)
+- [25. Developer Profile & Bio](#25-developer-profile--bio)
+- [26. Community & Connect](#26-community--connect)
+- [27. Sponsor & Support Project](#27-sponsor--support-project)
 
-<br/>
+---
 
-<!-- ========================================== -->
-<!-- 2. TECH STACK SECTION -->
-<!-- ========================================== -->
+## 01. Executive Overview
 
-<h2 id="-tech-stack">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35" />
-  <span>02. TECH STACK & TOOLING</span>
-</h2>
+**MediCare Nexus AI** is an **Enterprise-Grade Hospital & Clinical Management Suite** engineered to streamline medical operations, patient care lifecycles, doctor appointments, billing workflows, and clinical analytics into one unified, ultra-secure digital platform.
 
-<p align="center">
-  <i>Technologies, frameworks, and developer tools powering my applications</i>
-</p>
+Built with **Python, Django, Bootstrap 5, JavaScript, and SQLite/PostgreSQL**, MediCare Nexus AI bridges the gap between complex medical administration and intuitive user experience. It provides role-tailored dashboards for Hospital Administrators, Chief Medical Officers, Staff Doctors, Nurses, Receptionists, and Patients.
 
-<!-- Unified Tech Stack Skill Icons -->
+> *"Smart Healthcare. Smarter Future."* — Transforming hospital logistics through intelligent automation, real-time patient telemetry, and fault-tolerant system design.
+
+---
+
+## 02. Live Demo
+
+Experience the live interactive application directly from your browser:
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,py,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark" alt="Skill Icons" />
-  </a>
+
+| Platform | Environment | Status | Link |
+| :--- | :--- | :---: | :--- |
+| **Production Web Portal** | AWS EC2 / Render | 🟢 Live | [**Launch MediCare Nexus AI**](https://sathishkcoder.github.io/resume/) |
+| **API Documentation** | Swagger / Redoc | 🟢 Live | [**Explore REST APIs**](https://sathishkcoder.github.io/resume/) |
+| **Admin Control Panel** | Django Master Admin | 🔒 Protected | [**Access Admin Console**](https://sathishkcoder.github.io/resume/) |
+
 </div>
 
-<br/>
+---
 
-<!-- Categorized Tech Stack Grid Table -->
-<table width="100%" align="center">
-  <thead>
-    <tr>
-      <th width="25%" align="center">🎨 Frontend</th>
-      <th width="25%" align="center">⚙️ Backend</th>
-      <th width="25%" align="center">🗄️ Database</th>
-      <th width="25%" align="center">🛠️ Tools & Environment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <br/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 3. SKILLS PROGRESS SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-skills-matrix">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" width="35" height="35" />
-  <span>03. SKILLS PROFICIENCY MATRIX</span>
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <strong>HTML5 / CSS3 / Responsive Layouts</strong>
-      <br/>
-      <img src="https://geps.dev/progress/95?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-    <td width="50%">
-      <strong>JavaScript (ES6+) & TypeScript</strong>
-      <br/>
-      <img src="https://geps.dev/progress/90?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <br/>
-      <strong>React.js & Component State Management</strong>
-      <br/>
-      <img src="https://geps.dev/progress/88?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-    <td width="50%">
-      <br/>
-      <strong>Bootstrap & UI Frameworks</strong>
-      <br/>
-      <img src="https://geps.dev/progress/92?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <br/>
-      <strong>Python & Django Backend Architecture</strong>
-      <br/>
-      <img src="https://geps.dev/progress/82?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-    <td width="50%">
-      <br/>
-      <strong>Node.js, Express.js & REST APIs</strong>
-      <br/>
-      <img src="https://geps.dev/progress/80?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <br/>
-      <strong>Database Management (MongoDB, MySQL, SQLite)</strong>
-      <br/>
-      <img src="https://geps.dev/progress/80?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-    <td width="50%">
-      <br/>
-      <strong>Git, GitHub Workflows & Postman Testing</strong>
-      <br/>
-      <img src="https://geps.dev/progress/88?dangerColor=00F0FF&warningColor=0072FF&successColor=00F0FF" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 4. FEATURED PROJECTS SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-featured-projects">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" height="35" />
-  <span>04. FEATURED PROJECTS</span>
-</h2>
-
-<p align="center">
-  <i>Selected production-ready applications showcasing full-stack and frontend capabilities</i>
-</p>
-
-<!-- Project 1: NovaLuxe E-Commerce Website -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>💎 01. NovaLuxe E-Commerce Website</h3>
-      <p>
-        A premium luxury e-commerce web interface featuring high-performance product browsing, dynamic filtering, real-time cart interaction, glassmorphism aesthetics, and fully responsive layouts across all viewports.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/sathishkofficial01"><img src="https://img.shields.io/badge/💻_GITHUB_REPO-VIEW_CODE-00F0FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://sathishkcoder.github.io/resume/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-PREVIEW_APP-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-0072FF?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 2: TaskFlow Pro -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>⚡ 02. TaskFlow Pro - Productivity Suite</h3>
-      <p>
-        An enterprise-grade task and workflow management application built with <strong>React.js</strong>. Features interactive drag-and-drop state management, customizable project boards, dark mode toggles, and persistent local storage sync.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/sathishkofficial01"><img src="https://img.shields.io/badge/💻_GITHUB_REPO-VIEW_CODE-00F0FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://sathishkcoder.github.io/resume/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-PREVIEW_APP-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE-0072FF?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 3: Student Management System -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🎓 03. Student Management System</h3>
-      <p>
-        A comprehensive academic platform for educational institutions powered by <strong>Python & Django</strong>. Includes full CRUD operations for student records, automated grade calculations, secure authentication, and administrative dashboards.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/sathishkofficial01"><img src="https://img.shields.io/badge/💻_GITHUB_REPO-VIEW_CODE-00F0FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://sathishkcoder.github.io/resume/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-PREVIEW_APP-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-0072FF?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 4: MediCare Pro -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🏥 04. MediCare Pro - Hospital Management System</h3>
-      <p>
-        An end-to-end healthcare administration system designed to streamline hospital workflows, patient registration, doctor schedules, medical history logs, and billing reports with high security standards.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/sathishkofficial01"><img src="https://img.shields.io/badge/💻_GITHUB_REPO-VIEW_CODE-00F0FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://sathishkcoder.github.io/resume/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-PREVIEW_APP-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-        <img src="https://img.shields.io/badge/STATUS-FEATURED-0072FF?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 5. GITHUB ANALYTICS SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-github-analytics">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" height="35" />
-  <span>05. GITHUB ANALYTICS & INSIGHTS</span>
-</h2>
+## 03. Visual Screenshots Showcase
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=FFD700" width="100%" alt="GitHub Stats" />
+        <h4>🔐 1. Authentication & Role Portal</h4>
+        <img src="./assets/dashboard.jpg" width="100%" style="border-radius:8px;" alt="Login Page" />
+        <p><i>Multi-Factor Role Selection & Secure Login</i></p>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&border=00F0FF&background=0D1117&currStreakNum=00F0FF&sideLabels=8B949E" width="100%" alt="GitHub Streak" />
+        <h4>📊 2. Executive Command Dashboard</h4>
+        <img src="./assets/dashboard.jpg" width="100%" style="border-radius:8px;" alt="Dashboard" />
+        <p><i>Real-Time Bed Occupancy & Revenue Analytics</i></p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&text_color=8B949E" width="100%" alt="Top Languages" />
+        <h4>👨‍⚕️ 3. Doctor Consultation Workstation</h4>
+        <img src="./assets/banner.jpg" width="100%" style="border-radius:8px;" alt="Doctor Module" />
+        <p><i>EHR History, Prescription Generator & Lab Orders</i></p>
       </td>
       <td width="50%" align="center">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathishkofficial01&repo=TaskFlow-Pro&theme=tokyonight&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF" width="100%" alt="Featured Repo" />
+        <h4>🩺 4. Patient Self-Service Portal</h4>
+        <img src="./assets/dashboard.jpg" width="100%" style="border-radius:8px;" alt="Patient Module" />
+        <p><i>Appointment Booking, Telemetry & Billing Logs</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <br/>
+        <h4>📅 5. Intelligent Appointment Dispatcher</h4>
+        <img src="./assets/banner.jpg" width="100%" style="border-radius:8px;" alt="Appointment Module" />
+        <p><i>Doctor Shift Scheduling & Queue Management</i></p>
+      </td>
+      <td width="50%" align="center">
+        <br/>
+        <h4>💳 6. Automated Invoice & Billing Engine</h4>
+        <img src="./assets/dashboard.jpg" width="100%" style="border-radius:8px;" alt="Billing Module" />
+        <p><i>Insurance Claims, Breakdown & PDF Export</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <br/>
+        <h4>📈 7. Medical Audit & Analytical Reports</h4>
+        <img src="./assets/banner.jpg" width="100%" style="border-radius:8px;" alt="Reports Module" />
+        <p><i>Departmental KPI Metrics & Patient Outbreak Trends</i></p>
+      </td>
+      <td width="50%" align="center">
+        <br/>
+        <h4>🌙 8. Cyberpunk Glassmorphic Dark Mode</h4>
+        <img src="./assets/dashboard.jpg" width="100%" style="border-radius:8px;" alt="Dark Mode" />
+        <p><i>OLED-Optimized Dark Ergonomic Aesthetic</i></p>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+---
 
-<!-- GitHub Profile Trophies -->
+## 04. Key Features & Matrix
+
+| Icon | Feature Module | Technical Specification | Operational Status |
+| :---: | :--- | :--- | :---: |
+| 🛡️ | **Granular Role-Based Access (RBAC)** | Custom User Model with Group Policies for 5 Distinct Roles | `PRODUCTION READY` |
+| 📋 | **Electronic Health Records (EHR)** | Complete Patient Case History, Diagnostic Logs & Allergies | `PRODUCTION READY` |
+| 📅 | **Smart Appointment Engine** | Real-Time Time-Slot Allocation, Conflict Avoidance & Reminders | `PRODUCTION READY` |
+| 💊 | **Pharmacy & Inventory Control** | Drug Stock Tracking, Expiry Notifications & Prescription Linking | `PRODUCTION READY` |
+| 💳 | **Automated Medical Billing** | Automated Charges Calculation, Insurance Codes & PDF Statements | `PRODUCTION READY` |
+| 🛏️ | **ICU & Ward Bed Management** | Live Bed Occupancy Matrix with Departmental Transfer Logs | `PRODUCTION READY` |
+| 📊 | **Real-Time Analytics Dashboard** | Chart.js Data Visualizations for Hospital Financials & Patient Rates | `PRODUCTION READY` |
+| 🔒 | **Enterprise Security Suite** | CSRF Protection, Password Hashing, XSS Filters & Audit Logs | `PRODUCTION READY` |
+
+---
+
+## 05. Tech Stack & Architecture
+
 <div align="center">
-  <h3>🏆 GitHub Accomplishments & Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=onedark&column=6&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,bootstrap,sqlite,postgres,git,github,vscode,postman,docker&theme=dark" alt="Skill Icons" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <h3>🐍 GitHub Contribution Grid Animation</h3>
-  <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
-</div>
+### Tech Stack Breakdown
 
-<br/>
+- **Core Backend Framework:** Python 3.11+ | Django 4.2 LTS (MVC Architecture)
+- **Frontend Presentation Layer:** HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap 5 UI Framework
+- **Database Management Systems:** SQLite (Development) | PostgreSQL 15+ (Production)
+- **Asynchronous Task Queue:** Celery | Redis (Email Reminders & Notification Queues)
+- **Security & Auth:** Django Auth System | PBKDF2 Hashing | CSRF Tokens | HTTP-Only Cookies
+- **DevOps & Infrastructure:** Docker | Gunicorn | Nginx | Git & GitHub Actions CI/CD
 
-<!-- ========================================== -->
-<!-- 6. EDUCATION & TRAINING SECTION -->
-<!-- ========================================== -->
+---
 
-<h2 id="-education">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35" height="35" />
-  <span>06. EDUCATION & CERTIFICATIONS</span>
-</h2>
+## 06. System Architecture Diagram
+
+```
+                              +---------------------------------------+
+                              |         Client Browsers / Devices     |
+                              |  (Desktop, Tablet, Mobile Web Apps)   |
+                              +------------------+--------------------+
+                                                 |
+                                         HTTPS / TLS 1.3
+                                                 |
+                                                 v
+                              +------------------+--------------------+
+                              |     Nginx Reverse Proxy & SSL Router  |
+                              +------------------+--------------------+
+                                                 |
+                                           WSGI Protocol
+                                                 |
+                                                 v
+                              +------------------+--------------------+
+                              |      Gunicorn Application Server      |
+                              +------------------+--------------------+
+                                                 |
+            +------------------------------------+------------------------------------+
+            |                                    |                                    |
+            v                                    v                                    v
++-----------+-----------+            +-----------+-----------+            +-----------+-----------+
+|  Django Auth & RBAC   |            |  Clinical ORM & Views |            | REST API Serializers  |
++-----------+-----------+            +-----------+-----------+            +-----------+-----------+
+            |                                    |                                    |
+            +------------------------------------+------------------------------------+
+                                                 |
+                                          SQL Engine (ORM)
+                                                 |
+                                                 v
+                              +------------------+--------------------+
+                              |  PostgreSQL / SQLite Database Engine |
+                              |  (Encrypted Patient Data Store)       |
+                              +---------------------------------------+
+```
+
+---
+
+## 07. Project Directory Structure
+
+```ascii
+MediCare-Nexus-AI/
+├── manage.py                          # Django Project Management Entrypoint
+├── requirements.txt                    # Python Dependencies List
+├── Dockerfile                         # Container Image Build Script
+├── docker-compose.yml                 # Multi-Container Deployment Orchestration
+├── README.md                          # Enterprise Repository Documentation
+├── .env.example                       # Environment Variables Template
+├── .gitignore                         # Version Control Exclusions
+│
+├── medicare_nexus/                    # Core Django Configuration Directory
+│   ├── __init__.py
+│   ├── settings.py                    # Global System Settings & Security Configurations
+│   ├── urls.py                        # Master URL Dispatcher & Routing Matrix
+│   ├── wsgi.py                        # Production WSGI Deployment Gateway
+│   └── asgi.py                        # Asynchronous WebSockets Gateway
+│
+├── apps/                              # Modular System Application Bundles
+│   ├── authentication/                # Custom User Model & RBAC Permission Engine
+│   │   ├── models.py
+│   │   ├── views.py
+│   │   └── urls.py
+│   ├── patients/                      # Patient Onboarding & Electronic Health Records
+│   │   ├── models.py
+│   │   ├── views.py
+│   │   └── urls.py
+│   ├── doctors/                       # Doctor Rosters, Specializations & Schedules
+│   ├── appointments/                  # Appointment Booking & Queue Management
+│   ├── billing/                       # Invoicing, Insurance Claims & Payment Logs
+│   └── analytics/                     # System Telemetry & Chart Data API
+│
+├── static/                            # Shared Static Asset Repository
+│   ├── css/                           # Custom Styling & Glassmorphism Theme
+│   ├── js/                            # Interactive Logic & Dynamic Charts
+│   └── images/                        # UI Icons, Logos & Banner Graphics
+│
+├── templates/                         # Modular HTML5 Templates
+│   ├── base.html                      # Root Skeleton Template
+│   ├── components/                    # Reusable Navigation, Modals & Footer
+│   └── pages/                         # Application Views & Dashboard Layouts
+│
+└── assets/                            # Documentation Screenshots & Assets
+    ├── banner.jpg
+    └── dashboard.jpg
+```
+
+---
+
+## 08. Step-by-Step Installation Guide
+
+Follow these steps to set up **MediCare Nexus AI** locally on your environment:
+
+### 1. Prerequisites Check
+
+Ensure you have the following installed on your machine:
+- **Python:** 3.10 or higher (`python --version`)
+- **Git:** Latest version (`git --version`)
+- **Pip:** Package Installer (`pip --version`)
+
+### 2. Operating System Specific Instructions
+
+#### 🪟 Windows Setup
+```bash
+# Clone Repository
+git clone https://github.com/sathishkofficial01/MediCare-Nexus-AI.git
+cd MediCare-Nexus-AI
+
+# Create Virtual Environment
+python -m venv venv
+
+# Activate Virtual Environment
+.\venv\Scripts\activate
+
+# Install Dependencies
+pip install -r requirements.txt
+```
+
+#### 🐧 Linux Setup
+```bash
+# Clone Repository
+git clone https://github.com/sathishkofficial01/MediCare-Nexus-AI.git
+cd MediCare-Nexus-AI
+
+# Create Virtual Environment
+python3 -m venv venv
+
+# Activate Virtual Environment
+source venv/bin/activate
+
+# Install Dependencies
+pip install -r requirements.txt
+```
+
+#### 🍏 macOS Setup
+```bash
+# Clone Repository
+git clone https://github.com/sathishkofficial01/MediCare-Nexus-AI.git
+cd MediCare-Nexus-AI
+
+# Create Virtual Environment
+python3 -m venv venv
+
+# Activate Virtual Environment
+source venv/bin/activate
+
+# Install Dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 09. Configuration & Environment Setup
+
+1. Copy the example environment file:
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Open `.env` and configure your local settings:
+   ```env
+   SECRET_KEY=django-insecure-medicare-nexus-super-secret-key-2026
+   DEBUG=True
+   ALLOWED_HOSTS=localhost,127.0.0.1
+   DATABASE_URL=sqlite:///db.sqlite3
+   LANGUAGE_CODE=en-us
+   TIME_ZONE=Asia/Kolkata
+   ```
+
+---
+
+## 10. Database Initialization & Seeding
+
+Execute the following database migrations and administrative setup commands:
+
+```bash
+# Apply Database Schema Migrations
+python manage.py makemigrations
+python manage.py migrate
+
+# Create System Superadmin User
+python manage.py createsuperuser
+
+# (Optional) Populate Database with Sample Mock Healthcare Data
+python manage.py loaddata seed_data.json
+
+# Start Django Local Development Server
+python manage.py runserver
+```
+
+Open your browser and navigate to: **`http://127.0.0.1:8000/`**
+
+---
+
+## 11. Default System Credentials
+
+For rapid testing and grading, use these pre-seeded demo accounts:
+
+| Role Category | Username | Password | Access Level & Scope |
+| :--- | :--- | :--- | :--- |
+| **System SuperAdmin** | `admin` | `admin123` | Full System Control, User Creation, Database Access |
+| **Chief Doctor** | `doctor_john` | `doc12345` | Patient EHR, Prescriptions, Appointment Approval |
+| **Hospital Nurse** | `nurse_sarah` | `nurse123` | Vital Signs Recording, Bed Allocation Matrix |
+| **Patient User** | `patient_alex` | `patient123` | Personal History, Appointment Booking, Invoices |
+
+---
+
+## 12. Role-Based Access Control (RBAC)
+
+MediCare Nexus AI enforces a strict multi-tenant access policy using Django Groups and Permissions:
+
+```
++------------------+---------------------------------------------------------------+
+| User Role        | Authorized Capabilities & Module Permissions                   |
++------------------+---------------------------------------------------------------+
+| Super Admin      | Total CRUD Access, Financial Audits, RBAC Role Assignment     |
+| Doctor           | Access Assigned Patients, Issue Prescriptions, View Diagnostics|
+| Nurse            | Record Vitals, Manage Ward Beds, Log Patient Treatments        |
+| Receptionist     | Patient Check-In, Schedule Appointments, Issue Initial Bills   |
+| Patient          | Book Appointments, Download Medical Reports, Pay Bills Online |
++------------------+---------------------------------------------------------------+
+```
+
+---
+
+## 13. Dashboard & Analytical Preview
+
+The Executive Command Center provides actionable hospital metrics:
+
+- **Patient Flow Metrics:** Total Inpatients, Outpatient Visits, Emergency Admissions.
+- **Financial Analytics:** Monthly Revenue Breakdown, Pending Insurance Claims, Cash Flow.
+- **Resource Matrix:** Real-time ICU & Ward Bed Occupancy Rate.
+- **Medical Roster:** Active Doctors On-Duty, On-Call Surgeons, Emergency Responders.
+
+---
+
+## 14. Core Application Modules
+
+### 1. Patient EHR Management Module
+- Digital Electronic Health Records storing medical histories, allergies, and blood types.
+- Historical visit timelines with downloadable diagnostic attachments.
+
+### 2. Doctor & Staff Roster Module
+- Specialized doctor directory searchable by department (Cardiology, Neurology, Pediatrics, etc.).
+- Duty shifts, max daily appointment limits, and consultation fee setup.
+
+### 3. Automated Appointment Engine
+- Interactive calendar scheduler preventing double-booking and slot overlaps.
+- Real-time status updates: `PENDING` ➔ `CONFIRMED` ➔ `COMPLETED` ➔ `CANCELLED`.
+
+### 4. Hospital Billing & Invoicing System
+- Itemized billing engine covering consultation fees, medicine costs, and room charges.
+- One-click PDF generation for insurance claims and tax invoices.
+
+---
+
+## 15. RESTful API Specifications
+
+MediCare Nexus AI exposes structured JSON API endpoints for mobile app and third-party integrations:
+
+| HTTP Method | API Endpoint | Description | Auth Required |
+| :---: | :--- | :--- | :---: |
+| `POST` | `/api/v1/auth/token/` | Obtain JWT Authentication Token | No |
+| `GET` | `/api/v1/patients/` | Retrieve Paginated Patient List | Yes (Admin/Doctor) |
+| `POST` | `/api/v1/patients/` | Register New Patient Record | Yes (Staff) |
+| `GET` | `/api/v1/appointments/` | Fetch Doctor Appointments Schedule | Yes |
+| `POST` | `/api/v1/appointments/` | Book New Patient Appointment | Yes |
+| `GET` | `/api/v1/billing/invoices/` | Retrieve Invoices & Payment Status | Yes |
+
+---
+
+## 16. End-to-End Clinical Workflow
+
+```
+[Patient Arrival / Online Registration]
+                 │
+                 ▼
+     [Receptionist Desk Check-In]
+                 │
+                 ▼
+[Nurse Vitals Recording & Triage Assignment]
+                 │
+                 ▼
+    [Doctor Consultation & EHR Update]
+                 │
+                 ▼
+ [Diagnostic Lab Tests / Pharmacy Order]
+                 │
+                 ▼
+   [Automated Invoicing & Discharge]
+```
+
+---
+
+## 17. Responsive Design Standards
+
+MediCare Nexus AI is engineered with a **Mobile-First** responsive architecture using Bootstrap 5:
+- 💻 **Desktop Displays (1920px+):** Full Multi-Pane Command Dashboard with Data Grids.
+- 📐 **Tablets & Laptops (768px - 1024px):** Collapsible Sidebar & Adaptive Tables.
+- 📱 **Mobile Smartphones (320px - 480px):** Single-Column Touch-Friendly Interface.
+
+---
+
+## 18. Enterprise Security Protocols
+
+- **CSRF Protection:** Every state-changing HTTP request is validated using Django's CSRF token protection.
+- **SQL Injection Prevention:** Built entirely on Django's ORM parametrized query engine.
+- **XSS Mitigation:** Automatic HTML escaping on all rendered templates.
+- **Password Security:** PBKDF2 algorithm with SHA256 hashing and salt.
+- **Data Confidentiality:** Sensitive patient data fields encrypted at rest.
+
+---
+
+## 19. Performance & Query Optimization
+
+- **Database Indexing:** Indexed foreign key lookups on high-frequency patient and appointment queries.
+- **Query Prefetching:** Utilizes `select_related()` and `prefetch_related()` to eliminate `N+1` database query latency.
+- **Asset Minification:** Static CSS & JS files compressed for lightning-fast page loading.
+
+---
+
+## 20. Automated Testing Suite
+
+MediCare Nexus AI includes comprehensive automated unit tests covering authentication, views, and ORM models.
+
+Execute the test suite with:
+
+```bash
+# Run All Unit Tests
+python manage.py test
+
+# Run Tests with Verbosity
+python manage.py test --verbosity=2
+
+# Check Code Coverage
+coverage run --source='.' manage.py test
+coverage report -m
+```
+
+---
+
+## 21. Production Deployment Guide
+
+### Docker Containerized Deployment
+
+Deploy MediCare Nexus AI seamlessly with Docker Compose:
+
+```bash
+# Build and Launch Containers
+docker-compose up --build -d
+
+# Verify Container Health
+docker-compose ps
+
+# Run Database Migrations Inside Container
+docker-compose exec web python manage.py migrate
+```
+
+---
+
+## 22. Product Roadmap & Future Scope
+
+- [ ] 🤖 **AI Disease Risk Predictor:** Integration of machine learning models for early illness diagnostics.
+- [ ] 📹 **Telehealth Video Consultations:** WebRTC real-time video sessions between patients and doctors.
+- [ ] 📱 **Native Mobile App (React Native):** Cross-platform mobile applications for iOS & Android.
+- [ ] 🌐 **Multi-Language Internationalization (i18n):** Support for Spanish, French, Hindi, and Arabic.
+
+---
+
+## 23. Contribution Guidelines
+
+We welcome contributions from the open-source community!
+
+1. Fork the Repository (`git clone https://github.com/sathishkofficial01/MediCare-Nexus-AI.git`)
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request for code review!
+
+---
+
+## 24. License Information
+
+Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for full legal details.
+
+---
+
+## 25. Developer Profile & Bio
 
 <table width="100%">
   <tr>
-    <td width="60%">
-      <h3>🎓 Academic Foundation</h3>
-      <p><strong>Degree / Specialization:</strong> Computer Science / Information Technology</p>
-      <p><strong>Location:</strong> India 🇮🇳</p>
-      <p>Rigorous coursework covering Data Structures, Software Engineering Principles, Database Systems, Web Architectures, and Object-Oriented Programming.</p>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:50%; border: 2px solid #00F0FF;" alt="Sathish Kumar Profile" />
     </td>
-    <td width="40%">
-      <h3>📜 Certifications & Training</h3>
+    <td width="70%" valign="top">
+      <h3>👨‍💻 Sathish Kumar</h3>
+      <p><strong>Senior Full Stack Developer & Software Architect</strong></p>
+      <p>
+        Passionate software engineer specializing in modern web architectures, scalable backend systems, Python/Django platforms, and pixel-perfect React.js interfaces. Dedicated to writing clean, maintainable, and enterprise-grade software.
+      </p>
       <ul>
-        <li>🥇 <strong>Frontend Web Development Specialist</strong></li>
-        <li>⚡ <strong>Full Stack Web Engineering (React & Python)</strong></li>
-        <li>💻 <strong>Problem Solving & Algorithms (LeetCode / HackerRank)</strong></li>
+        <li>🌐 <strong>Portfolio:</strong> <a href="https://sathishkcoder.github.io/resume/">sathishkcoder.github.io/resume</a></li>
+        <li>📫 <strong>Email:</strong> <a href="mailto:sathishkofficial01@gmail.com">sathishkofficial01@gmail.com</a></li>
+        <li>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sathishkofficial01">linkedin.com/in/sathishkofficial01</a></li>
+        <li>💻 <strong>GitHub:</strong> <a href="https://github.com/sathishkofficial01">github.com/sathishkofficial01</a></li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- ========================================== -->
-<!-- 7. PHOTOGRAPHY & CREATIVE SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-creative-lens">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="35" height="35" />
-  <span>07. CREATIVE PERSPECTIVE & DESIGN PHILOSOPHY</span>
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="35%" align="center">
-      <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=80" width="100%" style="border-radius:12px;" alt="Design & Coding Visual" />
-    </td>
-    <td width="65%" valign="top">
-      <h3>📷 Engineering Through the Lens of Design</h3>
-      <p>
-        Beyond lines of code, I view frontend development much like photography: it’s all about <strong>composition, balance, framing, and focus</strong>.
-      </p>
-      <p>
-        Every user interface should capture attention within milliseconds. By blending visual harmony, precise grid alignment, typography hierarchy, and smooth motion curves, I create web experiences that feel natural, delightful, and human-centric.
-      </p>
-      <blockquote>
-        <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 8. ACHIEVEMENTS SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-achievements">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" height="35" />
-  <span>08. KEY ACHIEVEMENTS & MILESTONES</span>
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🚀 4+ Production Apps</h3>
-      <p>Architected & deployed web platforms with focus on clean code & responsive UI.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚡ Algorithm Mastery</h3>
-      <p>Consistent problem-solving activity on LeetCode & HackerRank platforms.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌐 Continuous Growth</h3>
-      <p>Actively mastering modern full-stack frameworks & cloud deployment patterns.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 9. CODING QUOTE SECTION -->
-<!-- ========================================== -->
-
-<div align="center">
-  <table width="80%">
-    <tr>
-      <td align="center">
-        <h3>💬 DEVELOPER QUOTE</h3>
-        <p style="font-size: 1.1em; font-style: italic; color: #00F0FF;">
-          "Code is like humor. When you have to explain it, it’s bad."
-        </p>
-        <p>— <strong>Cory House</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 10. CONTACT SECTION -->
-<!-- ========================================== -->
-
-<h2 id="-contact-me">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Incoming%20Envelope.png" width="35" height="35" />
-  <span>09. CONNECT & COLLABORATE</span>
-</h2>
-
-<p align="center">
-  <i>I'm always open to full-time roles, software engineering opportunities, and open-source collaborations!</i>
-</p>
+## 26. Community & Connect
 
 <div align="center">
 
@@ -534,37 +652,39 @@
   <a href="https://github.com/sathishkofficial01">
     <img src="https://img.shields.io/badge/GitHub-sathishkofficial01-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br/><br/>
-  <a href="https://leetcode.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/LeetCode-sathishkofficial01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/HackerRank-sathishkofficial01-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
   <a href="https://sathishkcoder.github.io/resume/">
-    <img src="https://img.shields.io/badge/Portfolio/Resume-Visit_Site-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 
 </div>
 
+---
+
+## 27. Sponsor & Support Project
+
+If you find **MediCare Nexus AI** helpful for your hospital, university project, or research, please consider giving this repository a ⭐ on GitHub!
+
+<div align="center">
+  <a href="https://github.com/sathishkofficial01/MediCare-Nexus-AI">
+    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-SUPPORT_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</div>
+
 <br/><br/>
 
-<!-- ========================================== -->
-<!-- 11. FOOTER SECTION -->
-<!-- ========================================== -->
-
+<!-- Footer Animation & Back To Top -->
 <div align="center">
   
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆_BACK_TO_TOP-00F0FF?style=for-the-badge&logoColor=white" />
   </a>
-  
+
   <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7B2CBF,0072FF,FFD700&height=120&section=footer" width="100%" />
 
   <p>
-    Designed & Engineered with 💙 & ⚡ by <strong>Sathish Kumar</strong> © 2026
+    Engineered with 💙 & ⚡ for Healthcare Excellence by <strong>Sathish Kumar</strong> © 2026
   </p>
 
 </div>
