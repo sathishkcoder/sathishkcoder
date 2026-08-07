@@ -1,783 +1,460 @@
-<!-- ================================================================= -->
-<!--                PREMIUM GITHUB PROFILE README.MD                   -->
-<!--                   DEVELOPER: SATHISH KUMAR                        -->
-<!--             ROLE: JUNIOR FULL STACK DEVELOPER                     -->
-<!-- ================================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0052d4,70:4facfe,100:00f2fe&height=230&section=header&text=SATHISH%20KUMAR&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Full%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=60&descAlign=50" width="100%" alt="Sathish Kumar Header Banner" />
-</p>
+  <!-- HERO BANNER / CAPSULE RENDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:ea580c,100:f97316&height=240&section=header&text=SATHISH%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%E2%80%A2%20CREATIVE%20PHOTOGRAPHER&descAlignY=60&descAlign=50" width="100%" alt="Sathish Kumar Hero Banner" />
 
-<!-- ================================================================= -->
-<!-- SECTION 2: ANIMATED WELCOME HEADER & TYPING SVG                   -->
-<!-- ================================================================= -->
+  <br/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=Hi+There!+%F0%9F%90%8B+I'm+Sathish+Kumar;Junior+Full+Stack+Developer+%F0%9F%92%BB;Building+Responsive+%26+Modern+Web+Applications;Passionate+About+Clean+Code+%26+Problem+Solving;Open+to+Internship+%26+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG Animation" />
-  </a>
-</p>
-
-<!-- ================================================================= -->
-<!-- SECTION 3: QUICK BADGES & STATUS INDICATORS                       -->
-<!-- ================================================================= -->  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- ANIMATED TYPING SVG -->
   <a href="https://github.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00f2fe?style=for-the-badge&logo=workplace&logoColor=white&labelColor=0d1117" alt="Status Badge" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=750&height=50&lines=BUILDING+DIGITAL+EXPERIENCES;FULL+STACK+DEVELOPER;CODE+%E2%80%A2+CREATE+%E2%80%A2+CAPTURE;TURNING+IDEAS+INTO+REALITY;BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+INSPIRE" alt="Typing SVG Animation" />
   </a>
-  <img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-ffd700?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location Badge" />
-  <a href="mailto:sathishkofficial01@gmail.com">
-    <img src="https://img.shields.io/badge/HIRE_ME-EMAIL_NOW-00d2ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Badge" />
+
+  <br/><br/>
+
+  <!-- BADGES & QUICK LINKS -->
+  <a href="https://github.com/sathishkofficial01">
+    <img src="https://img.shields.io/badge/GitHub-sathishkofficial01-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Profile Badge" />
   </a>
-</p>
+  <a href="https://instagram.com/sathishkofficial01">
+    <img src="https://img.shields.io/badge/Instagram-@sathishkofficial01-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram Badge" />
+  </a>
+  <a href="https://github.com/sathishkofficial01">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-34D399?style=for-the-badge&logo=workplace&logoColor=white&labelColor=0d1117" alt="Open to Work Badge" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=sathishkofficial01&color=f97316&style=for-the-badge&label=COMMAND+CENTER+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&color=f97316&style=for-the-badge&label=COMMAND+CENTER+VIEWS" alt="Profile Views" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/sathishkofficial01?style=flat-square&logo=github&label=Followers&color=00f2fe&labelColor=0d1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sathishkofficial01?style=flat-square&logo=github&label=Stars&color=ffd700&labelColor=0d1117" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-00f2fe?style=flat-square&logo=git&labelColor=0d1117" alt="Open Source Contributor" />
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-</p>
+  <!-- HERO TAGLINE -->
+  <blockquote>
+    <p><b><i>"I build digital experiences, solve problems with code, and capture the world through photography."</i></b></p>
+  </blockquote>
 
-<!-- ================================================================= -->
-<!-- SECTION 4: PROFESSIONAL INTRODUCTION                              -->
-<!-- ================================================================= -->
+</div>
 
-## 💼 Executive Overview
-
-Welcome to my software engineering portfolio! I am **Sathish Kumar**, a passionate and detail-driven **Junior Full Stack Developer** based in India. I specialize in building responsive, modern, and high-performance web applications using **HTML5, CSS3, JavaScript, React.js, Python, and Django**.
-
-Driven by curiosity and a commitment to software craftsmanship, I focus on transforming complex ideas into intuitive user interfaces supported by robust backend architectures. I am actively seeking **Software Engineering Internships & Full-Time Entry-Level Roles** where I can bring energy, technical dedication, and value to forward-thinking engineering teams.
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 5: ABOUT ME                                               -->
-<!-- ================================================================= -->
-
-## 👤 About Me
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   👨‍💻  Junior Full Stack Developer                                      │
-│   🌐  Passionate about Web Design & Scalable Architectures               │
-│   🎯  Focused on React.js, Python, Django & REST APIs                    │
-│   🌱  Currently Learning: Node.js, Express.js & MongoDB (MERN Stack)     │
-│   ⚡  Obsessed with Clean Code, UI Aesthetics & Fast Page Loads          │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-- 🔭 **What I Do**: I design and develop responsive web interfaces and full-stack applications with clean code standards, dynamic interactivity, and database integration.
-- 🎓 **Education & Background**: Grounded in core Computer Science fundamentals, algorithm design, relational database systems, and object-oriented programming.
-- 💡 **Engineering Philosophy**: "Code is written once for machines to execute, but read many times by humans to understand. Keep it clean, modular, and purposeful."
-- 🚀 **Continuous Growth**: I spend my days building real-world projects, refining backend API architectures, solving data structure challenges on LeetCode & HackerRank, and exploring modern frontend workflows.
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 6: PROFESSIONAL SNAPSHOT                                  -->
+<!-- SECTION 2: PREMIUM INTRO SECTION                                  -->
 <!-- ================================================================= -->
 
-## 📊 Professional Snapshot
+## 🧠 WHO AM I?
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Quick Facts</h3>
-      <ul>
-        <li><b>Current Role:</b> Junior Full Stack Developer</li>
-        <li><b>Primary Focus:</b> Full-Stack Web Development</li>
-        <li><b>Frontend Stack:</b> React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5</li>
-        <li><b>Backend Stack:</b> Python 3, Django, REST APIs</li>
-        <li><b>Databases:</b> SQLite, MySQL, MongoDB <i>(Learning)</i></li>
-        <li><b>Location:</b> India 🇮🇳 <i>(Open to Remote & Relocation)</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Career Readiness</h3>
-      <ul>
-        <li><b>Availability:</b> Immediate (Full-Time & Internship)</li>
-        <li><b>Work Preference:</b> Hybrid, Remote, On-Site</li>
-        <li><b>Target Companies:</b> Tech Product & Enterprise Solutions Teams</li>
-        <li><b>Communication:</b> English, Tamil</li>
-        <li><b>Problem Solving:</b> Active on LeetCode & HackerRank</li>
-        <li><b>Version Control:</b> Git & GitHub Workflows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<pre align="center">
+┌──────────────────────────────────────────────────────────────┐
+│ SATHISH KUMAR                                                │
+│                                                              │
+│ Role       : Full Stack Developer                            │
+│ Focus      : Software Engineering                            │
+│ Creative   : Photography                                     │
+│ Platform   : GitHub                                          │
+│ Mindset    : Build • Learn • Create • Inspire                │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+I’m a passionate developer focused on building modern, responsive and scalable applications.
+
+I enjoy working across frontend, backend, databases, APIs and developer tools while continuously improving my software engineering skills.
+
+I also have a strong interest in photography and creative content, combining technology with visual storytelling.
+
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 7: CAREER OBJECTIVE                                       -->
+<!-- SECTION 3: DEVELOPER ARSENAL                                      -->
 <!-- ================================================================= -->
 
-## 🎯 Career Objective
+# ⚔️ DEVELOPER ARSENAL
 
-> *"Dedicated and adaptable Junior Full Stack Developer seeking an entry-level position or software engineering internship at a growth-oriented technology company. Aiming to apply hands-on skills in **React.js, Python, Django, REST APIs, and modern database management** to deliver scalable web applications while collaborating closely with senior engineers to continuously upgrade technical expertise."*
+<div align="center">
 
----
-
-<!-- ================================================================= -->
-<!-- SECTION 8: TECH STACK                                             -->
-<!-- ================================================================= -->
-
-## 🛠️ Tech Stack & Tooling
-
-<table width="100%">
-  <tr>
-    <th width="25%">Category</th>
-    <th width="75%">Technologies & Tools</th>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/Node.js_(Learning)-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js_(Learning)-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB_(Learning)-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Design</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 9: SKILL ICONS                                            -->
-<!-- ================================================================= -->
-
-## 💻 Technical Arsenal
-
+### 🎨 FRONTEND
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,nodejs,express,mongodb,sqlite,mysql,git,github,vscode,postman,figma&perline=9" alt="Skill Icons Matrix" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=5&theme=dark" alt="Frontend Arsenal" />
   </a>
 </p>
 
+### ⚙️ BACKEND
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express&perline=3&theme=dark" alt="Backend Arsenal" />
+  </a>
+</p>
+
+### 🗄️ DATABASE
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" alt="Database Arsenal" />
+  </a>
+</p>
+
+### 🛠️ TOOLS & WORKFLOW
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm&perline=5&theme=dark" alt="Tools Arsenal" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 10: SKILLS PROGRESS                                       -->
+<!-- SECTION 4: FULL STACK ARCHITECTURE                                -->
 <!-- ================================================================= -->
 
-## 📈 Skill Proficiency Breakdown
+# 🏗️ FULL STACK ARCHITECTURE
 
 ```
-HTML5 / CSS3 / Responsive Design  [████████████████████] 95%
-JavaScript (ES6+ / DOM / Async)   [█████████████████░░░] 85%
-Bootstrap 5 UI Components         [██████████████████░░] 90%
-React.js (Hooks / State / UI)     [████████████████░░░░] 80%
-Python Programming & OOP          [█████████████████░░░] 85%
-Django Framework & ORM            [████████████████░░░░] 80%
-SQL Databases (MySQL / SQLite)    [████████████████░░░░] 80%
-Git & GitHub Version Control      [█████████████████░░░] 85%
-Node.js & MongoDB (Active Learn)  [████████████░░░░░░░░] 60%
+                  ┌────────────────────────┐
+                  │          USER          │
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │        FRONTEND        │
+                  │ React • JS • HTML • CSS│
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │       API LAYER        │
+                  │ REST API • Auth System │
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │        BACKEND         │
+                  │ Node.js • Express • Py │
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │        DATABASE        │
+                  │    MongoDB  •  MySQL   │
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │    VERSION CONTROL     │
+                  │      Git • GitHub      │
+                  └────────────────────────┘
 ```
+
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 11: CURRENT LEARNING ROADMAP                              -->
+<!-- SECTION 5: WHAT I BUILD                                           -->
 <!-- ================================================================= -->
 
-## 📚 Currently Expanding My Horizon
+# 🚀 WHAT I BUILD
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚛️ Advanced React.js & State Management</h4>
-      <p>Deepening knowledge of Redux Toolkit, Context API, React Query, and performance optimization techniques for large frontend applications.</p>
+      <h3>💻 01 — FRONTEND EXPERIENCES</h3>
+      <ul>
+        <li><b>Responsive Interfaces:</b> Mobile-first pixel-perfect layouts</li>
+        <li><b>Modern UI:</b> Glassmorphism & custom web styling</li>
+        <li><b>Interactive Web Apps:</b> Dynamic DOM, stateful React components</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Django REST Framework & JWT Auth</h4>
-      <p>Building secure RESTful microservices, token authentication, custom permissions, and API documentation with Swagger/Postman.</p>
+      <h3>⚙️ 02 — BACKEND SYSTEMS</h3>
+      <ul>
+        <li><b>REST APIs:</b> Clean JSON endpoints & robust controllers</li>
+        <li><b>Server-Side Logic:</b> Express.js & Python application backend</li>
+        <li><b>Authentication:</b> Secure token validation & user roles</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🟩 Full Node.js & Express Integration</h4>
-      <p>Mastering asynchronous Node runtime execution, Express routing, middleware construction, and error handling patterns.</p>
+      <h3>🗄️ 03 — DATABASE SOLUTIONS</h3>
+      <ul>
+        <li><b>MongoDB:</b> Document-based NoSQL schema design</li>
+        <li><b>MySQL:</b> Relational tables, foreign keys & query execution</li>
+        <li><b>Data Modeling:</b> Efficient CRUD data architecture</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🍃 MongoDB & MERN Stack Engineering</h4>
-      <p>Designing NoSQL data models, aggregation pipelines, Mongoose schemas, and seamless MERN stack integration.</p>
+      <h3>📸 04 — CREATIVE DIGITAL WORK</h3>
+      <ul>
+        <li><b>Photography:</b> Cinematic visual frames & lighting composition</li>
+        <li><b>Visual Storytelling:</b> Content creation blending art + tech</li>
+        <li><b>Creative Branding:</b> Identity design for digital creators</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
-
-<!-- ================================================================= -->
-<!-- SECTION 12: DEVELOPER MINDSET                                     -->
-<!-- ================================================================= -->
-
-## 🧠 Developer Mindset & Core Principles
-
-> [!TIP]
-> ### 💡 1. Learn Every Day
-> Tech changes fast. I dedicate time daily to learn new frameworks, tools, and coding practices.
-
-> [!NOTE]
-> ### 🛠️ 2. Build Real Projects
-> Hands-on experience is key. I turn concepts into practical, working applications.
-
-> [!IMPORTANT]
-> ### 🧼 3. Write Clean Code
-> Clean code is easy to read, test, and maintain. I focus on modular and readable solutions.
-
-> [!WARNING]
-> ### 🧩 4. Solve Problems Methodically
-> Great software comes from breaking complex problems into simple, manageable pieces.
-
-> [!CAUTION]
-> ### 🚀 5. Never Stop Learning & Sharing
-> Software engineering is a lifelong journey of learning, adapting, and growing with the community.
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 13: GITHUB STATISTICS                                     -->
+<!-- SECTION 6: CURRENT MISSION                                        -->
 <!-- ================================================================= -->
 
-## 📊 GitHub Analytics
+# 🎯 CURRENT MISSION
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=ffd700" alt="Sathish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</p>
+<pre>
+[████████████████████] 100% — React.js
+[██████████████████░░]  90% — Node.js
+[████████████████░░░░]  80% — Python
+[██████████████░░░░░░]  70% — Express.js
+[██████████████░░░░░░]  70% — MongoDB
+[████████████░░░░░░░░]  60% — MySQL
+[████████████████░░░░]  80% — Git & GitHub
+</pre>
+
+- 🔥 **Build real-world full-stack projects**
+- 🔥 **Improve software architecture**
+- 🔥 **Master backend development**
+- 🔥 **Build scalable APIs**
+- 🔥 **Strengthen problem-solving**
+- 🔥 **Learn modern developer workflows**
+- 🔥 **Create projects that solve real problems**
+
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 14: GITHUB STREAK                                         -->
+<!-- SECTION 7: FEATURED PROJECTS                                      -->
 <!-- ================================================================= -->
 
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&background=0d1117&border=00f2fe&stroke=00f2fe&ring=ffd700&fire=ffd700&currStreakNum=00f2fe&sideNums=ffffff" alt="GitHub Streak" width="96%" />
-</p>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 15: TOP LANGUAGES                                         -->
-<!-- ================================================================= -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-</p>
-
-<!-- ================================================================= -->
-<!-- SECTION 16: CONTRIBUTION GRAPH                                    -->
-<!-- ================================================================= -->
-
-## 📈 Activity & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=react-dark&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffd700" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 17: GITHUB TROPHY                                         -->
-<!-- ================================================================= -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</p>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 18: SNAKE ANIMATION                                       -->
-<!-- ================================================================= -->
-
-## 🐍 Contribution Grid Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-</p>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 19: FEATURED PROJECTS                                    -->
-<!-- ================================================================= -->
-
-## 🚀 Featured Real-World Projects
-
-Here is a curated collection of full-stack and web applications I have built to solve real-world problems and demonstrate my engineering skills.
-
----
-
-### 🛒 1. E-Commerce Web Application
+# 💻 FEATURED PROJECTS
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A full-featured modern online shopping platform with intuitive product browsing, detailed product view cards, dynamic cart management, order summary, and responsive checkout interface.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Dynamic product catalog with filtering & category search</li>
-        <li>Interactive shopping cart with live total calculations</li>
-        <li>Responsive customer checkout flow & dummy payment gateway UI</li>
-        <li>Clean user state management & persistent storage</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
-      <br/><br/>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Web Application</h3>
+      <p>A full-featured online shopping platform with product catalog browsing, cart state management, live order summary, and responsive checkout UI.</p>
+      <p><b>Tech Stack:</b> <code>React.js</code> • <code>JavaScript</code> • <code>Bootstrap 5</code> • <code>CSS3</code></p>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Management System</h3>
+      <p>An academic management application built to handle student records, department allotments, grade reporting, and database storage.</p>
+      <p><b>Tech Stack:</b> <code>Python</code> • <code>Django</code> • <code>SQLite</code> • <code>Bootstrap</code></p>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
       </a>
     </td>
   </tr>
-</table>
-
----
-
-### ✅ 2. Interactive To-Do List Application
-
-<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A productivity web app for task creation, deadline management, prioritization, and completion tracking with persistent local browser storage.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Create, Edit, Complete, and Delete tasks seamlessly</li>
-        <li>Filter tasks by All, Pending, and Completed status</li>
-        <li>LocalStorage integration for data persistence</li>
-        <li>Sleek Dark Mode & Light Mode UI toggle</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <br/><br/>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management System</h3>
+      <p>Comprehensive healthcare portal for patient intake registration, doctor schedule directories, appointment bookings, and department rosters.</p>
+      <p><b>Tech Stack:</b> <code>Python</code> • <code>Django</code> • <code>MySQL</code> • <code>HTML5/CSS3</code></p>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Inventory Management System</h3>
+      <p>Business warehouse tracker for monitoring stock counts, vendor contacts, sales movement history, and automated low-stock warnings.</p>
+      <p><b>Tech Stack:</b> <code>Python</code> • <code>Django</code> • <code>SQLite</code> • <code>Bootstrap</code></p>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
       </a>
     </td>
   </tr>
-</table>
-
----
-
-### 🎓 3. Student Management System
-
-<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A full-stack web application designed for academic institutions to manage student records, department allotments, grade tracking, and roll-call data with database persistence.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Complete CRUD (Create, Read, Update, Delete) operations for student files</li>
-        <li>Department-wise search, filtering, and sorting capabilities</li>
-        <li>Relational database storage (SQLite / MySQL)</li>
-        <li>Form validation & clean user alert messaging</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <br/><br/>
+    <td width="50%" valign="top">
+      <h3>👨‍💼 HR Management System</h3>
+      <p>Enterprise human resources portal for employee records, leave application approvals, daily attendance tracking, and manager roles.</p>
+      <p><b>Tech Stack:</b> <code>React.js</code> • <code>Python</code> • <code>Django REST</code> • <code>MySQL</code></p>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
       <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Personal Finance Tracker</h3>
+      <p>Money management app allowing users to record income/expenses, track monthly spending categories, and visualize overall balance.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> • <code>React.js</code> • <code>Bootstrap 5</code></p>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      <a href="https://github.com/sathishkofficial01">
+        <img src="https://img.shields.io/badge/Live_Demo-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" />
       </a>
     </td>
   </tr>
 </table>
 
----
-
-### 🏥 4. Hospital Management System
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A comprehensive web system for healthcare facilities to streamline patient intake, doctor schedules, appointment bookings, and department rosters.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Patient registration & medical history management</li>
-        <li>Doctor directory with specialization filters & slot availability</li>
-        <li>Online appointment booking form with instant validation</li>
-        <li>Admin dashboard for managing hospital departments</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
-      <br/><br/>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📦 5. Inventory Management System
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A business inventory tracker for monitoring warehouse stock levels, managing suppliers, recording incoming/outgoing products, and alerting low-stock items.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Product inventory catalog with SKU tracking & stock counts</li>
-        <li>Automated low-stock threshold visual warnings</li>
-        <li>Supplier & vendor contact management</li>
-        <li>Sales/Stock movement history log</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <br/><br/>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 👨‍💼 6. HR Management System
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> An internal web portal designed for Human Resources to maintain employee profiles, track attendance, manage leave applications, and view company hierarchy.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Employee profile management with job title, salary tier, and contact data</li>
-        <li>Leave application request & manager approval workflow</li>
-        <li>Daily attendance status logging system</li>
-        <li>Role-based access view for Employees & HR Admins</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="DRF" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <br/><br/>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💰 7. Personal Finance Tracker
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> An intuitive money management app allowing users to track daily income and expenses, categorize spending, and visualize budget health.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Add, edit, and categorize income & expense transactions</li>
-        <li>Monthly budget goal tracker with progress bars</li>
-        <li>Visual summary tables for spending breakdowns</li>
-        <li>Persistent record keeping & CSV export capability</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
-      <br/><br/>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🍽️ 8. Restaurant Management System
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p><b>Description:</b> A full restaurant operations management system handling digital menu displays, table reservation management, customer order processing, and bill generation.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Digital interactive food & beverage menu with categories</li>
-        <li>Table reservation booking form with date/time pickers</li>
-        <li>Kitchen order ticket (KOT) status update view</li>
-        <li>Instant itemized bill calculation with tax summary</li>
-      </ul>
-      <p><b>Tech Stack:</b></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <br/><br/>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      <a href="https://github.com/sathishkofficial01">
-        <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 20: LEARNING ROADMAP                                      -->
+<!-- SECTION 8: GITHUB ANALYTICS                                       -->
 <!-- ================================================================= -->
 
-## 🗺️ Engineering Growth Roadmap (2026)
+# 📊 GITHUB COMMAND CENTER
 
-| Quarter | Focus Milestone | Target Technologies / Goals | Status |
-| :--- | :--- | :--- | :---: |
-| **Q1 2026** | **Frontend Mastery & React UI** | HTML5, CSS3, JavaScript ES6+, Bootstrap 5, React Components & Hooks | ✅ Completed |
-| **Q2 2026** | **Backend Architecture & APIs** | Python 3, Django Framework, ORM, Relational Databases (MySQL/SQLite) | ✅ Completed |
-| **Q3 2026** | **Full Stack Integration & MERN** | Django REST Framework, Node.js, Express.js, MongoDB, JWT Auth | 🔄 In Progress |
-| **Q4 2026** | **DevOps & Cloud Deployment** | Docker, GitHub Actions CI/CD, AWS/Vercel/Render Deployments | 🎯 Upcoming |
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=dark&hide_border=false&border_color=f97316&bg_color=0d1117&title_color=f97316&text_color=c9d1d9&icon_color=f97316" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=dark&hide_border=false&border_color=f97316&bg_color=0d1117&title_color=f97316&text_color=c9d1d9" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=dark&background=0d1117&border=f97316&stroke=f97316&ring=f97316&fire=f97316&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak Stats" width="96%" />
+
+</div>
+
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 21: EDUCATION                                             -->
+<!-- SECTION 9: CONTRIBUTION SNAKE                                     -->
 <!-- ================================================================= -->
 
-## 🎓 Academic Foundation
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<!-- ================================================================= -->
+<!-- SECTION 10: GITHUB ACTIVITY                                       -->
+<!-- ================================================================= -->
+
+# ⚡ DEVELOPMENT ACTIVITY
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=react-dark&bg_color=0d1117&color=f97316&line=f97316&point=ffffff" alt="Development Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<!-- ================================================================= -->
+<!-- SECTION 11: PHOTOGRAPHY SECTION                                   -->
+<!-- ================================================================= -->
+
+# 📸 BEYOND CODE
+
+<div align="center">
+
+> **"CODE teaches me how systems work.**
+> **PHOTOGRAPHY teaches me how stories feel."**
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   🎓 Bachelor's Degree / Higher Education in Computer Science / Tech   │
-│   📍 Institution: Reputed Technical University, India 🇮🇳                 │
-│   📚 Core Coursework:                                                   │
-│      • Object-Oriented Programming (OOP)                                │
-│      • Data Structures & Algorithms (DSA)                               │
-│      • Database Management Systems (DBMS & SQL)                         │
-│      • Web Application Technologies & Architecture                      │
-│      • Software Engineering & SDLC Methodologies                        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────┐
+ │           CODE × CREATIVITY × VISUAL STORYTELLING           │
+ └─────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-<!-- ================================================================= -->
-<!-- SECTION 22: CERTIFICATIONS                                        -->
-<!-- ================================================================= -->
-
-## 📜 Certifications & Specialized Training
-
-- 🏆 **Full Stack Web Development Program**: Comprehensive training in responsive frontend engineering, backend Python/Django APIs, and SQL database design.
-- 🐍 **Python Programming & Problem Solving**: Certified proficiency in Python data structures, modular programming, and algorithmic problem solving.
-- ⚛️ **Modern React.js Specialization**: Practical completion of component architecture, state management hooks, and single-page app (SPA) development.
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 23: PHOTOGRAPHY & CREATIVE PURSUITS                       -->
+<!-- SECTION 12: DEVELOPER PHILOSOPHY                                  -->
 <!-- ================================================================= -->
 
-## 📷 Creative Pursuits & Visual Design
+# 🧠 DEVELOPER PHILOSOPHY
 
-> *"A great user interface requires the eye of a designer and the precision of an engineer."*
+> ⚡ **BUILD WITH PURPOSE.**
 
-Beyond coding logic, I hold a strong passion for **Photography & UI/UX Aesthetics**. Capturing real-world lighting, perspective, and composition directly enhances my approach to **frontend layout balance, color harmony, typography hierarchy, and visual design**.
+> 📖 **LEARN EVERY DAY.**
+
+> 💻 **WRITE CODE THAT MATTERS.**
+
+> 🚀 **CREATE. IMPROVE. REPEAT.**
+
+> ✨ **TURN IDEAS INTO REALITY.**
+
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 24: CONTACT ME                                            -->
+<!-- SECTION 13: 2026 ROADMAP                                          -->
 <!-- ================================================================= -->
 
-## 📬 Direct Contact Channels
+# 🛣️ 2026 ROADMAP
 
-Feel free to reach out for software engineering opportunities, internships, project collaborations, or technical discussions!
+```
+ 01 ▸ MASTER FULL STACK DEVELOPMENT
+ 02 ▸ BUILD REAL-WORLD PROJECTS
+ 03 ▸ DEEPEN BACKEND KNOWLEDGE
+ 04 ▸ IMPROVE SYSTEM DESIGN
+ 05 ▸ CREATE A STRONG DEVELOPER PORTFOLIO
+ 06 ▸ CONTRIBUTE TO OPEN SOURCE
+ 07 ▸ KEEP BUILDING
+```
 
-<table width="100%">
-  <tr>
-    <td width="20%"><b>📧 Email</b></td>
-    <td width="80%"><a href="mailto:sathishkofficial01@gmail.com"><code>sathishkofficial01@gmail.com</code></a></td>
-  </tr>
-  <tr>
-    <td><b>💼 LinkedIn</b></td>
-    <td><a href="https://linkedin.com/in/sathishkofficial01"><code>linkedin.com/in/sathishkofficial01</code></a></td>
-  </tr>
-  <tr>
-    <td><b>💻 GitHub</b></td>
-    <td><a href="https://github.com/sathishkofficial01"><code>github.com/sathishkofficial01</code></a></td>
-  </tr>
-  <tr>
-    <td><b>⚡ Response Time</b></td>
-    <td>Within 24 Hours</td>
-  </tr>
-</table>
+<br/>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION 25: CONNECT WITH ME                                       -->
+<!-- SECTION 14: GITHUB PROFILE FOOTER                                 -->
 <!-- ================================================================= -->
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sathishkofficial01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sathishkofficial01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/sathishkofficial01" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/sathishkofficial01" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:sathishkofficial01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+### ⚡ CODE • CREATE • CAPTURE
 
-<!-- ================================================================= -->
-<!-- SECTION 26: DEVELOPER QUOTE                                       -->
-<!-- ================================================================= -->
+## SATHISH KUMAR
+**FULL STACK DEVELOPER • SOFTWARE ENGINEER • CREATIVE PHOTOGRAPHER**
 
-## 💬 Developer Quote
+<a href="https://instagram.com/sathishkofficial01">
+  <img src="https://img.shields.io/badge/@sathishkofficial01-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/sathishkofficial01">
+  <img src="https://img.shields.io/badge/@sathishkofficial01-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-> 💬 *"First, solve the problem. Then, write the code."* — **John Johnson**
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&color=f97316&style=flat-square&label=VISITOR+COUNT" alt="Visitor Counter" />
 
-<!-- ================================================================= -->
-<!-- SECTION 27: FUN FACTS                                             -->
-<!-- ================================================================= -->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚡ Fun Facts & Trivia
+**CODE • CREATE • CAPTURE**
 
-- ☕ I turn green tea & coffee into clean, working full-stack applications.
-- 🎨 Dark Mode is not just a theme for me; it's a lifestyle.
-- 🔍 I love debugging complex layout shifts until every single pixel aligns perfectly.
-- ⌨️ VS Code keyboard shortcuts save me hundreds of extra clicks every day.
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 28: SUPPORT MY JOURNEY                                    -->
-<!-- ================================================================= -->
-
-## ☕ Support My Work
-
-If you find my projects helpful or enjoy my open-source work, consider giving my repositories a ⭐ on GitHub!
-
-<p align="center">
-  <a href="https://github.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="Star Repos" />
-  </a>
-</p>
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 29: THANK YOU SECTION                                     -->
-<!-- ================================================================= -->
-
-## 🙏 Thank You!
-
-Thank you for visiting my GitHub profile README! If you are a recruiter, engineering manager, or developer looking to connect, feel free to reach out via [LinkedIn](https://linkedin.com/in/sathishkofficial01) or [Email](mailto:sathishkofficial01@gmail.com).
-
-Let's build something amazing together! 🚀
-
----
-
-<!-- ================================================================= -->
-<!-- SECTION 30: PREMIUM ANIMATED FOOTER                               -->
-<!-- ================================================================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052d4,100:00f2fe&height=150&section=footer&text=%C2%A9%202026%20Sathish%20Kumar%20%7C%20Designed%20%26%20Developed%20with%20%E2%9D%A4%EF%B8%8F&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
-</p>
-
-<p align="center">
-  <b>© 2026 Sathish Kumar. All Rights Reserved.</b><br/>
-  <i>Crafted with passion, precision, and modern web standards.</i>
-</p>
+</div>
