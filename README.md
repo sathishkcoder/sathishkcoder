@@ -20,7 +20,7 @@
 
 <!-- ================================================================= -->
 <!-- SECTION 3: QUICK BADGES & STATUS INDICATORS                       -->
-<!-- ================================================================= -->
+<!-- ================================================================= -->  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
