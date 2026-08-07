@@ -1,1055 +1,342 @@
-<!-- ====================================================== -->
-<!--                🚀 PREMIUM HERO SECTION                 -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
+<!-- TOP BANNER SVG -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=220&section=header&text=SATHISH%20KUMAR&fontSize=50&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20ASPIRING%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=62&descColor=FFFFFF" width="100%" alt="Header Banner" />
 
-# 👋 Hi, I'm <span style="color:#f4b400">Sathish Kumar</span>
+<br/>
 
-### 🚀 Front-End Developer • Aspiring Full Stack Developer
+<!-- DYNAMIC TYPING TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=750&height=40&lines=Building+modern+web+experiences...;Growing+towards+Full-Stack+Development...;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python" alt="Typing Tagline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=F4B400&lines=Building+Modern+Web+Applications;React.js+Developer;Python+Learner;Always+Learning+New+Technologies;Open+To+Internship+%26+Full-Time+Opportunities"/>
+<br/><br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=PROFILE+VIEWS&style=for-the-badge&color=f4b400"/>
-
-<img src="https://img.shields.io/github/followers/sathishkofficial01?style=for-the-badge&logo=github&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/sathishkofficial01?style=for-the-badge&logo=github&color=FFD700"/>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin"/>
+<!-- HERO BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-FRONT--END_DEVELOPER-FF6B00?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0D1117" alt="Front-End" />
+  <img src="https://img.shields.io/badge/STACK-REACT.JS-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React" />
+  <img src="https://img.shields.io/badge/LANG-PYTHON-FF6B00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+  <img src="https://img.shields.io/badge/GOAL-FULL_STACK-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00C853?style=for-the-badge&logo=workplace&logoColor=white&labelColor=0D1117" alt="Open To Work" />
+</p>
 
 </div>
 
-<br>
-
-<p align="center">
-
-<a href="https://sathishkcoder.github.io/resume/" target="_blank">
-<img src="https://img.shields.io/badge/📄%20View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🚀 Quick Navigation
-
-<p align="center">
-
-<a href="#-about-me">
-<img src="https://img.shields.io/badge/👨‍💻_About-111827?style=for-the-badge"/>
-</a>
-
-<a href="#-main-tech-stack">
-<img src="https://img.shields.io/badge/🛠_Tech_Stack-1F2937?style=for-the-badge"/>
-</a>
-
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/🚀_Projects-374151?style=for-the-badge"/>
-</a>
-
-<a href="#-github-analytics">
-<img src="https://img.shields.io/badge/📊_Analytics-4B5563?style=for-the-badge"/>
-</a>
-
-<a href="#-contact-me">
-<img src="https://img.shields.io/badge/📬_Contact-6B7280?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="Banner3.png.jpeg" width="100%" alt="Banner"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💼 Professional Snapshot
-
-💻 **Front-End Developer**
-
-⚛️ **React.js Enthusiast**
-
-🐍 **Python Learner**
-
-🌱 **Currently Learning:** React.js • Node.js • Express.js • MongoDB
-
-🎯 **Goal:** Become a Full Stack Developer
-
-📸 **Passion:** Coding & Photography
-
-📍 **Location:** India 🇮🇳
-
-</div>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--                 END OF HERO SECTION                    -->
-<!-- ====================================================== -->
-
-
-<!-- ====================================================== -->
-<!--                    👨‍💻 ABOUT ME                      -->
-<!-- ====================================================== -->
-
-<a name="-about-me"></a>
-
-# 👨‍💻 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=700&lines=Passionate+Frontend+Developer;Aspiring+Full+Stack+Developer;Always+Learning+New+Technologies"/>
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="60%" valign="top">
-
-### 🚀 Hello, I'm Sathish Kumar
-
-I'm a passionate **Front-End Developer** who enjoys creating modern, responsive and user-friendly web applications.
-
-Currently I'm expanding my skills in **Full Stack Web Development** by learning backend technologies and building real-world projects.
-
-<br>
-
-### 💼 Current Status
-
-- 💻 Front-End Developer
-- 🌱 Learning React.js, Node.js & Python
-- 🎯 Goal: Become a Full Stack Developer
-- 📸 Photography Lover
-- 🚀 Open to Internship & Full-Time Opportunities
-
-<br>
-
-### 🎯 Career Objective
-
-> Build scalable web applications that create meaningful user experiences while continuously improving my technical and problem-solving skills.
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="320"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,typescript,nodejs,python,express,mongodb,git,github,vscode"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## ⚡ Quick Information
-
-| 💡 Information | 📌 Details |
-|---------------|------------|
-| 👨 Name | Sathish Kumar |
-| 💼 Role | Front-End Developer |
-| 🌱 Learning | React.js, Python, Node.js |
-| 🎓 Education | B.Com (Computer Applications) |
-| 🏫 Training | FITA Academy |
-| 📍 Location | India 🇮🇳 |
-| 💼 Status | Open To Work |
-| 📷 Hobby | Photography |
-| ❤️ Passion | Coding & Learning |
-
----
-
-<div align="center">
-
-## 💡 Developer Mindset
-
-✨ Learn Every Day
-
-🚀 Build Real Projects
-
-💻 Write Clean Code
-
-📚 Never Stop Learning
-
-🤝 Share Knowledge
-
-</div>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--                 END OF ABOUT ME                        -->
-<!-- ====================================================== -->
-
-<!-- ====================================================== -->
-<!--               🚀 MAIN TECH STACK                       -->
-<!-- ====================================================== -->
-
-<a name="-main-tech-stack"></a>
-
-# 🚀 Main Tech Stack
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=750&lines=Technologies+I+Use;Always+Learning+Something+New;Building+Modern+Web+Applications"/>
-
-</div>
-
----
-
-## 🌐 Front-End Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,typescript"/>
-
-</p>
-
-<div align="center">
-
-HTML5 • CSS3 • JavaScript • React.js • Bootstrap • TypeScript
-
-</div>
-
----
-
-## ⚙️ Back-End Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb"/>
-
-</p>
-
-<div align="center">
-
-Python • Node.js • Express.js • MongoDB
-
-</div>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,mysql,postman"/>
-
-</p>
-
-<div align="center">
-
-Git • GitHub • VS Code • PyCharm • MySQL • Postman
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript"/>
-
-</p>
-
-<div align="center">
-
-React.js • TypeScript • Node.js • Express.js • MongoDB
-
-</div>
-
----
-
-## 💡 Technology Overview
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html"/><br>
-<b>HTML5</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css"/><br>
-<b>CSS3</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js"/><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react"/><br>
-<b>React</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python"/><br>
-<b>Python</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs"/><br>
-<b>Node.js</b>
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-### 💻 "Great applications are built with continuous learning and consistent practice."
-
-</div>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--            END OF MAIN TECH STACK                      -->
-<!-- ====================================================== -->
-
-
-<!-- ====================================================== -->
-<!--                📈 SKILLS PROGRESS                      -->
-<!-- ====================================================== -->
-
-<a name="-skills-progress"></a>
-
-# 📈 Skills Progress
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=F4B400&lines=Always+Learning+New+Technologies;Building+Modern+Web+Applications;Practice+Makes+Perfect"/>
-
-</div>
-
----
-
-# 🌐 Front-End Development
-
-| Technology | Proficiency |
-|------------|-------------|
-| 🌐 HTML5 | 🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜ **95%** |
-| 🎨 CSS3 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ **90%** |
-| ⚡ JavaScript | 🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ **85%** |
-| ⚛️ React.js | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ **80%** |
-| 🎀 Bootstrap | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **80%** |
-| 📘 TypeScript | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ **60%** |
-
----
-
-# ⚙️ Back-End Development
-
-| Technology | Proficiency |
-|------------|-------------|
-| 🐍 Python | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ **70%** |
-| 🟢 Node.js | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **65%** |
-| 🚀 Express.js | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **60%** |
-| 🍃 MongoDB | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ **50%** |
-
----
-
-# 🛠 Tools & Software
-
-| Tool | Proficiency |
-|------|-------------|
-| 📝 VS Code | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 **100%** |
-| 🔀 Git | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ **80%** |
-| 🐙 GitHub | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ **80%** |
-| 💾 MySQL | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **70%** |
-| 📮 Postman | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ **70%** |
-| 💻 PyCharm | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **60%** |
-
----
-
-## 💡 Learning Journey
-
-```text
-✅ HTML & CSS           ████████████████████
-
-✅ JavaScript           ██████████████████░░
-
-✅ React.js             ████████████████░░░
-
-🚀 Python              █████████████░░░░░
-
-🚀 Node.js             ████████████░░░░░░
-
-🚀 MongoDB             ██████████░░░░░░░░
+<br/>
+
+<!-- SECTION 01: HERO -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=01%20%E2%80%94%20HERO%20COMMAND%20CENTER&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+```
+   _____    _______   _    _  _____   _____  _    _   _  ____  _____   ______ 
+  / ____|  / ____| \ | |  / /|_   _| / ____|| |  | | | |/ __ \|  __ \ / ____| 
+ | (___   | |  __| |\| | / /   | |  | (___  | |__| | | | |  | | |__) | (___   
+  \___ \  | | |_ | . ` |/ /    | |   \___ \ |  __  | | | |  | |  _  / \___ \  
+  ____) | | |__| | |\  / /    _| |_  ____) || |  | | | | |__| | | \ \ ____) | 
+ |_____/   \_____|_| \_/_/    |_____|_____/ |_|  |_| |_|\____/|_|  \_\_____/  
+                                                                              
+                   FRONT-END DEVELOPER | ASPIRING FULL STACK DEVELOPER
 ```
 
----
+<br/>
 
-<div align="center">
+<!-- SECTION 02: TERMINAL PROFILE -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=02%20%E2%80%94%20TERMINAL%20PROFILE&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-### 🎯 My Goal
+```json
+{
+  "developer": "Sathish Kumar",
+  "role": "Front-End Developer",
+  "education": "B.Com — Computer Applications",
+  "college": "Devanga Arts College (Madurai Kamaraj University)",
+  "training": "FITA Academy",
+  "skills": ["React.js", "TypeScript", "Node.js", "Express.js", "MongoDB", "Python"],
+  "passion": "Coding + Photography",
+  "status": "Open To Work",
+  "location": "Tamil Nadu, India 🇮🇳"
+}
+```
 
-🔥 Master Front-End Development
+<br/>
 
-⚛️ Become an Advanced React Developer
+<!-- SECTION 03: ABOUT ME -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=03%20%E2%80%94%20ABOUT%20ME&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-🐍 Learn Python Development
-
-🌐 Become a Full Stack Developer
-
-🚀 Build Scalable Real-World Applications
-
-</div>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--             END OF SKILLS PROGRESS                     -->
-<!-- ====================================================== -->
-
-
-<!-- ====================================================== -->
-<!--               ⭐ FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-<a name="-featured-projects"></a>
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=F4B400&lines=Real+World+Projects;Clean+Code+%7C+Modern+UI;Always+Building+Something+New"/>
-
-</div>
+> ⚡ **Hello, World!** I am **Sathish Kumar**, a passionate **Front-End Developer** who loves crafting modern, highly responsive, and user-friendly web applications.
+> 
+> My strength lies in building clean UI components, structuring efficient code, and creating seamless digital interactions. I am currently expanding my capabilities into **Full Stack Development** by mastering server-side technologies, APIs, and databases.
 
 <p align="center">
-
-💡 Here are some of my favorite projects built while learning and exploring modern web technologies.
-
+  <code>React.js</code> &nbsp;•&nbsp; 
+  <code>TypeScript</code> &nbsp;•&nbsp; 
+  <code>Node.js</code> &nbsp;•&nbsp; 
+  <code>Express.js</code> &nbsp;•&nbsp; 
+  <code>MongoDB</code> &nbsp;•&nbsp; 
+  <code>Python</code>
 </p>
 
----
-
-# 🛒 E-Commerce Website
-
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-### 🚀 Overview
-
-A modern and responsive shopping website with a clean UI and essential e-commerce features.
-
-### ✨ Key Features
-
-✅ Product Listing
-
-✅ Search & Filter
-
-✅ Shopping Cart
-
-✅ Wishlist
-
-✅ User Authentication
-
-✅ Checkout
-
-✅ Fully Responsive
-
-### 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,js,css,firebase"/>
-
-### 📊 Status
-
-🟢 Completed
-
-### 🔗 Links
-
-🔴 **Live Demo:** Coming Soon
-
-📂 **Source Code:** https://github.com/sathishkofficial01
-
-<br clear="right"/>
-
----
-
-# 🎓 Student Management System
-
-<img align="right" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-
-### 🚀 Overview
-
-Student record management system with CRUD operations.
-
-### ✨ Features
-
-✅ Add Students
-
-✅ Update Records
-
-✅ Delete Records
-
-✅ Search Students
-
-✅ Dashboard
-
-### 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,firebase"/>
-
-### 📊 Status
-
-🟢 Completed
-
-### 🔗 Links
-
-🔴 **Live Demo:** Coming Soon
-
-📂 **Source Code:** https://github.com/sathishkofficial01
-
-<br clear="right"/>
-
----
-
-# ✅ Todo Application
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 🚀 Overview
-
-Simple productivity application to manage daily tasks efficiently.
-
-### ✨ Features
-
-✅ Add Task
-
-✅ Edit Task
-
-✅ Delete Task
-
-✅ Complete Task
-
-✅ Local Storage
-
-### 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-### 📊 Status
-
-🟢 Completed
-
-### 🔗 Links
-
-🔴 **Live Demo:** Coming Soon
-
-📂 **Source Code:** https://github.com/sathishkofficial01
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## 🚀 More Projects Coming Soon
-
-⭐ I'm continuously building new projects and improving my development skills.
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Projects-03-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--             END OF FEATURED PROJECTS                   -->
-<!-- ====================================================== -->
-
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-> ### 🚀 My GitHub Journey in Numbers
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌍 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-## 📦 Repository Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-## ⚡ Productivity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sathishkofficial01/sathishkofficial01/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--                  🎓 EDUCATION                          -->
-<!-- ====================================================== -->
-
-<a name="-education"></a>
-
-# 🎓 Education
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=F4B400&lines=Education+%26+Professional+Training;Continuous+Learning+Journey"/>
-
-</div>
-
----
-
-## 🎓 Bachelor Degree
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-### Bachelor of Commerce (Computer Applications)
-
-🏫 **Devanga Arts College**
-
-🎓 **Madurai Kamaraj University**
-
-📍 Tamil Nadu, India
-
-📖 Completed Undergraduate Degree
-
-</td>
-
-<td align="center">
-
-🎓
-
-</td>
-
-</tr>
-
+<br/>
+
+<!-- SECTION 04: DEVELOPER COMMAND CENTER -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=04%20%E2%80%94%20DEVELOPER%20COMMAND%20CENTER&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ FRONT-END</h3>
+      <p align="center">
+        <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code><br/><br/>
+        <code>React.js</code> &nbsp; <code>Bootstrap</code> &nbsp; <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ BACK-END</h3>
+      <p align="center">
+        <code>Python</code> &nbsp; <code>Node.js</code><br/><br/>
+        <code>Express.js</code> &nbsp; <code>MongoDB</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ TOOLS & DATABASES</h3>
+      <p align="center">
+        <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VS Code</code><br/><br/>
+        <code>PyCharm</code> &nbsp; <code>MySQL</code> &nbsp; <code>Postman</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 CURRENT MISSION</h3>
+      <ul>
+        <li><kbd>01</kbd> Master Front-End Core</li>
+        <li><kbd>02</kbd> Advanced React UI Engineering</li>
+        <li><kbd>03</kbd> Python & Backend Automation</li>
+        <li><kbd>04</kbd> Full Stack Web Development</li>
+        <li><kbd>05</kbd> Build Real-World Production Apps</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## 📜 Professional Training
+<!-- SECTION 05: TECH STACK -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=05%20%E2%80%94%20TECH%20STACK&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-<tr>
+<br/>
 
-<td width="70%">
+<!-- SECTION 06: LEARNING LAB -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=06%20%E2%80%94%20LEARNING%20LAB&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-### 🏫 FITA Academy
+```
+HTML & CSS     [████████████████████] 100%
+JavaScript     [██████████████████░░] 90%
+React.js       [████████████████░░░░] 80%
+Python         [█████████████░░░░░░░] 65%
+Node.js        [████████████░░░░░░░░] 60%
+MongoDB        [██████████░░░░░░░░░░] 50%
+TypeScript     [████████░░░░░░░░░░░░] 40%
+```
 
-**Full Stack Web Development**
+> 📌 *Personal learning progress benchmark, actively updated as I build and master new tools.*
 
-✔ HTML5
+<p align="center">
+  <code>Learn</code> ➔ <code>Build</code> ➔ <code>Debug</code> ➔ <code>Improve</code> ➔ <code>Repeat</code>
+</p>
 
-✔ CSS3
+<br/>
 
-✔ JavaScript
+<!-- SECTION 07: FEATURED PROJECTS -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=07%20%E2%80%94%20FEATURED%20PROJECTS&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-✔ React.js
-
-✔ Python
-
-✔ Node.js
-
-✔ MySQL
-
-✔ Git & GitHub
-
-✔ REST API
-
-</td>
-
-<td align="center">
-
-💻
-
-</td>
-
-</tr>
-
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 — E-COMMERCE WEBSITE</h3>
+      <p>Modern responsive shopping website featuring dynamic UI components and cart management.</p>
+      <ul>
+        <li>Product Listing</li>
+        <li>Search & Filter</li>
+        <li>Shopping Cart</li>
+        <li>Wishlist</li>
+        <li>User Auth</li>
+        <li>Checkout UI</li>
+      </ul>
+      <p><strong>STATUS:</strong> <code>COMPLETED</code></p>
+      <p>
+        <a href="https://github.com/sathishkofficial01">
+          <img src="https://img.shields.io/badge/Source_Code-FF6B00?style=flat-square&logo=github&logoColor=white" alt="Source" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 — STUDENT MANAGEMENT</h3>
+      <p>Full-featured student record management application performing essential CRUD operations.</p>
+      <ul>
+        <li>Add Students</li>
+        <li>Update Records</li>
+        <li>Delete Records</li>
+        <li>Search Directory</li>
+        <li>Dashboard UI</li>
+      </ul>
+      <br/>
+      <p><strong>STATUS:</strong> <code>COMPLETED</code></p>
+      <p>
+        <a href="https://github.com/sathishkofficial01">
+          <img src="https://img.shields.io/badge/Source_Code-FF6B00?style=flat-square&logo=github&logoColor=white" alt="Source" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 — TODO APPLICATION</h3>
+      <p>Sleek productivity application designed for managing daily tasks and task persistence.</p>
+      <ul>
+        <li>Add Task</li>
+        <li>Edit Task</li>
+        <li>Delete Task</li>
+        <li>Complete Task</li>
+        <li>Local Storage</li>
+      </ul>
+      <br/>
+      <p><strong>STATUS:</strong> <code>COMPLETED</code></p>
+      <p>
+        <a href="https://github.com/sathishkofficial01">
+          <img src="https://img.shields.io/badge/Source_Code-FF6B00?style=flat-square&logo=github&logoColor=white" alt="Source" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## 📚 Currently Learning
+<!-- SECTION 08: GITHUB COMMAND CENTER -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=08%20%E2%80%94%20GITHUB%20COMMAND%20CENTER&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
 
-🟢 React.js
+<div align="center">
 
-🟢 TypeScript
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00&border_color=FF6B00" alt="GitHub Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00" alt="Top Languages" height="175" />
+      </td>
+    </tr>
+  </table>
 
-🟢 Node.js
+  <br/>
 
-🟢 Express.js
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=tokyonight&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=FF6B00&dates=888888&border=FF6B00" alt="GitHub Streak" width="95%" />
 
-🟢 MongoDB
+  <br/><br/>
 
-🟢 Python
+  <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" width="95%" />
 
----
+</div>
+
+<br/>
+
+<!-- SECTION 09: EDUCATION TIMELINE -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=09%20%E2%80%94%20EDUCATION%20TIMELINE&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+```
+🎓 ACADEMIC DEGREES
+├── B.COM — COMPUTER APPLICATIONS
+│   ├── Institution : Devanga Arts College
+│   ├── University  : Madurai Kamaraj University
+│   └── Location    : Tamil Nadu, India 🇮🇳
+│
+💻 PROFESSIONAL TRAINING
+└── FULL STACK WEB DEVELOPMENT
+    ├── Academy     : FITA Academy
+    └── Training    : HTML5 • CSS3 • JavaScript • React.js • Python
+                      Node.js • MySQL • Git & GitHub • REST API
+```
+
+<br/>
+
+<!-- SECTION 10: BEYOND THE CODE -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=10%20%E2%80%94%20BEYOND%20THE%20CODE%20%7C%20PHOTOGRAPHY&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+> 📷 *"Capturing moments. Creating memories. Telling stories through every frame."*
+
+Photography helps me see the world through framing, balance, light, and perspective. This creative discipline sharpens my attention to detail when building UI components.
+
+* **Interests:** `Nature` • `Landscape` • `Night` • `Travel` • `Street`
+
+```
+┌── CODING × PHOTOGRAPHY MATRIX ───────────────────────────────────────────────┐
+│   CODING        : Logic      • Structure   • Problem Solving                 │
+│   PHOTOGRAPHY   : Creativity • Observation • Perspective                     │
+│   ─────────────────────────────────────────────────────────────────────────  │
+│   RESULT        = BETTER THINKING • BETTER DESIGN • BETTER EXPERIENCES        │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- SECTION 11: CAREER MISSION -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=11%20%E2%80%94%20CAREER%20MISSION&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+```
+01 — Master Front-End Development
+02 — Become an Advanced React Developer
+03 — Learn Python Development
+04 — Become a Full Stack Developer
+05 — Build Scalable Real-World Applications
+06 — Continuously Improve Problem-Solving Skills
+```
+
+> **"Learn continuously. Build consistently. Improve relentlessly."**
+
+<br/>
+
+<!-- SECTION 12: CONNECT -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=45&text=12%20%E2%80%94%20LET%27S%20CONNECT&fontSize=18&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" />
+
+<div align="center">
+
+<p><em>Open to internship and full-time opportunities, collaborations and real-world development projects.</em></p>
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
+  <a href="https://github.com/sathishkofficial01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<!-- ====================================================== -->
-<!--                📸 PHOTOGRAPHY                          -->
-<!-- ====================================================== -->
-
-# 📸 Photography
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=F4B400&lines=Photography+is+my+Creative+Passion;Capturing+Moments+That+Matter"/>
-
 </div>
 
----
+<br/>
 
-> **"Capturing moments. Creating memories. Telling stories through every frame."** 📷
-
-<br>
-
-<div align="center">
-
-📸 Photography is more than a hobby.
-
-It helps me observe details, appreciate creativity,
-
-and see the world from different perspectives.
-
-</div>
-
-<br>
-
-<p align="center">
-
-📷 Nature • 🌇 Landscape • 🌃 Night • 🌿 Travel • ☕ Street
-
-</p>
-
----
-
-## 💡 Why I Love Photography
-
-✨ Creativity
-
-📷 Storytelling
-
-🌍 Exploring New Places
-
-🎨 Better Observation
-
-💙 Creating Memories
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-</p>
-
-<!-- ====================================================== -->
-<!--                 📬 CONTACT ME                          -->
-<!-- ====================================================== -->
-
-<a name="-contact-me"></a>
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=F4B400&lines=Let's+Build+Something+Amazing+Together;Always+Open+to+New+Opportunities"/>
-
-</div>
-
-<br>
-
-<p align="center">
-
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://sathishkcoder.github.io/resume/" target="_blank">
-<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💬 Favorite Quote
-
-> **"Stay curious. Keep learning. Build something amazing."** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for Visiting My Profile!
-
-⭐ Thank you for taking the time to explore my GitHub profile.
-
-💻 I enjoy building modern web applications, learning new technologies, and sharing my work with the developer community.
-
-⭐ If you like my projects, consider giving them a **Star**.
-
-🚀 Happy Coding!
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Coding is my Passion ❤️
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;Never+Stop+Coding..."/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Profile Highlights
-
-🌟 Front-End Developer
-
-⚛️ React.js Enthusiast
-
-🐍 Python Learner
-
-📸 Photography Lover
-
-🌱 Lifelong Learner
-
-💼 Open To Work
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&color=gradient"/>
-
-</div>
-
-<!-- ====================================================== -->
-<!--                  END OF README                         -->
-<!-- ====================================================== -->
-
-
-****************************************************************************************************************************************************
-
-<p align="center">
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://sathishkcoder.github.io/resume/" target="_blank">
-<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
+<!-- SECTION 13: FINAL SIGNATURE -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=120&section=footer&text=SATHISH%20KUMAR%20%E2%80%94%20HAPPY%20CODING%20%F0%9F%9A%80&fontSize=18&fontColor=FF6B00" width="100%" />
