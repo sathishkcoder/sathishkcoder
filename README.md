@@ -1,58 +1,22 @@
-<div align="center">
+Create an ultra-premium cinematic interactive personal portfolio website for:
 
-# ⚡ SATHISHKUMAR K
+SATHISHKUMAR K
 
-### FRONT-END DEVELOPER • REACT.JS DEVELOPER
+Role:
+Front-End Developer | Web Developer | React.js Developer
+Aspiring Full Stack Developer
 
-<p>
-  <strong>CODE × CREATE × CAPTURE</strong>
-</p>
+Use the uploaded reference image as the primary visual inspiration for the overall layout, composition, color palette, card styling, typography hierarchy, and futuristic developer aesthetic.
 
-<img
-  src="assets/hero.png"
-  width="100%"
-  alt="Sathishkumar K - Developer Portfolio"
-/>
+IMPORTANT:
+Do NOT create a generic portfolio website.
+Make it look like a premium futuristic developer portfolio / digital creator landing page.
 
-</div>
-
----
-
-<div align="center">
-
-## ✦ I TURN IDEAS INTO <span style="color:#00E5FF;">DIGITAL</span> EXPERIENCES.
-
-### Front-End Development • React.js • UI Engineering • Photography
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🖥️ ABOUT ME
-
-```text
-sathish@dev ~ %
-
-$ whoami
-
-Sathishkumar K
-
-$ role:
-Front-End Developer
-
-$ focus:
-React.js
-JavaScript
-Modern Web Development
-
-$ goal:
-Full Stack Developer
-
-$ interests:
-Technology
-UI/UX
-Photography
+TECH STACK:
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React icons
+- No Bootstrap
