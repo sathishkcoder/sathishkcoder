@@ -1,330 +1,277 @@
-<!-- ====================================================== -->
+<div align="center">
 
-<!--           SATHISHKOFFICIAL01 — GITHUB PROFILE          -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,50:0B1018,100:030508&height=10&section=header"/>
 
-<!-- ====================================================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00D9FF&height=220&section=header&text=SATHISHKOFFICIAL01&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=FRONT-END+DEVELOPER;REACT.JS+DEVELOPER;ASPIRING+FULL+STACK+DEVELOPER;BUILDING+MODERN+WEB+EXPERIENCES;CODE+%7C+CREATE+%7C+CAPTURE" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00D9FF?style=for-the-badge&labelColor=050505"/>
-  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-FFFFFF?style=for-the-badge&labelColor=050505"/>
-  <img src="https://img.shields.io/badge/BASE-TAMIL%20NADU-00D9FF?style=for-the-badge&labelColor=050505"/>
-</p>
-
----
-
-# `01` — DIGITAL IDENTITY
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   S A T H I S H K U M A R   K                                ║
-║                                                              ║
-║   FRONT-END DEVELOPER                                       ║
-║   REACT.JS DEVELOPER                                        ║
-║   ASPIRING FULL STACK DEVELOPER                             ║
-║                                                              ║
-║   > Building clean interfaces                               ║
-║   > Learning modern technologies                             ║
-║   > Turning ideas into digital experiences                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <i>“Build something meaningful. Learn something new. Repeat.”</i>
-</p>
-
----
-
-# `02` — SYSTEM PROFILE
-
-```javascript
-const SATHISH = {
-    name: "Sathishkumar K",
-    username: "SATHISHKOFFICIAL01",
-
-    role: [
-        "Front-End Developer",
-        "React.js Developer",
-        "Aspiring Full Stack Developer"
-    ],
-
-    currentlyLearning: [
-        "React.js",
-        "Python",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "REST APIs"
-    ],
-
-    interests: [
-        "Web Development",
-        "UI/UX",
-        "Creative Design",
-        "Photography"
-    ],
-
-    philosophy:
-        "Learn → Build → Improve → Repeat"
-};
-```
-
----
-
-# `03` — TECH ARSENAL
-
-### `FRONT-END`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite" />
-</p>
-
-### `BACK-END`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
-</p>
-
-### `DATABASE & API`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postman" />
-</p>
-
-### `TOOLS`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
-</p>
-
----
-
-# `04` — DEVELOPER LEVEL
-
-```text
-HTML5              ████████████████████  90%
-CSS3               ███████████████████░  85%
-JavaScript         ██████████████████░░  80%
-React.js           ████████████████░░░░  75%
-Git / GitHub        ██████████████████░░  80%
-Python              ███████████████░░░░░  70%
-Node.js             █████████████░░░░░░░  65%
-MongoDB             ████████████░░░░░░░░  60%
-```
-
----
-
-# `05` — SELECTED PROJECTS
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="middle">
 
-### 🛒 E-COMMERCE
+<sub>⟨/⟩ DIGITAL CREATOR</sub>
 
-Modern responsive shopping interface with clean UI and interactive components.
+# SATHISHKUMAR <span style="color:#00E5FF">K</span>
 
-**Stack**
+### <span style="color:#00E5FF">FRONT-END</span> DEVELOPER
+### <span style="color:#8B5CFF">REACT.JS</span> DEVELOPER
 
-`React.js` `JavaScript` `CSS`
+Building interfaces.
+Exploring technology.
+Capturing moments.
 
-</td>
+🟢 **AVAILABLE FOR OPPORTUNITIES**
 
-<td width="50%">
+`</> CODE`&nbsp;&nbsp;&nbsp;`✦ CREATE`&nbsp;&nbsp;&nbsp;`▣ CAPTURE`&nbsp;&nbsp;&nbsp;`✦ INSPIRE`
 
-### 🎓 STUDENT MANAGEMENT
-
-Web application concept for managing student information and records.
-
-**Stack**
-
-`React.js` `JavaScript` `CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✅ TO-DO APPLICATION
-
-Simple productivity application focused on clean UX and dynamic functionality.
-
-**Stack**
-
-`React.js` `JavaScript` `CSS`
+[![GitHub](https://img.shields.io/badge/GitHub-030508?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/sathishkofficial01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-030508?style=for-the-badge&logo=linkedin&logoColor=168CFF)](https://linkedin.com/in/sathishkofficial01)
+[![Email](https://img.shields.io/badge/Email-030508?style=for-the-badge&logo=gmail&logoColor=8B5CFF)](mailto:sathishkofficial01@gmail.com)
 
 </td>
+<td width="40%" align="center">
 
-<td width="50%">
-
-### 🚀 NEXT PROJECT
-
-Currently building something new.
-
-```text
-STATUS: IN DEVELOPMENT
-```
+<img src="assets/profile.jpg" width="320" style="border-radius:12px" alt="Sathishkumar K"/>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# `06` — DEVELOPMENT JOURNEY
+<br>
 
-```text
-                         2026
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   JAVASCRIPT    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    REACT.JS     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     PYTHON      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ NODE + EXPRESS  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     MONGODB     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │  FULL STACK 🚀  │
-                 └─────────────────┘
+<!-- ============ SIGNATURE STATEMENT ============ -->
+<div align="center">
+
+## I TURN IDEAS INTO <span style="color:#00E5FF">DIGITAL</span> EXPERIENCES.
+
+`Front-End Development` • `React.js` • `UI Engineering` • `Photography`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:168CFF,100:8B5CFF&height=3&width=1000"/>
+
+</div>
+
+<br>
+
+<!-- ============ ABOUT ME ============ -->
+## ⟨/⟩ ABOUT ME
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```bash
+● ● ●
+sathish@dev ~ %
+
+$ whoami
+Sathishkumar K
+
+$ role
+Front-End Developer
+
+$ focus
+React.js, JavaScript, Modern Web Development
+
+$ goal
+Full Stack Developer
+
+$ interests
+Technology, UI/UX, Photography
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-# `07` — GITHUB COMMAND CENTER
+**ABOUT ME**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
+I'm a passionate Front-End Developer focused on creating responsive, modern and user-friendly digital experiences.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
+Currently expanding my skills in **React.js, Node.js, Python, Express.js, MongoDB** and modern full-stack technologies.
 
----
+I enjoy combining technical problem solving with visual creativity.
 
-# `08` — CONTRIBUTION MATRIX
+**Coding is my passion.**
+**Photography is my creative side.**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# `09` — GITHUB TROPHY ROOM
+<!-- ============ TECHNOLOGY CONSTELLATION ============ -->
+## ✦ TECHNOLOGY CONSTELLATION
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="95%"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb,git,github,vscode,figma,postman&theme=dark" />
 
-# `10` — BEYOND CODE
+</div>
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   💻  CODING                                       │
-│       Building digital experiences                 │
-│                                                     │
-│   📷  PHOTOGRAPHY                                  │
-│       Capturing visual stories                     │
-│                                                     │
-│   🎨  DESIGN                                       │
-│       Exploring creative interfaces                │
-│                                                     │
-│   ♟️  CHESS                                        │
-│       Strategy • Patience • Thinking               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+<br>
+
+<!-- ============ CURRENT FOCUS ============ -->
+## ▣ CURRENT FOCUS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 · FRONTEND ENGINEERING
+- React.js
+- JavaScript
+- Responsive UI
+- Component Architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 02 · FULL STACK JOURNEY
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · CREATIVE TECHNOLOGY
+- UI/UX
+- Visual Design
+- Photography
+- Digital Branding
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ============ SELECTED WORK ============ -->
+## ✦ SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**PROJECT 01 — E-COMMERCE EXPERIENCE**
+A modern responsive shopping experience built with React.js and modern frontend technologies.
+
+`React` `JavaScript` `CSS`
+
+[Live Demo](#) · [Code](#)
+
+</td>
+<td width="50%" valign="top">
+
+**PROJECT 02 — TASK MANAGEMENT**
+A clean productivity application with interactive task management functionality.
+
+`HTML` `CSS` `JavaScript`
+
+[Live Demo](#) · [Code](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**PROJECT 03 — STUDENT MANAGEMENT**
+A structured application for managing student records and information.
+
+`React.js` `Node.js` `MongoDB`
+
+[Live Demo](#) · [Code](#)
+
+</td>
+<td width="50%" valign="top">
+
+**PROJECT 04 — PERSONAL PORTFOLIO**
+A cinematic personal portfolio focused on developer branding and modern UI.
+
+`React.js` `JavaScript` `CSS`
+
+[Live Demo](#) · [Code](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ============ GITHUB ACTIVITY ============ -->
+## ▣ GITHUB / ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0B1018&title_color=00E5FF&icon_color=8B5CFF&text_color=E8EDF5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0B1018&title_color=00E5FF&text_color=E8EDF5"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=dark&hide_border=true&background=0B1018&ring=00E5FF&fire=8B5CFF&currStreakLabel=00E5FF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=react-dark&bg_color=0B1018&color=00E5FF&line=168CFF&point=8B5CFF&hide_border=true"/>
+
+</div>
+
+> Replace `sathishkofficial01` above with your exact GitHub username if it differs — these widgets pull **live** data automatically, no manual updates needed.
+
+<br>
+
+<!-- ============ LEARNING ROADMAP ============ -->
+## ✦ LEARNING ROADMAP
+
+```
+2025 — FOUNDATIONS      HTML · CSS · JavaScript · Git
+        │
+        ▼
+2026 — FULL STACK       React · Node.js · Express · MongoDB
+        │
+        ▼
+NEXT — ADVANCED         Next.js · TypeScript · System Design · Cloud
+        │
+        ▼
+GOAL                    FULL STACK ENGINEER
 ```
 
-<p align="center">
-  <b>CODE × DESIGN × PHOTOGRAPHY</b>
-</p>
+<br>
 
----
+<!-- ============ BEYOND CODE ============ -->
+## ◆ BEYOND CODE
 
-# `11` — CONNECT
+### WHEN I'M NOT BUILDING, I'M CAPTURING.
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="assets/photo1.jpg" width="23%"/> <img src="assets/photo2.jpg" width="23%"/> <img src="assets/photo3.jpg" width="23%"/> <img src="assets/photo4.jpg" width="23%"/>
 
-<a href="https://www.linkedin.com/in/sathishkofficial01/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+*CAPTURING MOMENTS. CREATING STORIES.*
 
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-</p>
+<br>
 
----
+<!-- ============ CONNECT ============ -->
+## CONNECT WITH ME
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
+### SATHISHKOFFICIAL01
+**CODE × CREATE × CAPTURE**
 
-# React + Vite
+[![GitHub](https://img.shields.io/badge/github.com/sathishkofficial01-030508?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/sathishkofficial01)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/sathishkofficial01-030508?style=for-the-badge&logo=linkedin&logoColor=168CFF)](https://linkedin.com/in/sathishkofficial01)
+[![Email](https://img.shields.io/badge/sathishkofficial01@gmail.com-030508?style=for-the-badge&logo=gmail&logoColor=8B5CFF)](mailto:sathishkofficial01@gmail.com)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<br>
 
-Currently, two official plugins are available:
+## LET'S BUILD SOMETHING GREAT. →
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**SATHISHKOFFICIAL01**
+*Learn. Build. Create. Repeat.*
 
-## React Compiler
+© SATHISHKUMAR K
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,50:0B1018,100:030508&height=80&section=footer"/>
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-
-
-```text
-SATHISHKOFFICIAL01
-BUILD • CREATE • EVOLVE
-```
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:07111f,100:050505&height=120&section=footer"/>
-</p>
+</div>
