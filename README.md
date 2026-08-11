@@ -1,96 +1,44 @@
 <!-- ========================================================= -->
-<!--                 SATHISHKOFFICIAL01                        -->
-<!--            PREMIUM GITHUB PROFILE README                  -->
+<!--              SATHISHKOFFICIAL01 | PROFILE                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="./assets/hero-banner.png" width="100%" alt="Sathishkumar K GitHub Banner"/>
-
-<br/>
-
-# ⚡ SATHISHKUMAR K
-
-### `Front-End Developer` • `React.js Developer` • `Aspiring Full Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38D9FF&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;React.js+Developer;Full+Stack+Developer+In+Progress;Code+%7C+Create+%7C+Capture+%7C+Inspire" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=PROFILE+VIEWS&color=38D9FF&style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-SATHISHKOFFICIAL01-0B0E12?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathishkofficial01/">
-<img src="https://img.shields.io/badge/LinkedIn-SATHISHKUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050608,50:07111F,100:120B24&text=SATHISHKUMAR%20K&fontColor=D8DEE9&fontSize=48&fontAlignY=42&desc=FRONT-END%20DEVELOPER%20%7C%20REACT.JS%20DEVELOPER&descAlignY=65&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 
-## ✦ I TURN IDEAS INTO DIGITAL EXPERIENCES ✦
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React.js+Developer;Aspiring+Full+Stack+Developer;Code+%7C+Create+%7C+Capture+%7C+Inspire" />
 
-**Front-End Development • React.js • UI Engineering • Photography**
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=PROFILE%20VIEWS&color=38D9FF&style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
-# 👨‍💻 ABOUT ME
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="48%" valign="top">
+<td width="58%" valign="middle">
 
-### 🖥️ `sathish@dev ~ %`
+<h3>⚡ / DIGITAL CREATOR</h3>
 
-```javascript
-const sathish = {
+<h1>SATHISHKUMAR <font color="#38D9FF">K</font></h1>
 
-    name: "Sathishkumar K",
+<h3>
+FRONT-END DEVELOPER<br>
+REACT.JS DEVELOPER
+</h3>
 
-    username: "sathishkofficial01",
-
-    role: [
-        "Front-End Developer",
-        "React.js Developer",
-        "Aspiring Full Stack Developer"
-    ],
-
-    focus: [
-        "React.js",
-        "JavaScript",
-        "Modern Web Development"
-    ],
-
-    learning: [
-        "Node.js",
-        "Express.js",
-        "Python",
-        "MongoDB",
-        "Next.js",
-        "TypeScript"
-    ],
-
-    interests: [
-        "Web Development",
-        "UI/UX",
-        "Photography",
-        "Technology"
-    ],
-
-    mindset:
-        "Learn • Build • Improve • Repeat 🚀"
-};
+```text
+Building interfaces.
+Exploring technology.
+Capturing moments.
